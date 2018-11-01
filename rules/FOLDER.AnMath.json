@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.cyzapps.AnMath"
+  ],
+  "authors": [
+    "LimaXRomeo"
+  ],
+  "title": {
+    "source": {
+      "zh": "科学计算器+ 导出的文件"
+    },
+    "defaultSource": "科学计算器+ 导出的文件"
+  }
+}

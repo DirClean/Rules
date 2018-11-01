@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqpinyin"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Qq输入法日志"
+    },
+    "defaultSource": "Qq输入法日志"
+  }
+}

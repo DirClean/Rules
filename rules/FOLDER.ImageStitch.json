@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "bos.consoar.imagestitch"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "图片拼接PPIICC生成的长图"
+    },
+    "defaultSource": "图片拼接PPIICC生成的长图"
+  }
+}

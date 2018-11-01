@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.dewmobile.kuaiya"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "蠢黑通行"
+  ],
+  "title": {
+    "source": {
+      "zh": "快牙接收的文件"
+    },
+    "defaultSource": "快牙接收的文件"
+  }
+}

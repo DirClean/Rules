@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.cn21.ecloud.family"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "家庭云（卸载残余）"
+    },
+    "defaultSource": "家庭云（卸载残余）"
+  }
+}

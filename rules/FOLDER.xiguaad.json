@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "tv.danmaku.ijk.media.demo"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "西瓜播放器广告"
+    },
+    "defaultSource": "西瓜播放器广告"
+  }
+}

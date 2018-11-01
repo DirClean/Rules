@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "LimaXRomeo"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ保存的高清头像"
+    },
+    "defaultSource": "QQ保存的高清头像"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "maple3142"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜索lite天氣小部件記錄檔"
+    },
+    "defaultSource": "搜索lite天氣小部件記錄檔"
+  }
+}

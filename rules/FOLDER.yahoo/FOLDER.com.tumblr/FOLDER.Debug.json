@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tumblr"
+  ],
+  "authors": [
+    "fanKXXD"
+  ],
+  "title": {
+    "source": {
+      "zh": "debug logs"
+    },
+    "defaultSource": "debug logs"
+  }
+}

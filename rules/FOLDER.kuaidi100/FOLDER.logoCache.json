@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.Kingdee.Express"
+  ],
+  "authors": [
+    "himeope"
+  ],
+  "title": {
+    "source": {
+      "zh": "快递100缓存的logo"
+    },
+    "defaultSource": "快递100缓存的logo"
+  }
+}

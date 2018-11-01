@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sdu.didi.psnger"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "滴滴出行日志"
+    },
+    "defaultSource": "滴滴出行日志"
+  }
+}

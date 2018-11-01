@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.fenbi.android.gaozhong"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "猿题库自动更新的安装包"
+    },
+    "defaultSource": "猿题库自动更新的安装包"
+  }
+}

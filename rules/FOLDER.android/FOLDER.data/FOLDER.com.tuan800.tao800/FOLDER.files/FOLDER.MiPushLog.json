@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tuan800.tao800"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "折800小米推送日志"
+    },
+    "defaultSource": "折800小米推送日志"
+  }
+}

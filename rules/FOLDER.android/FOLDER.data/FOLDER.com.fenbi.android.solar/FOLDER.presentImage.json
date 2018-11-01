@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.fenbi.android.solar"
+  ],
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "小猿搜题启动图广告"
+    },
+    "defaultSource": "小猿搜题启动图广告"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "app"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ发送的图片"
+    },
+    "defaultSource": "QQ发送的图片"
+  }
+}

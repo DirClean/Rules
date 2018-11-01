@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.weread"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信读书卸载残留"
+    },
+    "defaultSource": "微信读书卸载残留"
+  }
+}

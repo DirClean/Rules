@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.cliff"
+  ],
+  "authors": [
+    "只是一个吃货"
+  ],
+  "title": {
+    "source": {
+      "zh": "藏书馆APP卸载残留"
+    },
+    "defaultSource": "藏书馆APP卸载残留"
+  }
+}

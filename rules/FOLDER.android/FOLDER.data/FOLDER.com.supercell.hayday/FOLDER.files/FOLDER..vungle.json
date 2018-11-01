@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.supercell.hayday"
+  ],
+  "authors": [
+    "废柴也有春天"
+  ],
+  "title": {
+    "source": {
+      "zh": "卡通农场广告缓存"
+    },
+    "defaultSource": "卡通农场广告缓存"
+  }
+}

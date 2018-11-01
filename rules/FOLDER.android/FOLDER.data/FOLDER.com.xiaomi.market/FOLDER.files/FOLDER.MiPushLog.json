@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.market"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米应用市场日志"
+    },
+    "defaultSource": "小米应用市场日志"
+  }
+}

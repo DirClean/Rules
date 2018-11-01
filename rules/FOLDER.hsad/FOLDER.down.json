@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.nfyg.hsbb"
+  ],
+  "authors": [
+    "x4455"
+  ],
+  "title": {
+    "source": {
+      "zh": "花生地铁WiFi广告缓存"
+    },
+    "defaultSource": "花生地铁WiFi广告缓存"
+  }
+}

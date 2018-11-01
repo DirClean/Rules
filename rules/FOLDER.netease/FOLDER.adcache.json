@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.cloudmusic"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云音乐广告图"
+    },
+    "defaultSource": "网易云音乐广告图"
+  }
+}

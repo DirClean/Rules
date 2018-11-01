@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "org.zooper.zwpro"
+  ],
+  "authors": [
+    "david082321"
+  ],
+  "title": {
+    "source": {
+      "zh": "ZooperWidget 数据"
+    },
+    "defaultSource": "ZooperWidget 数据"
+  }
+}

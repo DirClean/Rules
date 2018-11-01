@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.deosapps.musicplayer"
+  ],
+  "authors": [
+    "QAQ"
+  ],
+  "title": {
+    "source": {
+      "zh": "脉冲播放器"
+    },
+    "defaultSource": "脉冲播放器"
+  }
+}

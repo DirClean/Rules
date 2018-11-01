@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.huati"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "葫芦侠三楼下载缓存"
+    },
+    "defaultSource": "葫芦侠三楼下载缓存"
+  }
+}

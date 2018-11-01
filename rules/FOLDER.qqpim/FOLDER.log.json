@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqpim"
+  ],
+  "authors": [
+    "Microsoft"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ同步助手日志"
+    },
+    "defaultSource": "QQ同步助手日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.itcode.reader"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "漫漫漫画日志"
+    },
+    "defaultSource": "漫漫漫画日志"
+  }
+}

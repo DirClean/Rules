@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.clashroyal.toolbox"
+  ],
+  "authors": [
+    "还不算晚"
+  ],
+  "title": {
+    "source": {
+      "zh": "皇室战争盒子残留"
+    },
+    "defaultSource": "皇室战争盒子残留"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.pplive.androidphone"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "PPTV视频广告缓存"
+    },
+    "defaultSource": "PPTV视频广告缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.bocharov.xposed.fsbi"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "FSBI日志"
+    },
+    "defaultSource": "FSBI日志"
+  }
+}

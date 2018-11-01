@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐DTS音效无用apk"
+    },
+    "defaultSource": "QQ音乐DTS音效无用apk"
+  }
+}

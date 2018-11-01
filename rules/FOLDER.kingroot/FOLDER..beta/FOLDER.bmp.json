@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingroot.kinguser"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "KingRoot beta计划缓存"
+    },
+    "defaultSource": "KingRoot beta计划缓存"
+  }
+}

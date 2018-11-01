@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "sogou.mobile.explorer"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗浏览器启动图广告"
+    },
+    "defaultSource": "搜狗浏览器启动图广告"
+  }
+}

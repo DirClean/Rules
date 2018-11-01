@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.chaoxing.mobile"
+  ],
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "超星产生的日志文件"
+    },
+    "defaultSource": "超星产生的日志文件"
+  }
+}

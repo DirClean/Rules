@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.eonsun.myreader"
+  ],
+  "authors": [
+    "Dream妖尾"
+  ],
+  "title": {
+    "source": {
+      "zh": "老子搜书广告"
+    },
+    "defaultSource": "老子搜书广告"
+  }
+}

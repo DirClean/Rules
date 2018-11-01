@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.kugou.android"
+  ],
+  "authors": [
+    "膜法和科学 "
+  ],
+  "title": {
+    "source": {
+      "zh": "酷狗广告"
+    },
+    "defaultSource": "酷狗广告"
+  }
+}

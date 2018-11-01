@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "bubei.tingshu"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "懒人听书日志"
+    },
+    "defaultSource": "懒人听书日志"
+  }
+}

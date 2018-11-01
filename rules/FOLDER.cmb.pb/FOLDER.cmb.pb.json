@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cmb.pb"
+  ],
+  "authors": [
+    "MosDos"
+  ],
+  "title": {
+    "source": {
+      "zh": "招商银行日志文件"
+    },
+    "defaultSource": "招商银行日志文件"
+  }
+}

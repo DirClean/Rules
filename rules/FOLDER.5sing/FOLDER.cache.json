@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sing.client"
+  ],
+  "authors": [
+    "david082321"
+  ],
+  "title": {
+    "source": {
+      "zh": "5sing缓存"
+    },
+    "defaultSource": "5sing缓存"
+  }
+}

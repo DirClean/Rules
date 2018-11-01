@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.mokee.center"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "PIRA"
+  ],
+  "title": {
+    "source": {
+      "zh": "魔趣中心下载的系统更新包"
+    },
+    "defaultSource": "魔趣中心下载的系统更新包"
+  }
+}

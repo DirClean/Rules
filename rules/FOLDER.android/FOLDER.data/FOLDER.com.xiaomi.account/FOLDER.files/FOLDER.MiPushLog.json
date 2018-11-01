@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.account"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "我的小米推送日志"
+    },
+    "defaultSource": "我的小米推送日志"
+  }
+}

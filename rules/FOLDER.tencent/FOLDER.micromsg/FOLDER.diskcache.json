@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mm"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信缓存"
+    },
+    "defaultSource": "微信缓存"
+  }
+}

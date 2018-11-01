@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.lenovo.launcher"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "liyujx"
+  ],
+  "title": {
+    "source": {
+      "zh": "联想桌面备份和配置文件夹"
+    },
+    "defaultSource": "联想桌面备份和配置文件夹"
+  }
+}

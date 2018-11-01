@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sohu.inputmethod.sogou"
+  ],
+  "authors": [
+    "cqycczq"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗输入法的日志文件"
+    },
+    "defaultSource": "搜狗输入法的日志文件"
+  }
+}

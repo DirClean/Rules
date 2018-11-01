@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.miui.gallery"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米云相册缓存"
+    },
+    "defaultSource": "小米云相册缓存"
+  }
+}

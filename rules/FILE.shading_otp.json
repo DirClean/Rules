@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "maple3142"
+  ],
+  "title": {
+    "source": {
+      "zh": "shading_otp記錄檔"
+    },
+    "defaultSource": "shading_otp記錄檔"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "无用垃圾文件"
+    },
+    "defaultSource": "无用垃圾文件"
+  }
+}

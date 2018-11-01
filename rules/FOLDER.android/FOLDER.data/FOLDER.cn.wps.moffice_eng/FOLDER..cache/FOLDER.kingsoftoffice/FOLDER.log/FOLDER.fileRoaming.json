@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.wps.moffice_eng"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "WPS OFFICE 日志文件"
+    },
+    "defaultSource": "WPS OFFICE 日志文件"
+  }
+}

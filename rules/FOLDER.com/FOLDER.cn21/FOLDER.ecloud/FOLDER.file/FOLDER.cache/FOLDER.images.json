@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.cn21.ecloud"
+  ],
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "天翼云盘图片缓存"
+    },
+    "defaultSource": "天翼云盘图片缓存"
+  }
+}

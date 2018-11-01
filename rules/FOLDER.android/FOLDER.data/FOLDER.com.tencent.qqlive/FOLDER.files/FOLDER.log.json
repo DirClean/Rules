@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqlive"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯视频日志"
+    },
+    "defaultSource": "腾讯视频日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.btows.photo"
+  ],
+  "authors": [
+    "Microsoft"
+  ],
+  "title": {
+    "source": {
+      "zh": "理理相册日志"
+    },
+    "defaultSource": "理理相册日志"
+  }
+}

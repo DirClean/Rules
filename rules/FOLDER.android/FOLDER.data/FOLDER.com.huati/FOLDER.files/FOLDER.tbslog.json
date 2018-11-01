@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.huati"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "葫芦侠3楼TBS内核日志"
+    },
+    "defaultSource": "葫芦侠3楼TBS内核日志"
+  }
+}

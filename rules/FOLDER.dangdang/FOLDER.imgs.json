@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.dangdang.buy2"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "当当图片缓存"
+    },
+    "defaultSource": "当当图片缓存"
+  }
+}

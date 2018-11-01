@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.yunxiao.haofenshu"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "好分数更新目录"
+    },
+    "defaultSource": "好分数更新目录"
+  }
+}

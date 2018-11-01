@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "cn.wps.moffice_eng"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "wps字体缓存"
+    },
+    "defaultSource": "wps字体缓存"
+  }
+}

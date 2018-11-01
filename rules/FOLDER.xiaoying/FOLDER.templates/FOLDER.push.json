@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.quvideo.xiaoying"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "小影推送缓存"
+    },
+    "defaultSource": "小影推送缓存"
+  }
+}

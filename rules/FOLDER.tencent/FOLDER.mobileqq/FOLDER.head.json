@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ头像缓存（删除会导致需重新加载头像缓存，流量党谨慎）"
+    },
+    "defaultSource": "QQ头像缓存（删除会导致需重新加载头像缓存，流量党谨慎）"
+  }
+}

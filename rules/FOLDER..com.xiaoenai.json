@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaoenai.app"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "小恩爱日志文件"
+    },
+    "defaultSource": "小恩爱日志文件"
+  }
+}

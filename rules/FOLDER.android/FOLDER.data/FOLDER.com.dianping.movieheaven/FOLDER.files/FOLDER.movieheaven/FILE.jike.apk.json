@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.dianping.movieheaven"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "电影天堂自动下载的  即刻"
+    },
+    "defaultSource": "电影天堂自动下载的  即刻"
+  }
+}

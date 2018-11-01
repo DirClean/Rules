@@ -1,0 +1,13 @@
+{
+  "mode": 2,
+  "pkg": [],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯推送日志"
+    },
+    "defaultSource": "腾讯推送日志"
+  }
+}

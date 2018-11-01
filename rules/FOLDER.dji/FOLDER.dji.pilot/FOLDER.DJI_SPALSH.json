@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "dji.pilot"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "Dji Go 启动页广告"
+    },
+    "defaultSource": "Dji Go 启动页广告"
+  }
+}

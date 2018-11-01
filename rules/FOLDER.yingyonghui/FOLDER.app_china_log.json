@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.yingyonghui.market"
+  ],
+  "authors": [
+    "猫的薛定谔"
+  ],
+  "title": {
+    "source": {
+      "zh": "app China日志目录"
+    },
+    "defaultSource": "app China日志目录"
+  }
+}

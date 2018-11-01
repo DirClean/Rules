@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "pro.kisscat.www.bookmarkhelper"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "书签助手日志"
+    },
+    "defaultSource": "书签助手日志"
+  }
+}

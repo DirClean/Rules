@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.netease.newsreader.activity"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易新闻日志"
+    },
+    "defaultSource": "网易新闻日志"
+  }
+}

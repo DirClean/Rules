@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.netease.edu.study"
+  ],
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云课堂日志文件"
+    },
+    "defaultSource": "网易云课堂日志文件"
+  }
+}

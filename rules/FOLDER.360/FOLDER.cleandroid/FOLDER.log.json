@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qihoo.cleandroid_cn"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "360清理大师日志文件"
+    },
+    "defaultSource": "360清理大师日志文件"
+  }
+}

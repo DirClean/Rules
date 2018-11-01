@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.caishi.cronus"
+  ],
+  "authors": [
+    "AE308"
+  ],
+  "title": {
+    "source": {
+      "zh": "唔哩头条缓存"
+    },
+    "defaultSource": "唔哩头条缓存"
+  }
+}

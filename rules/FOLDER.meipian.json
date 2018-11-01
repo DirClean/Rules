@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.lanjingren.ivwen"
+  ],
+  "authors": [
+    "magical"
+  ],
+  "title": {
+    "source": {
+      "zh": "美篇Splash广告文件"
+    },
+    "defaultSource": "美篇Splash广告文件"
+  }
+}

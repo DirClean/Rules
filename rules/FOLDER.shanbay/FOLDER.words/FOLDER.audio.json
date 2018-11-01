@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.shanbay.words"
+  ],
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝单词音频缓存"
+    },
+    "defaultSource": "扇贝单词音频缓存"
+  }
+}

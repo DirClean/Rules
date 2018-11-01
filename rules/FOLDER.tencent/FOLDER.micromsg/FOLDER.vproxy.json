@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mm"
+  ],
+  "authors": [
+    "FFF"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信公众号视频缓存"
+    },
+    "defaultSource": "微信公众号视频缓存"
+  }
+}

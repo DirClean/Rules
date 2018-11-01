@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.baidu.netdisk"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度网盘启动页广告"
+    },
+    "defaultSource": "百度网盘启动页广告"
+  }
+}

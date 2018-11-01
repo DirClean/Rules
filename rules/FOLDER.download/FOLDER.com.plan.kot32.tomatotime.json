@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.plan.kot32.tomatotime"
+  ],
+  "authors": [
+    "Kengkeng_Keke"
+  ],
+  "title": {
+    "source": {
+      "zh": "番茄ToDo卸载残留"
+    },
+    "defaultSource": "番茄ToDo卸载残留"
+  }
+}

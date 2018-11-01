@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.alensw.PicFolder"
+  ],
+  "authors": [
+    "hehedi233"
+  ],
+  "title": {
+    "source": {
+      "zh": "快图浏览云缓存图片"
+    },
+    "defaultSource": "快图浏览云缓存图片"
+  }
+}

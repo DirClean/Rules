@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.lordclockan"
+  ],
+  "authors": [
+    "xiaoxi654"
+  ],
+  "title": {
+    "source": {
+      "zh": "AICP ROM的更新包"
+    },
+    "defaultSource": "AICP ROM的更新包"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.youku.phone"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "优酷缓存数据"
+    },
+    "defaultSource": "优酷缓存数据"
+  }
+}

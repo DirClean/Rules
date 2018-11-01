@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "jyeoo.app.ystudy"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "菁优网日志"
+    },
+    "defaultSource": "菁优网日志"
+  }
+}

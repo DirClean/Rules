@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kekeclient_"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "可可英语缓存"
+    },
+    "defaultSource": "可可英语缓存"
+  }
+}

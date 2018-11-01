@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.wps.moffice_yota"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "WPS YOTA日志"
+    },
+    "defaultSource": "WPS YOTA日志"
+  }
+}

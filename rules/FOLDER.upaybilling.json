@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.paypal.android.p2pmobile"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "paypal（卸载残余）"
+    },
+    "defaultSource": "paypal（卸载残余）"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kuaikan.comic"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "快看漫画缓存"
+    },
+    "defaultSource": "快看漫画缓存"
+  }
+}

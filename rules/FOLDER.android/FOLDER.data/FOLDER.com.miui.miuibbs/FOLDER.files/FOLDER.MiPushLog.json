@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.miui.miuibbs"
+  ],
+  "authors": [
+    "膜法和科学 "
+  ],
+  "title": {
+    "source": {
+      "zh": "miui论坛mipush log"
+    },
+    "defaultSource": "miui论坛mipush log"
+  }
+}

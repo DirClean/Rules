@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.providers.downloads"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI系统下载管理日志"
+    },
+    "defaultSource": "MIUI系统下载管理日志"
+  }
+}

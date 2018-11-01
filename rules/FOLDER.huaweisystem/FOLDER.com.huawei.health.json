@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.huawei.health"
+  ],
+  "authors": [
+    "FFF"
+  ],
+  "title": {
+    "source": {
+      "zh": "华为运动健康日志"
+    },
+    "defaultSource": "华为运动健康日志"
+  }
+}

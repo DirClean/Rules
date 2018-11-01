@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.android.thememanager"
+  ],
+  "authors": [
+    "天殇"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI主题界面广告"
+    },
+    "defaultSource": "MIUI主题界面广告"
+  }
+}

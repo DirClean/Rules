@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.toshiba.apkmanager"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "MX应用管理数据库"
+    },
+    "defaultSource": "MX应用管理数据库"
+  }
+}

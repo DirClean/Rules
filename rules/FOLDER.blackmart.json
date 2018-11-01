@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "org.blackmart.market"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "黑市场"
+    },
+    "defaultSource": "黑市场"
+  }
+}

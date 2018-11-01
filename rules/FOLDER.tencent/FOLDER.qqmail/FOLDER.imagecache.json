@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.androidqqmail"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ邮箱图片缓存"
+    },
+    "defaultSource": "QQ邮箱图片缓存"
+  }
+}

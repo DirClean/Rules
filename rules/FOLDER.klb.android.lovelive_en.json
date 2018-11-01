@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "klb.android.lovelive_en"
+  ],
+  "authors": [
+    "app"
+  ],
+  "title": {
+    "source": {
+      "zh": "sif的垃圾文件夹"
+    },
+    "defaultSource": "sif的垃圾文件夹"
+  }
+}

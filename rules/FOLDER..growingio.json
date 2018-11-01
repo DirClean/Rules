@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.goplaycn.googleinstall"
+  ],
+  "authors": [
+    "LimaXRomeo"
+  ],
+  "title": {
+    "source": {
+      "zh": "Go谷歌安装器临时文件"
+    },
+    "defaultSource": "Go谷歌安装器临时文件"
+  }
+}

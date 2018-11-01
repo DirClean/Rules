@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.chinamworld.main"
+  ],
+  "authors": [
+    "MosDos"
+  ],
+  "title": {
+    "source": {
+      "zh": "建设银行广告图"
+    },
+    "defaultSource": "建设银行广告图"
+  }
+}

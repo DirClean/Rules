@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "cn.kuwo.playes"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "枫柠檬"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷我音乐启动图"
+    },
+    "defaultSource": "酷我音乐启动图"
+  }
+}

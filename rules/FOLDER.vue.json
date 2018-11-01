@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "video.vue.android"
+  ],
+  "authors": [
+    "soyuzom"
+  ],
+  "title": {
+    "source": {
+      "zh": "VUE"
+    },
+    "defaultSource": "VUE"
+  }
+}

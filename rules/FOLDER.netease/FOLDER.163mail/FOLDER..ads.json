@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.mobimail"
+  ],
+  "authors": [
+    "shibeta"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易邮箱启动页广告"
+    },
+    "defaultSource": "网易邮箱启动页广告"
+  }
+}

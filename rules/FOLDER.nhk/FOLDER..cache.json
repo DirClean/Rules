@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "詎铯"
+  ],
+  "title": {
+    "source": {
+      "zh": "nhk新闻"
+    },
+    "defaultSource": "nhk新闻"
+  }
+}

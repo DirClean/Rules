@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "liyujx"
+  ],
+  "title": {
+    "source": {
+      "zh": "一些软件的无用空目录"
+    },
+    "defaultSource": "一些软件的无用空目录"
+  }
+}

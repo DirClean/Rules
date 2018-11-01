@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tencent.qqlive"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "视频广告"
+    },
+    "defaultSource": "视频广告"
+  }
+}

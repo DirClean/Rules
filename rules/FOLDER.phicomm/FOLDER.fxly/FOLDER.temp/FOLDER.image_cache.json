@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.phicomm.cloud.soho.router"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "斐讯路由广告（可替换）"
+    },
+    "defaultSource": "斐讯路由广告（可替换）"
+  }
+}

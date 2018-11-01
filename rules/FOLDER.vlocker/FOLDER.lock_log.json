@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.vlocker.locker"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "微锁屏日志"
+    },
+    "defaultSource": "微锁屏日志"
+  }
+}

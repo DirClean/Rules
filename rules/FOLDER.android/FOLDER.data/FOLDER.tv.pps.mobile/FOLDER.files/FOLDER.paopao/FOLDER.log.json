@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "tv.pps.mobile"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱奇艺PPS泡泡日志"
+    },
+    "defaultSource": "爱奇艺PPS泡泡日志"
+  }
+}

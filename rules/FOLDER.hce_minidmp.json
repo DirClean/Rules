@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.unionpay.uppay"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "lianggexp"
+  ],
+  "title": {
+    "source": {
+      "zh": "银联云闪付临时文件"
+    },
+    "defaultSource": "银联云闪付临时文件"
+  }
+}

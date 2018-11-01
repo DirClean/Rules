@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.vlocker.locker"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "微锁屏图片缓存"
+    },
+    "defaultSource": "微锁屏图片缓存"
+  }
+}

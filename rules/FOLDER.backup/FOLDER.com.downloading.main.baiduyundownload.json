@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.downloading.main.baiduyundownload"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "山寨云TBS内核残留"
+    },
+    "defaultSource": "山寨云TBS内核残留"
+  }
+}

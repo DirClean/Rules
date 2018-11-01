@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "bin.mt.plus"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "MT2文件管理器缩略图"
+    },
+    "defaultSource": "MT2文件管理器缩略图"
+  }
+}

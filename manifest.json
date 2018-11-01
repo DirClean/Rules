@@ -1,0 +1,17 @@
+{
+    "title": {
+       "source": {
+            "zh-rCN": "Dir 官方规则",
+            "en-US": "Dir offical source"
+        },
+        "defaultSource": "Dir official source"
+    },
+    "summary": {
+        "source": {
+            "zh-rCN": "由 Dir 团队人工审核的规则",
+            "en-US": "Rules had reviewed by Dir offical team"
+        },
+        "defaultSource": "Rules had reviewed by Dir offical team"
+    },
+    "author": "Dir Team"
+}

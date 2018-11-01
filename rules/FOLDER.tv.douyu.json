@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "air.tv.douyu.android"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "斗鱼"
+    },
+    "defaultSource": "斗鱼"
+  }
+}

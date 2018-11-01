@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.happyelements.AndroidAnimal.qq"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯应用宝版开心消消乐网络日志"
+    },
+    "defaultSource": "腾讯应用宝版开心消消乐网络日志"
+  }
+}

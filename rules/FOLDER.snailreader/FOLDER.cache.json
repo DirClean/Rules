@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.snailread"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易蜗牛读书缓存"
+    },
+    "defaultSource": "网易蜗牛读书缓存"
+  }
+}

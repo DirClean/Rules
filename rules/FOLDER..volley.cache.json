@@ -1,0 +1,13 @@
+{
+  "mode": 1,
+  "pkg": [],
+  "authors": [
+    "hzy2003"
+  ],
+  "title": {
+    "source": {
+      "zh": "缓存文件"
+    },
+    "defaultSource": "缓存文件"
+  }
+}

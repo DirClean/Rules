@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "cn.com.shouji.market"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "手机乐园垃圾图片"
+    },
+    "defaultSource": "手机乐园垃圾图片"
+  }
+}

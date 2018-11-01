@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.speedsoftware.rootexplorer"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "R.E 文件管理器默认解压目录"
+    },
+    "defaultSource": "R.E 文件管理器默认解压目录"
+  }
+}

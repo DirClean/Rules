@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.youku.phone"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "优酷广告缓存"
+    },
+    "defaultSource": "优酷广告缓存"
+  }
+}

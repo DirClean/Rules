@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.lincomb.licai"
+  ],
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "联璧金融日志文件"
+    },
+    "defaultSource": "联璧金融日志文件"
+  }
+}

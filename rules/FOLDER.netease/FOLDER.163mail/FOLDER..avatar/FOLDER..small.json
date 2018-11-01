@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.mobimail"
+  ],
+  "authors": [
+    "shibeta"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易邮箱发件人头像缓存"
+    },
+    "defaultSource": "网易邮箱发件人头像缓存"
+  }
+}

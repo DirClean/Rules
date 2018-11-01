@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.router"
+  ],
+  "authors": [
+    "Vstory"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米路由器日志"
+    },
+    "defaultSource": "小米路由器日志"
+  }
+}

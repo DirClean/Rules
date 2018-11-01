@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.cloudmusic"
+  ],
+  "authors": [
+    "magical"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云音乐新版广告"
+    },
+    "defaultSource": "网易云音乐新版广告"
+  }
+}

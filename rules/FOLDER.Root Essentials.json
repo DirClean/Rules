@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.superthomaslab.rootessentials"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "maple3142"
+  ],
+  "title": {
+    "source": {
+      "zh": "RootEss下載/備份文件"
+    },
+    "defaultSource": "RootEss下載/備份文件"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "org.ppsspp.ppsspp"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "ppsspp模拟器卸载残留"
+    },
+    "defaultSource": "ppsspp模拟器卸载残留"
+  }
+}

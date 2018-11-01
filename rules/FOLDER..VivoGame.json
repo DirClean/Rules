@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.vivo.game"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "vivo游戏中心垃圾文件"
+    },
+    "defaultSource": "vivo游戏中心垃圾文件"
+  }
+}

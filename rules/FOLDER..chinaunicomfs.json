@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "中国联通沃商店游戏插件缓存"
+    },
+    "defaultSource": "中国联通沃商店游戏插件缓存"
+  }
+}

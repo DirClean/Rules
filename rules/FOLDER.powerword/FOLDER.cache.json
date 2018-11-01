@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingsoft"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "金山词霸缓存"
+    },
+    "defaultSource": "金山词霸缓存"
+  }
+}

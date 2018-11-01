@@ -1,0 +1,13 @@
+{
+  "mode": 1,
+  "pkg": [],
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "Bash 命令执行缓存"
+    },
+    "defaultSource": "Bash 命令执行缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.ct.client"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "电信营业厅垃圾文件"
+    },
+    "defaultSource": "电信营业厅垃圾文件"
+  }
+}

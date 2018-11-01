@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.fooview.android.fooview"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "fooView卸载残留"
+    },
+    "defaultSource": "fooView卸载残留"
+  }
+}

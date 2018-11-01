@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.wallet"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度钱包图片缓存"
+    },
+    "defaultSource": "百度钱包图片缓存"
+  }
+}

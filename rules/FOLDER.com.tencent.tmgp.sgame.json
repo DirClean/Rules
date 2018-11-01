@@ -1,0 +1,13 @@
+{
+  "mode": 2,
+  "pkg": [],
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯游戏平台网络诊断日志"
+    },
+    "defaultSource": "腾讯游戏平台网络诊断日志"
+  }
+}

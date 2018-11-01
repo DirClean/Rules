@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qqpinyin"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ输入法临时文件"
+    },
+    "defaultSource": "QQ输入法临时文件"
+  }
+}

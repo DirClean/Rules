@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "net.basedog.deadtale"
+  ],
+  "authors": [
+    "Asoul"
+  ],
+  "title": {
+    "source": {
+      "zh": "死亡传说的unity推广广告文件"
+    },
+    "defaultSource": "死亡传说的unity推广广告文件"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.aspire.mm"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "MM应用商场日志"
+    },
+    "defaultSource": "MM应用商场日志"
+  }
+}

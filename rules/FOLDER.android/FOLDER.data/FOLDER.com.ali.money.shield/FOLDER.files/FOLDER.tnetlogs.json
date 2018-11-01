@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ali.money.shield"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "钱盾日志文件"
+    },
+    "defaultSource": "钱盾日志文件"
+  }
+}

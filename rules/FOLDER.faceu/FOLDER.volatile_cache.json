@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.lemon.faceu"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "Faceu激萌贴图缓存"
+    },
+    "defaultSource": "Faceu激萌贴图缓存"
+  }
+}

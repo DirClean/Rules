@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qt.qtl"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌上英雄联盟缓存"
+    },
+    "defaultSource": "掌上英雄联盟缓存"
+  }
+}

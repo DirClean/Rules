@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.lenovo.launcher"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "联想桌面日志"
+    },
+    "defaultSource": "联想桌面日志"
+  }
+}

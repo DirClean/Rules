@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sinovatech.gxmobile.ui"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "广西移动缓存文件"
+    },
+    "defaultSource": "广西移动缓存文件"
+  }
+}

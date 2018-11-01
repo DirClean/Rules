@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ空间发送说说gif缓存"
+    },
+    "defaultSource": "QQ空间发送说说gif缓存"
+  }
+}

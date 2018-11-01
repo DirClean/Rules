@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.vip"
+  ],
+  "authors": [
+    "膜法和科学 "
+  ],
+  "title": {
+    "source": {
+      "zh": "小米vip mipush log"
+    },
+    "defaultSource": "小米vip mipush log"
+  }
+}

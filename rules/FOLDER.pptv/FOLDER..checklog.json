@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.pplive.androidphone"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "PPTV启动日志"
+    },
+    "defaultSource": "PPTV启动日志"
+  }
+}

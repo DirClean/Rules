@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sina.weibo"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "新浪微博日志文件"
+    },
+    "defaultSource": "新浪微博日志文件"
+  }
+}

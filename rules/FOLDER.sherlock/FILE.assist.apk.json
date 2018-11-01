@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.wocao.sherlock"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Sherlocked安装包"
+    },
+    "defaultSource": "Sherlocked安装包"
+  }
+}

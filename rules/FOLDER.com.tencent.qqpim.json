@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqpim"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ同步助手日志文件"
+    },
+    "defaultSource": "QQ同步助手日志文件"
+  }
+}

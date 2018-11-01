@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.kuwo.tingshu"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷我听书FM缓存"
+    },
+    "defaultSource": "酷我听书FM缓存"
+  }
+}

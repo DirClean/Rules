@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.coolapk.market"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷安卸载残余"
+    },
+    "defaultSource": "酷安卸载残余"
+  }
+}

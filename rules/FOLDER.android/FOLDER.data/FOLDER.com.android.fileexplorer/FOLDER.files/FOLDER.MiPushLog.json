@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.fileexplorer"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI文件管理小米推送日志"
+    },
+    "defaultSource": "MIUI文件管理小米推送日志"
+  }
+}

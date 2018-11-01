@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ijinshan.kbatterydoctor"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "金山电池医生卸载残留"
+    },
+    "defaultSource": "金山电池医生卸载残留"
+  }
+}

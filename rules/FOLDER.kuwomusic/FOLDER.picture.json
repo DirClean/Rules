@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "cn.kuwo.player"
+  ],
+  "authors": [
+    "枫柠檬"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷我音乐启动广告"
+    },
+    "defaultSource": "酷我音乐启动广告"
+  }
+}

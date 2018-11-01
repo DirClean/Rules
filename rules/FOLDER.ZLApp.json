@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.phicomm.cloud.soho.router"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "斐讯路由"
+    },
+    "defaultSource": "斐讯路由"
+  }
+}

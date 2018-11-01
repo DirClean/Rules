@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.pplive.androidphone"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "聚力视频图片日志"
+    },
+    "defaultSource": "聚力视频图片日志"
+  }
+}

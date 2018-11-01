@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.iapp.app"
+  ],
+  "authors": [
+    "xieyuheng"
+  ],
+  "title": {
+    "source": {
+      "zh": "iapp下载缓存"
+    },
+    "defaultSource": "iapp下载缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.calendar"
+  ],
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米日历推送日志"
+    },
+    "defaultSource": "小米日历推送日志"
+  }
+}

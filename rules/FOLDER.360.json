@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "一氵王文刂水白又氵戋"
+  ],
+  "title": {
+    "source": {
+      "zh": "360卸载残留垃圾自动重生"
+    },
+    "defaultSource": "360卸载残留垃圾自动重生"
+  }
+}

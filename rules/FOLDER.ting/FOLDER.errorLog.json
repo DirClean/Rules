@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ximalaya.ting.android"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "喜马拉雅FM日志"
+    },
+    "defaultSource": "喜马拉雅FM日志"
+  }
+}

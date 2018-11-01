@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qq.ac.android"
+  ],
+  "authors": [
+    "david082321"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯动漫"
+    },
+    "defaultSource": "腾讯动漫"
+  }
+}

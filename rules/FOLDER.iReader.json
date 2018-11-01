@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.chaozh.iReaderFree"
+  ],
+  "authors": [
+    "QAQ"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌阅"
+    },
+    "defaultSource": "掌阅"
+  }
+}

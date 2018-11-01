@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.dsemu.drastic"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "激烈nds模拟器卸载残留"
+    },
+    "defaultSource": "激烈nds模拟器卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.hungrybolo.remotemouseandroid"
+  ],
+  "authors": [
+    "DBin_K"
+  ],
+  "title": {
+    "source": {
+      "zh": "RemoteMouse 垃圾"
+    },
+    "defaultSource": "RemoteMouse 垃圾"
+  }
+}

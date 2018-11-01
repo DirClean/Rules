@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "xxxxuanran"
+  ],
+  "title": {
+    "source": {
+      "zh": "茄子快传 对方应用缩略图"
+    },
+    "defaultSource": "茄子快传 对方应用缩略图"
+  }
+}

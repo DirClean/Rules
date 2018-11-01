@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "kh.android.everywallpaper"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "天天日图保存的图片"
+    },
+    "defaultSource": "天天日图保存的图片"
+  }
+}

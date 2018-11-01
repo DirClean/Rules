@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.duowan.mobile"
+  ],
+  "authors": [
+    "蠢黑通行"
+  ],
+  "title": {
+    "source": {
+      "zh": "手机YY缓存文件"
+    },
+    "defaultSource": "手机YY缓存文件"
+  }
+}

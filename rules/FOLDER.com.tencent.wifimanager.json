@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.wifimanager"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯WiFi管家垃圾缓存"
+    },
+    "defaultSource": "腾讯WiFi管家垃圾缓存"
+  }
+}

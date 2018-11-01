@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DBin_K"
+  ],
+  "title": {
+    "source": {
+      "zh": "TapTap升级安装包缓存"
+    },
+    "defaultSource": "TapTap升级安装包缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.baidu.homework"
+  ],
+  "authors": [
+    "天殇"
+  ],
+  "title": {
+    "source": {
+      "zh": "作业帮启动广告"
+    },
+    "defaultSource": "作业帮启动广告"
+  }
+}

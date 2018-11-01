@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qq.ac.android"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯动漫日志文件"
+    },
+    "defaultSource": "腾讯动漫日志文件"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.Noxygames.Lanota"
+  ],
+  "authors": [
+    "Asoul"
+  ],
+  "title": {
+    "source": {
+      "zh": "Lanota试玩版的unity推广广告"
+    },
+    "defaultSource": "Lanota试玩版的unity推广广告"
+  }
+}

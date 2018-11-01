@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.ushaqi.zhuishushenqi"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "追书神器主题缓存"
+    },
+    "defaultSource": "追书神器主题缓存"
+  }
+}

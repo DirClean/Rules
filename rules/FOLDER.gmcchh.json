@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingpoint.gmcchh"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "广东移动缓存文件"
+    },
+    "defaultSource": "广东移动缓存文件"
+  }
+}

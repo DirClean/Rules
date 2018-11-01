@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.dianping.movieheaven"
+  ],
+  "authors": [
+    "Zee6908"
+  ],
+  "title": {
+    "source": {
+      "zh": "电影天堂下载的广告安装包"
+    },
+    "defaultSource": "电影天堂下载的广告安装包"
+  }
+}

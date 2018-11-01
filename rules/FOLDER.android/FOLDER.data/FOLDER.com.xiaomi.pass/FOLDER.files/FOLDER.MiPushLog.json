@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.pass"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米卡包推送日志"
+    },
+    "defaultSource": "小米卡包推送日志"
+  }
+}

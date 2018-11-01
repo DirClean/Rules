@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.huluxia.gametools"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "葫芦侠缓存"
+    },
+    "defaultSource": "葫芦侠缓存"
+  }
+}

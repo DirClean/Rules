@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.xueersi.parentsmeeting"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "学而思网校视频"
+    },
+    "defaultSource": "学而思网校视频"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.iflytek.elpmobile.smartlearning"
+  ],
+  "authors": [
+    "膜法和科学 "
+  ],
+  "title": {
+    "source": {
+      "zh": "智学网splash广告"
+    },
+    "defaultSource": "智学网splash广告"
+  }
+}

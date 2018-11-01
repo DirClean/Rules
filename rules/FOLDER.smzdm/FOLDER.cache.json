@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.smzdm.client.android"
+  ],
+  "authors": [
+    "hzy2003"
+  ],
+  "title": {
+    "source": {
+      "zh": "什么值得买缓存"
+    },
+    "defaultSource": "什么值得买缓存"
+  }
+}

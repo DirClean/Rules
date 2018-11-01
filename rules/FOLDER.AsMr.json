@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.lbrvan.asmr"
+  ],
+  "authors": [
+    "ACyoyi"
+  ],
+  "title": {
+    "source": {
+      "zh": "AsMr下载数据"
+    },
+    "defaultSource": "AsMr下载数据"
+  }
+}

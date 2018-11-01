@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "cqycczq"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度地图缓存"
+    },
+    "defaultSource": "百度地图缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.qihoo.freewifi"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "360免费WIFI启动图"
+    },
+    "defaultSource": "360免费WIFI启动图"
+  }
+}

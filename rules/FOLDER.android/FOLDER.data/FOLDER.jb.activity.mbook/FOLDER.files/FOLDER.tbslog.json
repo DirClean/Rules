@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "jb.activity.mbook"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "GGBook小说阅读器TBS内核日志"
+    },
+    "defaultSource": "GGBook小说阅读器TBS内核日志"
+  }
+}

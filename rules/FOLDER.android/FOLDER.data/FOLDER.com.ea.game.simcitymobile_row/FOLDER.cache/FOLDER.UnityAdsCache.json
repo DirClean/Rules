@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.ea.game.simcitymobile_row"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "SimCity游戏广告缓存"
+    },
+    "defaultSource": "SimCity游戏广告缓存"
+  }
+}

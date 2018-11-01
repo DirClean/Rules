@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.hitokoto"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "一言自定义文本"
+    },
+    "defaultSource": "一言自定义文本"
+  }
+}

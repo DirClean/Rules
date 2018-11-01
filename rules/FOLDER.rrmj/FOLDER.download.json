@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.yyets.pro"
+  ],
+  "authors": [
+    "蠢黑通行"
+  ],
+  "title": {
+    "source": {
+      "zh": "人人美剧缓存的视频"
+    },
+    "defaultSource": "人人美剧缓存的视频"
+  }
+}

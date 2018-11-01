@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.chinamobile.hejushushang"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "和小宝图片缓存"
+    },
+    "defaultSource": "和小宝图片缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.xvideostudio.videocompress"
+  ],
+  "authors": [
+    "TTTornado"
+  ],
+  "title": {
+    "source": {
+      "zh": "视频转换器缓存"
+    },
+    "defaultSource": "视频转换器缓存"
+  }
+}

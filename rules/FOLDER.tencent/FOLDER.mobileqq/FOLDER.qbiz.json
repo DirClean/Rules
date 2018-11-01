@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ内置X5内核缓存"
+    },
+    "defaultSource": "QQ内置X5内核缓存"
+  }
+}

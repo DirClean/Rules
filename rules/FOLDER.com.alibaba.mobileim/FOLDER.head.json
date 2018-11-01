@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.alibaba.mobileim"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿里旺信头像缓存"
+    },
+    "defaultSource": "阿里旺信头像缓存"
+  }
+}

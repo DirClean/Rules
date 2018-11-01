@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "qq图片缓存"
+    },
+    "defaultSource": "qq图片缓存"
+  }
+}

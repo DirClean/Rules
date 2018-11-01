@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "FormatFa.ApktoolHelper"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Apktool助手崩溃日志"
+    },
+    "defaultSource": "Apktool助手崩溃日志"
+  }
+}

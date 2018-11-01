@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.cloudmusic"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云音乐缓存"
+    },
+    "defaultSource": "网易云音乐缓存"
+  }
+}

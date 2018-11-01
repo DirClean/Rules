@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.map"
+  ],
+  "authors": [
+    "Dream妖尾"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯地图街景视图缓存"
+    },
+    "defaultSource": "腾讯地图街景视图缓存"
+  }
+}

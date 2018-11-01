@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.sand.airdroid"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "AirDroid卸载残留"
+    },
+    "defaultSource": "AirDroid卸载残留"
+  }
+}

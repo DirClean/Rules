@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "maple3142"
+  ],
+  "title": {
+    "source": {
+      "zh": "AIDE快取"
+    },
+    "defaultSource": "AIDE快取"
+  }
+}

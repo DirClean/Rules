@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "mixiaba.com.Browser"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "米侠浏览器缓存文件"
+    },
+    "defaultSource": "米侠浏览器缓存文件"
+  }
+}

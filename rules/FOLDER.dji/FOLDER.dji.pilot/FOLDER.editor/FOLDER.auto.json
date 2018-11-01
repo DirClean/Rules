@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "dji.pilot"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "Dji Go 视频编辑器缓存"
+    },
+    "defaultSource": "Dji Go 视频编辑器缓存"
+  }
+}

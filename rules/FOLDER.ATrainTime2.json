@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "tw.agudoe2.ATrainTime2"
+  ],
+  "authors": [
+    "david082321"
+  ],
+  "title": {
+    "source": {
+      "zh": "ATrainTime应用数据"
+    },
+    "defaultSource": "ATrainTime应用数据"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.kingroot.kinguser"
+  ],
+  "authors": [
+    "Copyright³"
+  ],
+  "title": {
+    "source": {
+      "zh": "kingroot垃圾"
+    },
+    "defaultSource": "kingroot垃圾"
+  }
+}

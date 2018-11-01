@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.apkpure.aegon"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "ApkPure缓存"
+    },
+    "defaultSource": "ApkPure缓存"
+  }
+}

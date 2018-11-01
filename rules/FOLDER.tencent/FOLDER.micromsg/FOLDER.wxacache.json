@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mm"
+  ],
+  "authors": [
+    "Star"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信小程序头像缓存"
+    },
+    "defaultSource": "微信小程序头像缓存"
+  }
+}

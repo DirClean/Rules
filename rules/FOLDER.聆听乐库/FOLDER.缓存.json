@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.liti.music"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "聆听乐库缓存"
+    },
+    "defaultSource": "聆听乐库缓存"
+  }
+}

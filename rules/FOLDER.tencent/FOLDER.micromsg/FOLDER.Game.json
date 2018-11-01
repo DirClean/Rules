@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mm"
+  ],
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信游戏目录（不玩的可以替换）"
+    },
+    "defaultSource": "微信游戏目录（不玩的可以替换）"
+  }
+}

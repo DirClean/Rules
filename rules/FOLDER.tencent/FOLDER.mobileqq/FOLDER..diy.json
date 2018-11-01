@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ自定义表情缓存"
+    },
+    "defaultSource": "QQ自定义表情缓存"
+  }
+}

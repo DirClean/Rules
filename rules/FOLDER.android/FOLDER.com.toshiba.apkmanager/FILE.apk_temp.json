@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.toshiba.apkmanager"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "MX应用管理静默安装缓存"
+    },
+    "defaultSource": "MX应用管理静默安装缓存"
+  }
+}

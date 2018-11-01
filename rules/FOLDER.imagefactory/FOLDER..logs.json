@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "crixec.app.imagefactory"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "镜像工厂日志"
+    },
+    "defaultSource": "镜像工厂日志"
+  }
+}

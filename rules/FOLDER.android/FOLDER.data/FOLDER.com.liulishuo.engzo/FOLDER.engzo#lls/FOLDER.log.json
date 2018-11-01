@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.liulishuo.engzo"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "英语流利说日志"
+    },
+    "defaultSource": "英语流利说日志"
+  }
+}

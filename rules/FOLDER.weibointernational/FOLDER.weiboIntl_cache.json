@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.weico.international"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "微博国际版文件缓存"
+    },
+    "defaultSource": "微博国际版文件缓存"
+  }
+}

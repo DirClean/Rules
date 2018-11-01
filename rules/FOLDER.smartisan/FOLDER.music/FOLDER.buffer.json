@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.smartisanos.music"
+  ],
+  "authors": [
+    "Moeko"
+  ],
+  "title": {
+    "source": {
+      "zh": "Smartisan OS 在线音乐缓存"
+    },
+    "defaultSource": "Smartisan OS 在线音乐缓存"
+  }
+}

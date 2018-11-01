@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ludashi.benchmark"
+  ],
+  "authors": [
+    "AE308"
+  ],
+  "title": {
+    "source": {
+      "zh": "鲁大师配置卸载残留"
+    },
+    "defaultSource": "鲁大师配置卸载残留"
+  }
+}

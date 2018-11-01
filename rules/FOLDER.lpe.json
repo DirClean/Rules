@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Kevin"
+  ],
+  "title": {
+    "source": {
+      "zh": "Samsung  folder"
+    },
+    "defaultSource": "Samsung  folder"
+  }
+}

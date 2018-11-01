@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.emojifair.emoji"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "斗图表情"
+    },
+    "defaultSource": "斗图表情"
+  }
+}

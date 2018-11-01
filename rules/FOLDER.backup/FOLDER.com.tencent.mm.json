@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.mm"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信TBS内核残留"
+    },
+    "defaultSource": "微信TBS内核残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.google.android.apps.photos"
+  ],
+  "authors": [
+    "TTTornado"
+  ],
+  "title": {
+    "source": {
+      "zh": "谷歌相册缓存"
+    },
+    "defaultSource": "谷歌相册缓存"
+  }
+}

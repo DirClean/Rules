@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "dji.pilot"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "Dji Go 缓存"
+    },
+    "defaultSource": "Dji Go 缓存"
+  }
+}

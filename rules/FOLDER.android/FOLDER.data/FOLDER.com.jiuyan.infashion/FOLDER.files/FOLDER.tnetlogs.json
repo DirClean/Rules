@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.jiuyan.infashion"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "in日志"
+    },
+    "defaultSource": "in日志"
+  }
+}

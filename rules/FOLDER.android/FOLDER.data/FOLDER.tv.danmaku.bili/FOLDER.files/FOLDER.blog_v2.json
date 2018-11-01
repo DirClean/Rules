@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "tv.danmaku.bili"
+  ],
+  "authors": [
+    "Vstory"
+  ],
+  "title": {
+    "source": {
+      "zh": "哔哩哔哩日志文件"
+    },
+    "defaultSource": "哔哩哔哩日志文件"
+  }
+}

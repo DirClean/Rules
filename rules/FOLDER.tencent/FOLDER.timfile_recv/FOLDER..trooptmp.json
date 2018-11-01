@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "FFF"
+  ],
+  "title": {
+    "source": {
+      "zh": "TIM文件预览缓存"
+    },
+    "defaultSource": "TIM文件预览缓存"
+  }
+}

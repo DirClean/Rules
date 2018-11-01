@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.gentle.exview"
+  ],
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "Exview 应用数据"
+    },
+    "defaultSource": "Exview 应用数据"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.gamecenter"
+  ],
+  "authors": [
+    "Arrow_C"
+  ],
+  "title": {
+    "source": {
+      "zh": "游品位启动图"
+    },
+    "defaultSource": "游品位启动图"
+  }
+}

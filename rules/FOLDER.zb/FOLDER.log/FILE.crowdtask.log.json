@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.zb"
+  ],
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯众测日志"
+    },
+    "defaultSource": "腾讯众测日志"
+  }
+}

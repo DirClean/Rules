@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "ACyoyi"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱字体_字体备份"
+    },
+    "defaultSource": "爱字体_字体备份"
+  }
+}

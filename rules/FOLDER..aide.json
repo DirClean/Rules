@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.aide.ui"
+  ],
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "AIDE依赖库"
+    },
+    "defaultSource": "AIDE依赖库"
+  }
+}

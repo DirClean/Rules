@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "org.dolphinemu.dolphinemu"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "海豚模拟器卸载残留"
+    },
+    "defaultSource": "海豚模拟器卸载残留"
+  }
+}

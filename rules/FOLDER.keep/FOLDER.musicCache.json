@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.gotokeep.keep"
+  ],
+  "authors": [
+    "Manshaoco"
+  ],
+  "title": {
+    "source": {
+      "zh": "Keep 音乐缓存目录"
+    },
+    "defaultSource": "Keep 音乐缓存目录"
+  }
+}

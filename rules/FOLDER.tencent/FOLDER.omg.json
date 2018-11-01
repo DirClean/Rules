@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯垃圾文件"
+    },
+    "defaultSource": "腾讯垃圾文件"
+  }
+}

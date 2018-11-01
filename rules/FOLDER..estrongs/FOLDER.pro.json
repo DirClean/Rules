@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.estrongs.android.pop.pro"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "es文件管理器专业版卸载残余"
+    },
+    "defaultSource": "es文件管理器专业版卸载残余"
+  }
+}

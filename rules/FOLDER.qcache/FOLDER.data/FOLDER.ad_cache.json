@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tencent.qqlive"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯视频广告"
+    },
+    "defaultSource": "腾讯视频广告"
+  }
+}

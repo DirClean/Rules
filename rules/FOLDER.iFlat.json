@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.theme.mumu.flat"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "iflat图标包（卸载残余）"
+    },
+    "defaultSource": "iflat图标包（卸载残余）"
+  }
+}

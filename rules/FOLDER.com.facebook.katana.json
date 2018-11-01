@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.facebook.katana"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "Facebook緩存"
+    },
+    "defaultSource": "Facebook緩存"
+  }
+}

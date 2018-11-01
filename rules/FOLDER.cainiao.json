@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.cainiao.wireless"
+  ],
+  "authors": [
+    "liyujx"
+  ],
+  "title": {
+    "source": {
+      "zh": "菜鸟裹裹缓存"
+    },
+    "defaultSource": "菜鸟裹裹缓存"
+  }
+}

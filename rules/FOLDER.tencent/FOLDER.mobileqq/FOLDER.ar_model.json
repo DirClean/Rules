@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ 扫一扫的 AR缓存"
+    },
+    "defaultSource": "QQ 扫一扫的 AR缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "sogou.mobile.explorer"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗浏览器日志"
+    },
+    "defaultSource": "搜狗浏览器日志"
+  }
+}

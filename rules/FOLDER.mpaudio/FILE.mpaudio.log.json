@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.playwfd.mpaudio"
+  ],
+  "authors": [
+    "FFF"
+  ],
+  "title": {
+    "source": {
+      "zh": "公众号音频下载日志"
+    },
+    "defaultSource": "公众号音频下载日志"
+  }
+}

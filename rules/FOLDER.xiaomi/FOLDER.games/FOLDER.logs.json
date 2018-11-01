@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.gamecenter"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米游戏日志"
+    },
+    "defaultSource": "小米游戏日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.xunlei.downloadprovider"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "迅雷网页浏览缓存"
+    },
+    "defaultSource": "迅雷网页浏览缓存"
+  }
+}

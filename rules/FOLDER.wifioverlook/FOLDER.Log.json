@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.bhu.wifioverlook"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "WIFI路由管家日志文件"
+    },
+    "defaultSource": "WIFI路由管家日志文件"
+  }
+}

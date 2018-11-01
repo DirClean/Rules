@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.huluxia.gametools"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "葫芦侠日志"
+    },
+    "defaultSource": "葫芦侠日志"
+  }
+}

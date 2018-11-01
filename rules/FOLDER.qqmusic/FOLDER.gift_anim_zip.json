@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "xxxxuanran"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐内置礼物系统"
+    },
+    "defaultSource": "QQ音乐内置礼物系统"
+  }
+}

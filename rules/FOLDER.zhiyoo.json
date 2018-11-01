@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.zhiyoo"
+  ],
+  "authors": [
+    "zhy272"
+  ],
+  "title": {
+    "source": {
+      "zh": "智友的垃圾文件"
+    },
+    "defaultSource": "智友的垃圾文件"
+  }
+}

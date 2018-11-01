@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.watsons.mobile"
+  ],
+  "willClean": true,
+  "needUninstall": true,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "屈臣氏莴笋（卸载残余）"
+    },
+    "defaultSource": "屈臣氏莴笋（卸载残余）"
+  }
+}

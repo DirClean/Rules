@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.iplay.assistant"
+  ],
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "GG大玩家的启动页广告"
+    },
+    "defaultSource": "GG大玩家的启动页广告"
+  }
+}

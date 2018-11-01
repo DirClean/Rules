@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.taptap"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "taptap"
+    },
+    "defaultSource": "taptap"
+  }
+}

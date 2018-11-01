@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.goplaycn.gappsrepair"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "谷歌服务FC修复工具残留"
+    },
+    "defaultSource": "谷歌服务FC修复工具残留"
+  }
+}

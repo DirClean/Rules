@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "头像挂件缓存（可替换）"
+    },
+    "defaultSource": "头像挂件缓存（可替换）"
+  }
+}

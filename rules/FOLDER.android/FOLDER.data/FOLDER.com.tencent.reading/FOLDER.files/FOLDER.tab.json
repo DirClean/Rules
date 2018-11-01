@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tencent.reading"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "天天快报Tab广告图片"
+    },
+    "defaultSource": "天天快报Tab广告图片"
+  }
+}

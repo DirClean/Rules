@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.tieba"
+  ],
+  "authors": [
+    "废柴也有春天"
+  ],
+  "title": {
+    "source": {
+      "zh": "贴吧无用缓存"
+    },
+    "defaultSource": "贴吧无用缓存"
+  }
+}

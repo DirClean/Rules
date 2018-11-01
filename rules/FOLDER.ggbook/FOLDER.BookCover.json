@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "jb.activity.mbook"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "GGBook小说阅读器图片缓存"
+    },
+    "defaultSource": "GGBook小说阅读器图片缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.android.qqdownloader"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "应用宝下载的安装包"
+    },
+    "defaultSource": "应用宝下载的安装包"
+  }
+}

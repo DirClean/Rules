@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.mtt"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ浏览器推送日志"
+    },
+    "defaultSource": "QQ浏览器推送日志"
+  }
+}

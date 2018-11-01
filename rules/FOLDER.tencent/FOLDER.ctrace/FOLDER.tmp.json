@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.pleasure.trace_wechat"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "微痕迹临时文件"
+    },
+    "defaultSource": "微痕迹临时文件"
+  }
+}

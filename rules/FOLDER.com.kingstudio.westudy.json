@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingstudio.westudy"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "知了收藏图片缓存"
+    },
+    "defaultSource": "知了收藏图片缓存"
+  }
+}

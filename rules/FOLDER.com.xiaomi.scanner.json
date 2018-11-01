@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.miui.screenrecorder"
+  ],
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米自带录屏日志文件"
+    },
+    "defaultSource": "小米自带录屏日志文件"
+  }
+}

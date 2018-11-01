@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.miui.virtualsim"
+  ],
+  "authors": [
+    "膜法和科学 "
+  ],
+  "title": {
+    "source": {
+      "zh": "全球上网mipush 日志"
+    },
+    "defaultSource": "全球上网mipush 日志"
+  }
+}

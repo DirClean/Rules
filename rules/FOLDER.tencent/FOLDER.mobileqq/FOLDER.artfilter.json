@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Ali"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ滤镜缓存"
+    },
+    "defaultSource": "QQ滤镜缓存"
+  }
+}

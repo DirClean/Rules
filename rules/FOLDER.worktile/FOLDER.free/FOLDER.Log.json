@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.worktile"
+  ],
+  "authors": [
+    "flagshit"
+  ],
+  "title": {
+    "source": {
+      "zh": "worktile日志"
+    },
+    "defaultSource": "worktile日志"
+  }
+}

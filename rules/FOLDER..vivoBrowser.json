@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.vivo.browser"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "vivo浏览器"
+    },
+    "defaultSource": "vivo浏览器"
+  }
+}

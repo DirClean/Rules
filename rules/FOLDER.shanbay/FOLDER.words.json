@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.shanbay.words"
+  ],
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝单词残余"
+    },
+    "defaultSource": "扇贝单词残余"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.yidm.book"
+  ],
+  "authors": [
+    "芸枫"
+  ],
+  "title": {
+    "source": {
+      "zh": "迷糊轻小说日志"
+    },
+    "defaultSource": "迷糊轻小说日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ichano.athome.camera"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌上看家日志"
+    },
+    "defaultSource": "掌上看家日志"
+  }
+}

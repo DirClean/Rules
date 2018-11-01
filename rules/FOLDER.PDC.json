@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.pandecheng.iconpack"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "PDC图标包输出图标"
+    },
+    "defaultSource": "PDC图标包输出图标"
+  }
+}

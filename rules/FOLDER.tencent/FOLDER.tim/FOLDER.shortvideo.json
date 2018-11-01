@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "authors": [
+    "FFF"
+  ],
+  "title": {
+    "source": {
+      "zh": "TIM短视频缓存"
+    },
+    "defaultSource": "TIM短视频缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.wandoujia.eyepetizer"
+  ],
+  "authors": [
+    "Bohan"
+  ],
+  "title": {
+    "source": {
+      "zh": "开眼Eyepetizer视频缓存"
+    },
+    "defaultSource": "开眼Eyepetizer视频缓存"
+  }
+}

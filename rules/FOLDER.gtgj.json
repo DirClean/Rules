@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "gtgj"
+  ],
+  "authors": [
+    "soyuzom"
+  ],
+  "title": {
+    "source": {
+      "zh": "高铁管家"
+    },
+    "defaultSource": "高铁管家"
+  }
+}

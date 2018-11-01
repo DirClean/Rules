@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "projekt.substratum"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "SubStratum主题引擎卸载残留"
+    },
+    "defaultSource": "SubStratum主题引擎卸载残留"
+  }
+}

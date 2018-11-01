@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqpimsecure.sc"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯手机管家日志文件"
+    },
+    "defaultSource": "腾讯手机管家日志文件"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.orekie.search"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜索Lite卸载残留"
+    },
+    "defaultSource": "搜索Lite卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.aiwu.market"
+  ],
+  "authors": [
+    "芸枫"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱吾游戏宝盒的图片缓存"
+    },
+    "defaultSource": "爱吾游戏宝盒的图片缓存"
+  }
+}

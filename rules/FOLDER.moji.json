@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.moji.mjweather"
+  ],
+  "authors": [
+    "曦阳"
+  ],
+  "title": {
+    "source": {
+      "zh": "墨迹天气（卸载残余）"
+    },
+    "defaultSource": "墨迹天气（卸载残余）"
+  }
+}

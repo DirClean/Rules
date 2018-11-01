@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.shanbay.words"
+  ],
+  "authors": [
+    "蠢黑通行"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝单词用户数据"
+    },
+    "defaultSource": "扇贝单词用户数据"
+  }
+}

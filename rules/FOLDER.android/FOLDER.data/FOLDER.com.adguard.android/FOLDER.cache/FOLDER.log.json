@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.adguard.android"
+  ],
+  "authors": [
+    "liweichen6"
+  ],
+  "title": {
+    "source": {
+      "zh": "Adguard 日志"
+    },
+    "defaultSource": "Adguard 日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.cmbchina.ccd.pluto.cmbActivity"
+  ],
+  "authors": [
+    "MosDos"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌上生活缓存"
+    },
+    "defaultSource": "掌上生活缓存"
+  }
+}

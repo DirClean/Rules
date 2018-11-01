@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Ali"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ原创表情与小表情缓存"
+    },
+    "defaultSource": "QQ原创表情与小表情缓存"
+  }
+}

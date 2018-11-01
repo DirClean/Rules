@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mogujie"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "蘑菇街TBS内核日志"
+    },
+    "defaultSource": "蘑菇街TBS内核日志"
+  }
+}

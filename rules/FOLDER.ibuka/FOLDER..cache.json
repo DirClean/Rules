@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "QAQ"
+  ],
+  "title": {
+    "source": {
+      "zh": "布卡缓存"
+    },
+    "defaultSource": "布卡缓存"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "已下载的Magisk模块"
+    },
+    "defaultSource": "已下载的Magisk模块"
+  }
+}

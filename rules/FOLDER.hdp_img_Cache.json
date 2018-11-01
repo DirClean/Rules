@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "hdpfans.com"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "HDP直播缓存"
+    },
+    "defaultSource": "HDP直播缓存"
+  }
+}

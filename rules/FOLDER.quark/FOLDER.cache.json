@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.quark.browser"
+  ],
+  "authors": [
+    "我等千山雪尽"
+  ],
+  "title": {
+    "source": {
+      "zh": "夸克浏览器缓存"
+    },
+    "defaultSource": "夸克浏览器缓存"
+  }
+}

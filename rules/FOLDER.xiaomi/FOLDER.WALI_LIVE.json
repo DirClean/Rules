@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.wali.live"
+  ],
+  "authors": [
+    "局外人"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米直播无用文件（卸载后）"
+    },
+    "defaultSource": "小米直播无用文件（卸载后）"
+  }
+}

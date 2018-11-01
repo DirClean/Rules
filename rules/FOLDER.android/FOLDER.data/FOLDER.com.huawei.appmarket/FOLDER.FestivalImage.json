@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.huawei.appmarket"
+  ],
+  "authors": [
+    "很二先生"
+  ],
+  "title": {
+    "source": {
+      "zh": "华为应用市场启动页广告"
+    },
+    "defaultSource": "华为应用市场启动页广告"
+  }
+}

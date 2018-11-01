@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.swjtu.gcmformojo"
+  ],
+  "authors": [
+    "milkice"
+  ],
+  "title": {
+    "source": {
+      "zh": "GcmForMojo二维码缓存"
+    },
+    "defaultSource": "GcmForMojo二维码缓存"
+  }
+}

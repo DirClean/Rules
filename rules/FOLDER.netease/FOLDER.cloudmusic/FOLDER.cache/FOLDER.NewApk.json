@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.cloudmusic"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云音乐自动下载安装包目录"
+    },
+    "defaultSource": "网易云音乐自动下载安装包目录"
+  }
+}

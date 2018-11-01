@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.xunlei.downloadprovider"
+  ],
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "迅雷广告文件"
+    },
+    "defaultSource": "迅雷广告文件"
+  }
+}

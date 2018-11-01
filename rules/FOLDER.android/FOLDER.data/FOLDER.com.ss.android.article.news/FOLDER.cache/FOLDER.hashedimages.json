@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.ss.android.article.news"
+  ],
+  "authors": [
+    "magical"
+  ],
+  "title": {
+    "source": {
+      "zh": "今日头条图片广告"
+    },
+    "defaultSource": "今日头条图片广告"
+  }
+}

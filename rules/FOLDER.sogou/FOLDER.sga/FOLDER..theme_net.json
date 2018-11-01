@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sohu.inputmethod.sogou.xiaomi"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗输入法皮肤在线预览图"
+    },
+    "defaultSource": "搜狗输入法皮肤在线预览图"
+  }
+}

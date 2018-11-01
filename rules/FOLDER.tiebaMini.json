@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.baidu.tieba_mini"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "himeope"
+  ],
+  "title": {
+    "source": {
+      "zh": "贴吧极速版保存的图片、缓存等"
+    },
+    "defaultSource": "贴吧极速版保存的图片、缓存等"
+  }
+}

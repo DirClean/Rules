@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sh.cm.busihall"
+  ],
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "AOE SDK 日志"
+    },
+    "defaultSource": "AOE SDK 日志"
+  }
+}

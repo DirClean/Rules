@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.miui.cloudservice"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米云服务日志文件"
+    },
+    "defaultSource": "小米云服务日志文件"
+  }
+}

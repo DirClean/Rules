@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tencent.qqlive"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯视频游戏中心下载apk"
+    },
+    "defaultSource": "腾讯视频游戏中心下载apk"
+  }
+}

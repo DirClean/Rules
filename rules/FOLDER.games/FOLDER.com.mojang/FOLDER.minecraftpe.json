@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.mojang.minecraftpe"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "Minecraft PE配置文件"
+    },
+    "defaultSource": "Minecraft PE配置文件"
+  }
+}

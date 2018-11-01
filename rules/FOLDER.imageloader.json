@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.cyjh.mobileanjian"
+  ],
+  "authors": [
+    "MosDos"
+  ],
+  "title": {
+    "source": {
+      "zh": "按键精灵缓存"
+    },
+    "defaultSource": "按键精灵缓存"
+  }
+}

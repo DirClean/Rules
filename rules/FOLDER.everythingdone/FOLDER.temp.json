@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.ywwynm.everythingdone"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Ali"
+  ],
+  "title": {
+    "source": {
+      "zh": "完事缓存文件"
+    },
+    "defaultSource": "完事缓存文件"
+  }
+}

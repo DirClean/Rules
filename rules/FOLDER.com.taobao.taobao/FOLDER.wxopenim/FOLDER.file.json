@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.taobao.taobao"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "淘宝图片缓存"
+    },
+    "defaultSource": "淘宝图片缓存"
+  }
+}

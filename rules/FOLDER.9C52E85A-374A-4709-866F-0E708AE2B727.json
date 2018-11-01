@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "ACyoyi"
+  ],
+  "title": {
+    "source": {
+      "zh": "无用文件夹"
+    },
+    "defaultSource": "无用文件夹"
+  }
+}

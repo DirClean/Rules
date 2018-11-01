@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.netease.vopen"
+  ],
+  "authors": [
+    "yiji"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易公开课日志"
+    },
+    "defaultSource": "网易公开课日志"
+  }
+}

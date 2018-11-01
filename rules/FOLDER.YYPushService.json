@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.duowan.mobile"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "蠢黑通行"
+  ],
+  "title": {
+    "source": {
+      "zh": "YY推送服务垃圾文件"
+    },
+    "defaultSource": "YY推送服务垃圾文件"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.androlide"
+  ],
+  "authors": [
+    "Bohan"
+  ],
+  "title": {
+    "source": {
+      "zh": "AndroLIDE卸载残留"
+    },
+    "defaultSource": "AndroLIDE卸载残留"
+  }
+}

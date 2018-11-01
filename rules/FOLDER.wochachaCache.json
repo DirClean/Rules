@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.wochacha"
+  ],
+  "authors": [
+    "soyuzom"
+  ],
+  "title": {
+    "source": {
+      "zh": "我查查"
+    },
+    "defaultSource": "我查查"
+  }
+}

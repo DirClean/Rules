@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "微笑禽兽"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐启动广告"
+    },
+    "defaultSource": "QQ音乐启动广告"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "cmb.pb"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "lianggexp"
+  ],
+  "title": {
+    "source": {
+      "zh": "招商银行临时文件"
+    },
+    "defaultSource": "招商银行临时文件"
+  }
+}

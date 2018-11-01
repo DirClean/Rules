@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.ghisler.android.TotalCommander"
+  ],
+  "authors": [
+    "x4455"
+  ],
+  "title": {
+    "source": {
+      "zh": "TotalCommander缩略图缓存"
+    },
+    "defaultSource": "TotalCommander缩略图缓存"
+  }
+}

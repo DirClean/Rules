@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.com.shouji.market"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "手机乐园缓存"
+    },
+    "defaultSource": "手机乐园缓存"
+  }
+}

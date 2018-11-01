@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "喜马拉雅fm"
+  ],
+  "authors": [
+    "soyuzom"
+  ],
+  "title": {
+    "source": {
+      "zh": "喜马拉雅fm语音广告"
+    },
+    "defaultSource": "喜马拉雅fm语音广告"
+  }
+}

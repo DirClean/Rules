@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.jd.fridge"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东新鲜GO图片缓存"
+    },
+    "defaultSource": "京东新鲜GO图片缓存"
+  }
+}

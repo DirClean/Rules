@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.wandoujia"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "FFF"
+  ],
+  "title": {
+    "source": {
+      "zh": "轻芒阅读缓存"
+    },
+    "defaultSource": "轻芒阅读缓存"
+  }
+}

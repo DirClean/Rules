@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tianqi2345"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "2345天气王缓存"
+    },
+    "defaultSource": "2345天气王缓存"
+  }
+}

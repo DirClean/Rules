@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "猎豹清理大师安装包"
+    },
+    "defaultSource": "猎豹清理大师安装包"
+  }
+}

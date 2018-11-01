@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.eg.android.AlipayGphone"
+  ],
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "支付宝硬件识别信息"
+    },
+    "defaultSource": "支付宝硬件识别信息"
+  }
+}

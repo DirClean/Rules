@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.by_syk.cooldp"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷安日图图片(二次元版)"
+    },
+    "defaultSource": "酷安日图图片(二次元版)"
+  }
+}

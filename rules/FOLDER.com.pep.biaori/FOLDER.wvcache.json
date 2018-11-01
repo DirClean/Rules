@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.PEP.biaori"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "标准日本语缓存"
+    },
+    "defaultSource": "标准日本语缓存"
+  }
+}

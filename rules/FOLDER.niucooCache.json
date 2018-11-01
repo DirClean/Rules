@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.niucoo.niucooapp"
+  ],
+  "authors": [
+    "Bohan"
+  ],
+  "title": {
+    "source": {
+      "zh": "纽扣助手缓存"
+    },
+    "defaultSource": "纽扣助手缓存"
+  }
+}

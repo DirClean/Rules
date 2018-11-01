@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.newcapec.mobile.ncp"
+  ],
+  "authors": [
+    "很二先生"
+  ],
+  "title": {
+    "source": {
+      "zh": "完美校园启动页广告"
+    },
+    "defaultSource": "完美校园启动页广告"
+  }
+}

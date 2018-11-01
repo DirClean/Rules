@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "org.telegram.messenger.beta"
+  ],
+  "authors": [
+    "Trumeet"
+  ],
+  "title": {
+    "source": {
+      "zh": "TelegramBeta日志"
+    },
+    "defaultSource": "TelegramBeta日志"
+  }
+}

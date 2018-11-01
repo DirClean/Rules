@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.example.yzker.lazy"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "Lazy卸载残留"
+    },
+    "defaultSource": "Lazy卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ播放的音乐缓存"
+    },
+    "defaultSource": "QQ播放的音乐缓存"
+  }
+}

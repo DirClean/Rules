@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.intsig.camscanner"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "扫描全能王缓存目录"
+    },
+    "defaultSource": "扫描全能王缓存目录"
+  }
+}

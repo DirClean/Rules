@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.codoon.gps"
+  ],
+  "authors": [
+    "liyujx"
+  ],
+  "title": {
+    "source": {
+      "zh": "咕咚缓存目录"
+    },
+    "defaultSource": "咕咚缓存目录"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.gov.cn"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "国务院TBS内核残留"
+    },
+    "defaultSource": "国务院TBS内核残留"
+  }
+}

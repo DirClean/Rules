@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.jovision.ivbaby"
+  ],
+  "authors": [
+    "Bohan"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱维宝贝幼儿园APP缓存"
+    },
+    "defaultSource": "爱维宝贝幼儿园APP缓存"
+  }
+}

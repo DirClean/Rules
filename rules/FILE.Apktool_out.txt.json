@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "FormatFa.ApktoolHelper"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Apktool助手输出日志"
+    },
+    "defaultSource": "Apktool助手输出日志"
+  }
+}

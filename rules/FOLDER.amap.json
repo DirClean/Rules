@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.autonavi.minimap"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "高德地图及其SDK垃圾文件"
+    },
+    "defaultSource": "高德地图及其SDK垃圾文件"
+  }
+}

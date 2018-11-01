@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.gamehelper.smoba"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "王者荣耀助手缓存"
+    },
+    "defaultSource": "王者荣耀助手缓存"
+  }
+}

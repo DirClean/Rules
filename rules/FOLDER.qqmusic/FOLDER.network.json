@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐网络日志"
+    },
+    "defaultSource": "QQ音乐网络日志"
+  }
+}

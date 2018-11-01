@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.tieba"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度贴吧图片缓存"
+    },
+    "defaultSource": "百度贴吧图片缓存"
+  }
+}

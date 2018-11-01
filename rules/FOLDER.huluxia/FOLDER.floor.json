@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.huati"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "葫芦侠三楼缓存与日志文件"
+    },
+    "defaultSource": "葫芦侠三楼缓存与日志文件"
+  }
+}

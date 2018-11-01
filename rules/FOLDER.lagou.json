@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.alpha.lagouapk"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "蠢黑通行"
+  ],
+  "title": {
+    "source": {
+      "zh": "拉勾垃圾文件"
+    },
+    "defaultSource": "拉勾垃圾文件"
+  }
+}

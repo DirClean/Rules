@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.mokee.center"
+  ],
+  "authors": [
+    "wangym5106"
+  ],
+  "title": {
+    "source": {
+      "zh": "魔趣中心广告安装包静默下载目录"
+    },
+    "defaultSource": "魔趣中心广告安装包静默下载目录"
+  }
+}

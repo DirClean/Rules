@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tassadar.multirommgr"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "MultiROM日志"
+    },
+    "defaultSource": "MultiROM日志"
+  }
+}

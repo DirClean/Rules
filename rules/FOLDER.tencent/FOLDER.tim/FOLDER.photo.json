@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯 TIM 缩略图缓存"
+    },
+    "defaultSource": "腾讯 TIM 缩略图缓存"
+  }
+}

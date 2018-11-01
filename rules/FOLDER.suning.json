@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "MosDos"
+  ],
+  "title": {
+    "source": {
+      "zh": "苏宁易购的推送ID"
+    },
+    "defaultSource": "苏宁易购的推送ID"
+  }
+}

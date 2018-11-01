@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.alibaba.mobileim"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿里旺信用户信息采集日志"
+    },
+    "defaultSource": "阿里旺信用户信息采集日志"
+  }
+}

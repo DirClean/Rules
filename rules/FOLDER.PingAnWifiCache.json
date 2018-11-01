@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.pingan.pinganwifi"
+  ],
+  "authors": [
+    "MosDos"
+  ],
+  "title": {
+    "source": {
+      "zh": "平安WiFi缓存"
+    },
+    "defaultSource": "平安WiFi缓存"
+  }
+}

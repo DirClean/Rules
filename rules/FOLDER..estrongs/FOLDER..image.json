@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.estrongs.android.pop"
+  ],
+  "authors": [
+    "hzy2003"
+  ],
+  "title": {
+    "source": {
+      "zh": "ES文件管理器广告缓存"
+    },
+    "defaultSource": "ES文件管理器广告缓存"
+  }
+}

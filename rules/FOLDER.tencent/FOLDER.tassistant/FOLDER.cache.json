@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.android.qqdownloader"
+  ],
+  "authors": [
+    "Microsoft"
+  ],
+  "title": {
+    "source": {
+      "zh": "应用宝缓存数据"
+    },
+    "defaultSource": "应用宝缓存数据"
+  }
+}

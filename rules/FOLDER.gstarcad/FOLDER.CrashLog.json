@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.gstarmc.android"
+  ],
+  "authors": [
+    "mikugirls"
+  ],
+  "title": {
+    "source": {
+      "zh": "CAD手机看图崩溃日志"
+    },
+    "defaultSource": "CAD手机看图崩溃日志"
+  }
+}

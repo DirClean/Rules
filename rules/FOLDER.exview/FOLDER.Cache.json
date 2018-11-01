@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.gentle.exview"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "simonsmh"
+  ],
+  "title": {
+    "source": {
+      "zh": "ExView 软件缓存"
+    },
+    "defaultSource": "ExView 软件缓存"
+  }
+}

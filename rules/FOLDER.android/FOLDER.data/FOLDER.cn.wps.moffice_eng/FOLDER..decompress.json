@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "cn.wps.moffice_eng"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "WPS 解压缩目录"
+    },
+    "defaultSource": "WPS 解压缩目录"
+  }
+}

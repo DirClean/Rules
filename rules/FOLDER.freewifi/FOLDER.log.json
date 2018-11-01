@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.eshore.freewifi"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "114free wifi日志"
+    },
+    "defaultSource": "114free wifi日志"
+  }
+}

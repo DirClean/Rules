@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "tv.danmaku.bili"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "哔哩哔哩动画视频略缩图"
+    },
+    "defaultSource": "哔哩哔哩动画视频略缩图"
+  }
+}

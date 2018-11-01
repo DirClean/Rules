@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.zhuanyejun.club"
+  ],
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "小木虫日志文件"
+    },
+    "defaultSource": "小木虫日志文件"
+  }
+}

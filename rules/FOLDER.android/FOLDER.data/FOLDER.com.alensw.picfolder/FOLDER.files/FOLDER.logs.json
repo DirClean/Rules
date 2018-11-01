@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.alensw.PicFolder"
+  ],
+  "authors": [
+    "shibeta"
+  ],
+  "title": {
+    "source": {
+      "zh": "快图浏览日志文件"
+    },
+    "defaultSource": "快图浏览日志文件"
+  }
+}

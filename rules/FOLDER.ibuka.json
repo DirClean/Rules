@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "cn.ibuka.manga.ui"
+  ],
+  "authors": [
+    "QAQ"
+  ],
+  "title": {
+    "source": {
+      "zh": "布卡"
+    },
+    "defaultSource": "布卡"
+  }
+}

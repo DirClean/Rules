@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qdaily.ui"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "好奇心日报TBS内核残留"
+    },
+    "defaultSource": "好奇心日报TBS内核残留"
+  }
+}

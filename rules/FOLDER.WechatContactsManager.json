@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.fkzhang.wechatcontactsmanager"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信通讯录模块"
+    },
+    "defaultSource": "微信通讯录模块"
+  }
+}

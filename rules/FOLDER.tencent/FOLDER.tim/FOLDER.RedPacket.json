@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "authors": [
+    "LimaXRomeo"
+  ],
+  "title": {
+    "source": {
+      "zh": "Tim红包缓存"
+    },
+    "defaultSource": "Tim红包缓存"
+  }
+}

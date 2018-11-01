@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.emoji.keyboard.touchpal"
+  ],
+  "authors": [
+    "Block81838"
+  ],
+  "title": {
+    "source": {
+      "zh": "触宝输入法国际版缓存"
+    },
+    "defaultSource": "触宝输入法国际版缓存"
+  }
+}

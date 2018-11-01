@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.youku.phone"
+  ],
+  "authors": [
+    "lynnrinkui"
+  ],
+  "title": {
+    "source": {
+      "zh": "優酷垃圾"
+    },
+    "defaultSource": "優酷垃圾"
+  }
+}

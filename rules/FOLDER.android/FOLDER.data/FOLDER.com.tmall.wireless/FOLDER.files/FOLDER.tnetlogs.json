@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tmall.wireless"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "天猫日志文件"
+    },
+    "defaultSource": "天猫日志文件"
+  }
+}

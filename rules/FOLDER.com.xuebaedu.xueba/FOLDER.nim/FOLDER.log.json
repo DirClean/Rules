@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xuebaedu.xueba"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "学吧课堂日志"
+    },
+    "defaultSource": "学吧课堂日志"
+  }
+}

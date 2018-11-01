@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.kingroot.kinguser"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "KingRoot日志"
+    },
+    "defaultSource": "KingRoot日志"
+  }
+}

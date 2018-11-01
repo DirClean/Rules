@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.pplive.androidphone"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "PPTV广告缓存"
+    },
+    "defaultSource": "PPTV广告缓存"
+  }
+}

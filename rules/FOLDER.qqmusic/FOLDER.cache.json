@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "ACyoyi"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐试听缓存"
+    },
+    "defaultSource": "QQ音乐试听缓存"
+  }
+}

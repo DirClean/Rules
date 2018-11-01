@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.estrongs.android.pop"
+  ],
+  "authors": [
+    "Knightlsy"
+  ],
+  "title": {
+    "source": {
+      "zh": "ES文件管理器主题"
+    },
+    "defaultSource": "ES文件管理器主题"
+  }
+}

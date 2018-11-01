@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.gamehelper.smoba"
+  ],
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "王者荣耀助手tbs日志"
+    },
+    "defaultSource": "王者荣耀助手tbs日志"
+  }
+}

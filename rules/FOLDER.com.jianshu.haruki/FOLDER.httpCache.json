@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.jianshu.haruki"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "简书缓存"
+    },
+    "defaultSource": "简书缓存"
+  }
+}

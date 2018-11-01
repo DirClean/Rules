@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "tk.schspa.preventpatch"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "黑域一键补丁制作恢复刷机包的临时文件"
+    },
+    "defaultSource": "黑域一键补丁制作恢复刷机包的临时文件"
+  }
+}

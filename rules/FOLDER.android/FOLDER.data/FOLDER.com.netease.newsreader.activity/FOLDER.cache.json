@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.netease.newsreader.activity"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易新闻头像缓存"
+    },
+    "defaultSource": "网易新闻头像缓存"
+  }
+}

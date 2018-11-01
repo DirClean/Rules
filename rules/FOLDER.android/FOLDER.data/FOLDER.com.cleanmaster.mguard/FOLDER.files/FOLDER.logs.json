@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.cleanmaster.mguard"
+  ],
+  "authors": [
+    "Microsoft"
+  ],
+  "title": {
+    "source": {
+      "zh": "猎豹清理大师国际版日志"
+    },
+    "defaultSource": "猎豹清理大师国际版日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.m4399.gamecenter"
+  ],
+  "authors": [
+    "Doubi250"
+  ],
+  "title": {
+    "source": {
+      "zh": "4399卸载残留"
+    },
+    "defaultSource": "4399卸载残留"
+  }
+}

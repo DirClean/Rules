@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.duokan.reader"
+  ],
+  "authors": [
+    "BugenZhao"
+  ],
+  "title": {
+    "source": {
+      "zh": "多看阅读 缓存"
+    },
+    "defaultSource": "多看阅读 缓存"
+  }
+}

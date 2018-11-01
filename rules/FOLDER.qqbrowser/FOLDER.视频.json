@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mtt"
+  ],
+  "authors": [
+    "Dream妖尾"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ浏览器视频缓存"
+    },
+    "defaultSource": "QQ浏览器视频缓存"
+  }
+}

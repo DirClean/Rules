@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "QAQ"
+  ],
+  "title": {
+    "source": {
+      "zh": "开卷漫画漫画封面"
+    },
+    "defaultSource": "开卷漫画漫画封面"
+  }
+}

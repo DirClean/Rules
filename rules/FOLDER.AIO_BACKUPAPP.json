@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.aio.downloader"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "AIO Downloader 备份应用目录"
+    },
+    "defaultSource": "AIO Downloader 备份应用目录"
+  }
+}

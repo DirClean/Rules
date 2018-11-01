@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐监控日志"
+    },
+    "defaultSource": "QQ音乐监控日志"
+  }
+}

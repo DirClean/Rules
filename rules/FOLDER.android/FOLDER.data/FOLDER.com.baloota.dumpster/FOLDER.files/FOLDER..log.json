@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.baloota.dumpster"
+  ],
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "Dumpster日志文件"
+    },
+    "defaultSource": "Dumpster日志文件"
+  }
+}

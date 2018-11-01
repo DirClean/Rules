@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.join.android.app.mgsim"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "啪啪游戏厅中广告的文件"
+    },
+    "defaultSource": "啪啪游戏厅中广告的文件"
+  }
+}

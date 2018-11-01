@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.njlabs.showjava"
+  ],
+  "authors": [
+    "AE308"
+  ],
+  "title": {
+    "source": {
+      "zh": "ShowJava卸载残留"
+    },
+    "defaultSource": "ShowJava卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.luckydroid.droidbase"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Memento日志"
+    },
+    "defaultSource": "Memento日志"
+  }
+}

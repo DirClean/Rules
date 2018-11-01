@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.taobao.idlefish"
+  ],
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "闲鱼日志文件"
+    },
+    "defaultSource": "闲鱼日志文件"
+  }
+}

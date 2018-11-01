@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.xiaomi.router"
+  ],
+  "authors": [
+    "Vstory"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米路由器启动页广告\u0026设备图标"
+    },
+    "defaultSource": "小米路由器启动页广告\u0026设备图标"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "cn.wps.moffice_eng"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "cqycczq"
+  ],
+  "title": {
+    "source": {
+      "zh": "WPS的缓存"
+    },
+    "defaultSource": "WPS的缓存"
+  }
+}

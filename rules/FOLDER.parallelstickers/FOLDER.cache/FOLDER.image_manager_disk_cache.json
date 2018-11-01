@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.lbe.parallel"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "平行空间逼图缓存"
+    },
+    "defaultSource": "平行空间逼图缓存"
+  }
+}

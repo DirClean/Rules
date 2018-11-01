@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qihoo.freewifi"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "360免费WIFI冗余日志"
+    },
+    "defaultSource": "360免费WIFI冗余日志"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mode": 1,
+  "pkg": [],
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "AndroLua运行缓存"
+    },
+    "defaultSource": "AndroLua运行缓存"
+  }
+}

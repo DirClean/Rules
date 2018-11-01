@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.dianping.movieheaven"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "电影天堂静默下载的垃圾视频"
+    },
+    "defaultSource": "电影天堂静默下载的垃圾视频"
+  }
+}

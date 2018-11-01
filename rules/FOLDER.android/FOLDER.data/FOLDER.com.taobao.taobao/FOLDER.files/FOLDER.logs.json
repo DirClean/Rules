@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.taobao.taobao"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "淘宝日志文件"
+    },
+    "defaultSource": "淘宝日志文件"
+  }
+}

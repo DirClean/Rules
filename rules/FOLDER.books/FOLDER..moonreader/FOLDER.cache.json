@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.flyersoft.moonreaderp"
+  ],
+  "authors": [
+    "mikugirls"
+  ],
+  "title": {
+    "source": {
+      "zh": "静读天下缓存"
+    },
+    "defaultSource": "静读天下缓存"
+  }
+}

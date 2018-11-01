@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.alibaba.mobileim"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "旺信图片缓存"
+    },
+    "defaultSource": "旺信图片缓存"
+  }
+}

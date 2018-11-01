@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.tribe"
+  ],
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "企鹅众测垃圾缓存-不是日志"
+    },
+    "defaultSource": "企鹅众测垃圾缓存-不是日志"
+  }
+}

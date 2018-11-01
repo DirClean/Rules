@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "Bohan"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ日迹短视频缩略图缓存"
+    },
+    "defaultSource": "QQ日迹短视频缩略图缓存"
+  }
+}

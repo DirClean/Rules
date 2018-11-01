@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.cloudmusic"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云音乐播放列表缓存"
+    },
+    "defaultSource": "网易云音乐播放列表缓存"
+  }
+}

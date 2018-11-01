@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.game.rhythmmaster"
+  ],
+  "authors": [
+    "Rachel030219"
+  ],
+  "title": {
+    "source": {
+      "zh": "节奏大师资源文件"
+    },
+    "defaultSource": "节奏大师资源文件"
+  }
+}

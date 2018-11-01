@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.paolinoalessandro.cmromdownloader"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Lineage Downloader日志"
+    },
+    "defaultSource": "Lineage Downloader日志"
+  }
+}

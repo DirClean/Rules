@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.panda.videoliveplatform"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "熊猫直播日志"
+    },
+    "defaultSource": "熊猫直播日志"
+  }
+}

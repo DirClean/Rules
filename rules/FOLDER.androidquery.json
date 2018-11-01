@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "中国联通营业厅无用文件"
+    },
+    "defaultSource": "中国联通营业厅无用文件"
+  }
+}

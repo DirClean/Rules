@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kugou.android.ringtone"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷狗铃声图片缓存"
+    },
+    "defaultSource": "酷狗铃声图片缓存"
+  }
+}

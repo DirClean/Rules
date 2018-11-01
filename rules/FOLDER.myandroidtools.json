@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.wq.myandroidtoolspro"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "写轮眼Pro备份文件卸载残留"
+    },
+    "defaultSource": "写轮眼Pro备份文件卸载残留"
+  }
+}

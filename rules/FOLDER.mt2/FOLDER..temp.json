@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "bin.mt.plus"
+  ],
+  "authors": [
+    "DEVELOPER"
+  ],
+  "title": {
+    "source": {
+      "zh": "MT2文件管理器缓存"
+    },
+    "defaultSource": "MT2文件管理器缓存"
+  }
+}

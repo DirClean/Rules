@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.cootek.smartdialer"
+  ],
+  "authors": [
+    "Manshaoco"
+  ],
+  "title": {
+    "source": {
+      "zh": "触宝电话日志目录"
+    },
+    "defaultSource": "触宝电话日志目录"
+  }
+}

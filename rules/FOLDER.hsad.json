@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.nfyg.hsbb"
+  ],
+  "authors": [
+    "milkice"
+  ],
+  "title": {
+    "source": {
+      "zh": "花生地铁WiFi广告"
+    },
+    "defaultSource": "花生地铁WiFi广告"
+  }
+}

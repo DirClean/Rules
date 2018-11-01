@@ -1,0 +1,20 @@
+{
+  "mode": 0,
+  "pkg": [
+    "com.kingroot.kinguser"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "G小金"
+  ],
+  "title": {
+    "source": {
+      "zh": "KingRoot更新下载目录"
+    },
+    "defaultSource": "KingRoot更新下载目录"
+  }
+}

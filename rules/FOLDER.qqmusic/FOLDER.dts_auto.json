@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "pytrade"
+  ],
+  "title": {
+    "source": {
+      "zh": "qq音乐DTS缓存"
+    },
+    "defaultSource": "qq音乐DTS缓存"
+  }
+}

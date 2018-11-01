@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.zhaopin.social"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "智联招聘卸载残留"
+    },
+    "defaultSource": "智联招聘卸载残留"
+  }
+}

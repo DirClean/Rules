@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.myzaker.ZAKER_Phone"
+  ],
+  "authors": [
+    "hehedi233"
+  ],
+  "title": {
+    "source": {
+      "zh": "ZAKER缓存文件"
+    },
+    "defaultSource": "ZAKER缓存文件"
+  }
+}

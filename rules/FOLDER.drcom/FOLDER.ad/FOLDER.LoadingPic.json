@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.drcom.DuoDian"
+  ],
+  "authors": [
+    "idminz"
+  ],
+  "title": {
+    "source": {
+      "zh": "哆点的启动页广告"
+    },
+    "defaultSource": "哆点的启动页广告"
+  }
+}

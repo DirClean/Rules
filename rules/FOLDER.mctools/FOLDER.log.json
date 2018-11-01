@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "io.mrarm.mctoolbox"
+  ],
+  "authors": [
+    "hzy2003"
+  ],
+  "title": {
+    "source": {
+      "zh": "toolbox日志文件"
+    },
+    "defaultSource": "toolbox日志文件"
+  }
+}

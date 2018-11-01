@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.bbk.appstore"
+  ],
+  "authors": [
+    "LimaXRomeo"
+  ],
+  "title": {
+    "source": {
+      "zh": "vivo应用商店缓存"
+    },
+    "defaultSource": "vivo应用商店缓存"
+  }
+}

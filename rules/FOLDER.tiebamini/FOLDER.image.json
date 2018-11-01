@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.tieba_mini"
+  ],
+  "authors": [
+    "himeope"
+  ],
+  "title": {
+    "source": {
+      "zh": "贴吧极速版查看原图的缓存"
+    },
+    "defaultSource": "贴吧极速版查看原图的缓存"
+  }
+}

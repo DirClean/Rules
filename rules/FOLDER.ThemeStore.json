@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.nearme.themespace"
+  ],
+  "authors": [
+    "asuka"
+  ],
+  "title": {
+    "source": {
+      "zh": "oppo主题商店的缓存"
+    },
+    "defaultSource": "oppo主题商店的缓存"
+  }
+}

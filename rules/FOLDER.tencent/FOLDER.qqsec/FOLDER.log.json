@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.token"
+  ],
+  "authors": [
+    "我等千山雪尽"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ安全中心日志文件"
+    },
+    "defaultSource": "QQ安全中心日志文件"
+  }
+}

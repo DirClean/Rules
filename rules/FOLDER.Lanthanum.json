@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.xzr.La.systemtoolbox"
+  ],
+  "authors": [
+    "xzr467706992"
+  ],
+  "title": {
+    "source": {
+      "zh": "镧系统工具箱默认文件夹"
+    },
+    "defaultSource": "镧系统工具箱默认文件夹"
+  }
+}

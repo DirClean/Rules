@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.cainiao.wireless"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "菜鸟裹裹日志文件"
+    },
+    "defaultSource": "菜鸟裹裹日志文件"
+  }
+}

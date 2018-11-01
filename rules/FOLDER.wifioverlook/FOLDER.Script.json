@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.bhu.wifioverlook"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "WIFI路由管家脚本缓存"
+    },
+    "defaultSource": "WIFI路由管家脚本缓存"
+  }
+}

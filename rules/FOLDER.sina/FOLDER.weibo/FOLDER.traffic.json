@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sina.weibo"
+  ],
+  "authors": [
+    "missyoulcj"
+  ],
+  "title": {
+    "source": {
+      "zh": "微博交通缓存"
+    },
+    "defaultSource": "微博交通缓存"
+  }
+}

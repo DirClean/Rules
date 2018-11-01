@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.youdao.translator"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "有道翻译官日志"
+    },
+    "defaultSource": "有道翻译官日志"
+  }
+}
