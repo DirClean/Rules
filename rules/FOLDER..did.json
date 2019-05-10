@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "某标记设备文件"
+    },
+    "defaultSource": "某标记设备文件"
+  }
+}

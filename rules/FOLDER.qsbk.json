@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "qsbk.app"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "糗事百科卸载残留"
+    },
+    "defaultSource": "糗事百科卸载残留"
+  }
+}

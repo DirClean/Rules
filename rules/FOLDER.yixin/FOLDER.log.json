@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "im.yixin"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "易信日志"
+    },
+    "defaultSource": "易信日志"
+  }
+}

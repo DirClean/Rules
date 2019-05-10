@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "FormatFa.ApktoolHelper"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Apktool+助手残留的插件"
+    },
+    "defaultSource": "Apktool+助手残留的插件"
+  }
+}

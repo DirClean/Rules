@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "fm.xiami.main"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "虾米音乐图片缓存"
+    },
+    "defaultSource": "虾米音乐图片缓存"
+  }
+}

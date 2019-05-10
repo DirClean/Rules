@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "vmovier.com.activity"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "V电影小米推送日志"
+    },
+    "defaultSource": "V电影小米推送日志"
+  }
+}

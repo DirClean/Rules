@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.chaozh.iReaderFree"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌阅日志"
+    },
+    "defaultSource": "掌阅日志"
+  }
+}

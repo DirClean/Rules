@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.luojilab.player"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "得到日志"
+    },
+    "defaultSource": "得到日志"
+  }
+}

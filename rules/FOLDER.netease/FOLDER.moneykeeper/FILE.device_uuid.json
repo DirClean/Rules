@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.netease.moneykeeper"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易有钱记账标记设备文件"
+    },
+    "defaultSource": "网易有钱记账标记设备文件"
+  }
+}

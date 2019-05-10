@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ape.games.mycolony.st"
+  ],
+  "authors": [
+    "Config"
+  ],
+  "title": {
+    "source": {
+      "zh": "我的殖民地汉化版"
+    },
+    "defaultSource": "我的殖民地汉化版"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.PmdCampus"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯校猿TBS内核日志"
+    },
+    "defaultSource": "腾讯校猿TBS内核日志"
+  }
+}

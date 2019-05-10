@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingreader.framework"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "开卷小说缓存"
+    },
+    "defaultSource": "开卷小说缓存"
+  }
+}

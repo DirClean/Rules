@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.edusign.yibi.sucai"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "壹笔·作文日志"
+    },
+    "defaultSource": "壹笔·作文日志"
+  }
+}

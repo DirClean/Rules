@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.hipipal.qpy3"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "QPython缓存"
+    },
+    "defaultSource": "QPython缓存"
+  }
+}

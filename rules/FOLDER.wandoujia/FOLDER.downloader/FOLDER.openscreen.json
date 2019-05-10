@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.wandoujia.phoenix2"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "豌豆荚图片缓存"
+    },
+    "defaultSource": "豌豆荚图片缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqmusiclocalplayer"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "轻听日志"
+    },
+    "defaultSource": "轻听日志"
+  }
+}

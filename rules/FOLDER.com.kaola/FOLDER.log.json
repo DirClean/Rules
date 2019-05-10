@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.kaola"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易考拉海购日志"
+    },
+    "defaultSource": "网易考拉海购日志"
+  }
+}

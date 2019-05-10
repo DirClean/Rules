@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.achievo.vipshop"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "唯品会TBS内核日志"
+    },
+    "defaultSource": "唯品会TBS内核日志"
+  }
+}

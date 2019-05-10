@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sohu.infonews"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狐新闻资讯版分享的图片"
+    },
+    "defaultSource": "搜狐新闻资讯版分享的图片"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.letv.android.client"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "乐视视频日志"
+    },
+    "defaultSource": "乐视视频日志"
+  }
+}

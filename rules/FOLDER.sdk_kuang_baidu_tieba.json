@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.tieba"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度贴吧图片缓存及日志文件"
+    },
+    "defaultSource": "百度贴吧图片缓存及日志文件"
+  }
+}

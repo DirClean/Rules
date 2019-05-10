@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.fenbi.android.gaozhong"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "猿题库卸载残留"
+    },
+    "defaultSource": "猿题库卸载残留"
+  }
+}

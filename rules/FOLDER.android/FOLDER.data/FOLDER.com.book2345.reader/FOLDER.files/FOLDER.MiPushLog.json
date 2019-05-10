@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.book2345.reader"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "阅读王小米推送日志"
+    },
+    "defaultSource": "阅读王小米推送日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.baidu.lbs.waimai"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度外卖卸载残留"
+    },
+    "defaultSource": "百度外卖卸载残留"
+  }
+}

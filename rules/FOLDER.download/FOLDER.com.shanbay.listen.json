@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.shanbay.listen"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝听力卸载残留"
+    },
+    "defaultSource": "扇贝听力卸载残留"
+  }
+}

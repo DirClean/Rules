@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qim"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "QIM动态摄影素材"
+    },
+    "defaultSource": "QIM动态摄影素材"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.qim"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "QIM卸载残留"
+    },
+    "defaultSource": "QIM卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqqi"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ国际版聊天图片缓存"
+    },
+    "defaultSource": "QQ国际版聊天图片缓存"
+  }
+}

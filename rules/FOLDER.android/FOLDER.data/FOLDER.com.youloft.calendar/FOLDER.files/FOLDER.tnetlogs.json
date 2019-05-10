@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.youloft.calendar"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "万年历日志"
+    },
+    "defaultSource": "万年历日志"
+  }
+}

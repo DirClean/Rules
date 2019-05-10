@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.zhaopin.social"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "18048050108"
+  ],
+  "title": {
+    "source": {
+      "zh": "智联招聘自动更新安装包"
+    },
+    "defaultSource": "智联招聘自动更新安装包"
+  }
+}

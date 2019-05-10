@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.weico.international"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "微博国际版卸载残留"
+    },
+    "defaultSource": "微博国际版卸载残留"
+  }
+}

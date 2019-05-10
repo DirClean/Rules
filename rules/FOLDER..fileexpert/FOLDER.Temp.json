@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "xcxin.filexpert"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "文件大师缓存"
+    },
+    "defaultSource": "文件大师缓存"
+  }
+}

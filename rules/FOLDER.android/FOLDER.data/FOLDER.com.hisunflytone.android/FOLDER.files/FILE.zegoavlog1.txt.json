@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.hisunflytone.android"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "咪咕圈圈日志"
+    },
+    "defaultSource": "咪咕圈圈日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "g.star.iota.milk"
+  ],
+  "authors": [
+    "Copyright³"
+  ],
+  "title": {
+    "source": {
+      "zh": "milk卸载残留"
+    },
+    "defaultSource": "milk卸载残留"
+  }
+}

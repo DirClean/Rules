@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.baidu.input_huawei"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度输入法华为版残留的字体"
+    },
+    "defaultSource": "百度输入法华为版残留的字体"
+  }
+}

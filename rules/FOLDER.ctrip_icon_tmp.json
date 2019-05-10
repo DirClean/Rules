@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "ctrip.android.view"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "携程旅行缓存"
+    },
+    "defaultSource": "携程旅行缓存"
+  }
+}

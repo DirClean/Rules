@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.QQLottery"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ彩票TBS内核残留"
+    },
+    "defaultSource": "QQ彩票TBS内核残留"
+  }
+}

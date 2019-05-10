@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.yanxuan"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易严选卸载残留"
+    },
+    "defaultSource": "网易严选卸载残留"
+  }
+}

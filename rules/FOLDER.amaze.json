@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.leappmusic.amaze"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Amaze卸载残留"
+    },
+    "defaultSource": "Amaze卸载残留"
+  }
+}

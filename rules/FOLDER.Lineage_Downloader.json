@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.paolinoalessandro.cmromdownloader"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Lineage Downloader残留的刷机包等"
+    },
+    "defaultSource": "Lineage Downloader残留的刷机包等"
+  }
+}

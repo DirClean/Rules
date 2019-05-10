@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mi.vtalk"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米视频通话日志"
+    },
+    "defaultSource": "小米视频通话日志"
+  }
+}

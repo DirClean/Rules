@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.igame"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯游戏人生TBS内核日志"
+    },
+    "defaultSource": "腾讯游戏人生TBS内核日志"
+  }
+}

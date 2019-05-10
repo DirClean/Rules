@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.fooview.android.fooview"
+  ],
+  "authors": [
+    "david082321"
+  ],
+  "title": {
+    "source": {
+      "zh": "FooView缓存"
+    },
+    "defaultSource": "FooView缓存"
+  }
+}

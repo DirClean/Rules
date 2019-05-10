@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.shuqi.controller"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "书旗小说日志"
+    },
+    "defaultSource": "书旗小说日志"
+  }
+}

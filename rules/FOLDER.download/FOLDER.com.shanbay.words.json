@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.shanbay.words"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝单词卸载残留"
+    },
+    "defaultSource": "扇贝单词卸载残留"
+  }
+}

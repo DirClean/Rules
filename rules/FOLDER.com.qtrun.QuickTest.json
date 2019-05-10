@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qtrun.QuickTest"
+  ],
+  "authors": [
+    "Naming8104"
+  ],
+  "title": {
+    "source": {
+      "zh": "网络信号大师日志文件"
+    },
+    "defaultSource": "网络信号大师日志文件"
+  }
+}

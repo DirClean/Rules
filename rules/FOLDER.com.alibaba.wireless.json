@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.alibaba.wireless"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿里巴巴卸载残留"
+    },
+    "defaultSource": "阿里巴巴卸载残留"
+  }
+}

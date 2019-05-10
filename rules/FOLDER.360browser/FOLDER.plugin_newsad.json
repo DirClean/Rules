@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.qihoo.browser"
+  ],
+  "authors": [
+    "廖煜堃"
+  ],
+  "title": {
+    "source": {
+      "zh": "360浏览器广告缓存图片"
+    },
+    "defaultSource": "360浏览器广告缓存图片"
+  }
+}

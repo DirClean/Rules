@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.smarthome"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "米家日志"
+    },
+    "defaultSource": "米家日志"
+  }
+}

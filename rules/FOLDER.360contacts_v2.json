@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qihoo360.contacts"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "360免费电话卸载残留"
+    },
+    "defaultSource": "360免费电话卸载残留"
+  }
+}

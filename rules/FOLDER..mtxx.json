@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.mt.mtxx.mtxx"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "美图秀秀卸载残留"
+    },
+    "defaultSource": "美图秀秀卸载残留"
+  }
+}

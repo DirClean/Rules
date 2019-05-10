@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.alicall.androidzb"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿里通电话卸载残留"
+    },
+    "defaultSource": "阿里通电话卸载残留"
+  }
+}

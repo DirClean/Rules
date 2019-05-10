@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.diyidan"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "第一弹图片卸载残留"
+    },
+    "defaultSource": "第一弹图片卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.homelink.android"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "链家小米推送日志"
+    },
+    "defaultSource": "链家小米推送日志"
+  }
+}

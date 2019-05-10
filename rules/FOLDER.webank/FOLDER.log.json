@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.webank.wemoney"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "微众银行日志"
+    },
+    "defaultSource": "微众银行日志"
+  }
+}

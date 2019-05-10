@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cmccwm.mobilemusic"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "咪咕音乐图片缓存"
+    },
+    "defaultSource": "咪咕音乐图片缓存"
+  }
+}

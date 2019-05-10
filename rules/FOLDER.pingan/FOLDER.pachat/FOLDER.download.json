@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.hundsun.winner.pazq"
+  ],
+  "authors": [
+    "ych5318"
+  ],
+  "title": {
+    "source": {
+      "zh": "平安证券广告文件"
+    },
+    "defaultSource": "平安证券广告文件"
+  }
+}

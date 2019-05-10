@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.immomo.momo"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "陌陌缓存"
+    },
+    "defaultSource": "陌陌缓存"
+  }
+}

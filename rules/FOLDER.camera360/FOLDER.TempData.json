@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "vStudio.Android.Camera360"
+  ],
+  "authors": [
+    "18069801184"
+  ],
+  "title": {
+    "source": {
+      "zh": "相机360缓存路径"
+    },
+    "defaultSource": "相机360缓存路径"
+  }
+}

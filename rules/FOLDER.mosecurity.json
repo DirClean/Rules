@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.cleanmaster.security_cn"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "猎豹安全大师卸载残留"
+    },
+    "defaultSource": "猎豹安全大师卸载残留"
+  }
+}

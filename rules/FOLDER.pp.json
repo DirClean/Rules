@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.pp.assistant"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "pp助手残留"
+    },
+    "defaultSource": "pp助手残留"
+  }
+}

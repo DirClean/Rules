@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "org.telegram.messenger"
+  ],
+  "authors": [
+    "舔翔虫"
+  ],
+  "title": {
+    "source": {
+      "zh": "Telegram语音缓存"
+    },
+    "defaultSource": "Telegram语音缓存"
+  }
+}

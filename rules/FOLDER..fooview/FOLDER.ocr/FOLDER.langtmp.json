@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.fooview.android.fooview"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "fooView缓存"
+    },
+    "defaultSource": "fooView缓存"
+  }
+}

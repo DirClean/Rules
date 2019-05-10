@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qgame"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "企鹅电竞TBS内核日志"
+    },
+    "defaultSource": "企鹅电竞TBS内核日志"
+  }
+}

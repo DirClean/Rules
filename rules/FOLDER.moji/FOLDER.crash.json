@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.moji.mjweather"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "墨迹天气日志"
+    },
+    "defaultSource": "墨迹天气日志"
+  }
+}

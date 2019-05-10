@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.applisto.appcloner"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "App Cloner 應用程式縮圖"
+    },
+    "defaultSource": "App Cloner 應用程式縮圖"
+  }
+}

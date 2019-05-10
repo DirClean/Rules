@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qim"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "QIM红包缓存"
+    },
+    "defaultSource": "QIM红包缓存"
+  }
+}

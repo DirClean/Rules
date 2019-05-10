@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.nd.android.pandareader"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "熊猫看书图片缓存"
+    },
+    "defaultSource": "熊猫看书图片缓存"
+  }
+}

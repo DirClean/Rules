@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.imusic.iting"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱听4G图片缓存"
+    },
+    "defaultSource": "爱听4G图片缓存"
+  }
+}

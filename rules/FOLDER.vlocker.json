@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.vlocker.locker"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "微锁屏卸载残留"
+    },
+    "defaultSource": "微锁屏卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.webank.wemoney"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "微众银行卸载残留"
+    },
+    "defaultSource": "微众银行卸载残留"
+  }
+}

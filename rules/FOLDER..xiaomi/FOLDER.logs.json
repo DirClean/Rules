@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.yidian.xiaomi"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "新闻资讯日志"
+    },
+    "defaultSource": "新闻资讯日志"
+  }
+}

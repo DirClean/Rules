@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.now"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "NOW直播日志"
+    },
+    "defaultSource": "NOW直播日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.kingsoft"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "金山词霸残留的词库等"
+    },
+    "defaultSource": "金山词霸残留的词库等"
+  }
+}

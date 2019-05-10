@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ss.android.article.news"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "今日头条日志"
+    },
+    "defaultSource": "今日头条日志"
+  }
+}

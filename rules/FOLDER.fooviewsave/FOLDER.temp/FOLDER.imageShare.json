@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.fooview.android.fooview"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "fooView分享的图片缓存"
+    },
+    "defaultSource": "fooView分享的图片缓存"
+  }
+}

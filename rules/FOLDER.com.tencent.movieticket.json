@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.movieticket"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "娱票儿卸载残留"
+    },
+    "defaultSource": "娱票儿卸载残留"
+  }
+}

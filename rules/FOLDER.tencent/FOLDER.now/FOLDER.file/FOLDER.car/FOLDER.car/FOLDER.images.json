@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.now"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "NOW直播图片缓存"
+    },
+    "defaultSource": "NOW直播图片缓存"
+  }
+}

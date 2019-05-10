@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.ifeng.news2"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "凤凰新闻缓存"
+    },
+    "defaultSource": "凤凰新闻缓存"
+  }
+}

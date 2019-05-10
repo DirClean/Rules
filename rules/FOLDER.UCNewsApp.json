@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.uc.infoflow"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "UC头条卸载残留"
+    },
+    "defaultSource": "UC头条卸载残留"
+  }
+}

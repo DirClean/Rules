@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.baidu.homework"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "作业帮日志"
+    },
+    "defaultSource": "作业帮日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingpoint.gmcchh"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "广东移动图片缓存"
+    },
+    "defaultSource": "广东移动图片缓存"
+  }
+}

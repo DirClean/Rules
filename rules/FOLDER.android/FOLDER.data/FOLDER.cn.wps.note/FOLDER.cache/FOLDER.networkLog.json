@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.wps.note"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "WPS便签日志"
+    },
+    "defaultSource": "WPS便签日志"
+  }
+}

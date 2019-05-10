@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.vancl.activity"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "凡客缓存"
+    },
+    "defaultSource": "凡客缓存"
+  }
+}

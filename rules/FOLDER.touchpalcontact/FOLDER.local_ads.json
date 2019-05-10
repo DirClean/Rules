@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.cootek.smartdialer"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "触宝电话广告"
+    },
+    "defaultSource": "触宝电话广告"
+  }
+}

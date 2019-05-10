@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "bin.mt.plus"
+  ],
+  "authors": [
+    "维他入我心"
+  ],
+  "title": {
+    "source": {
+      "zh": "mt管理器2卸载残留"
+    },
+    "defaultSource": "mt管理器2卸载残留"
+  }
+}

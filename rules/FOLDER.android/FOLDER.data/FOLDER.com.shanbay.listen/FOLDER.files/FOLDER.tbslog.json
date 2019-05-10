@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.shanbay.listen"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝听力TBS内核日志"
+    },
+    "defaultSource": "扇贝听力TBS内核日志"
+  }
+}

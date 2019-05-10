@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sing.client"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "5sing原创音乐图片缓存"
+    },
+    "defaultSource": "5sing原创音乐图片缓存"
+  }
+}

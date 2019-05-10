@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cm.aptoide.pt"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Aptoide图片缓存"
+    },
+    "defaultSource": "Aptoide图片缓存"
+  }
+}

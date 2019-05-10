@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.starbucks.cn"
+  ],
+  "authors": [
+    "XueKirby"
+  ],
+  "title": {
+    "source": {
+      "zh": "星巴克图片缓存"
+    },
+    "defaultSource": "星巴克图片缓存"
+  }
+}

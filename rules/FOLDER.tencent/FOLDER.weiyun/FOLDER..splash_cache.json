@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qq.qcloud"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "微云缓存"
+    },
+    "defaultSource": "微云缓存"
+  }
+}

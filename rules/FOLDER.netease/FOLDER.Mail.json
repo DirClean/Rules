@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.mail"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易邮箱大师卸载残留"
+    },
+    "defaultSource": "网易邮箱大师卸载残留"
+  }
+}

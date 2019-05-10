@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.phantom.onetapvideodownload"
+  ],
+  "authors": [
+    "WA KA"
+  ],
+  "title": {
+    "source": {
+      "zh": "OneTapVideoDownload 视频连接日志"
+    },
+    "defaultSource": "OneTapVideoDownload 视频连接日志"
+  }
+}

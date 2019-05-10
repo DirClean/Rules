@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.wochacha"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "我查查卸载残留"
+    },
+    "defaultSource": "我查查卸载残留"
+  }
+}

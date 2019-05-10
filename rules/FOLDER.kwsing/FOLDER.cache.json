@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.kuwo.sing"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷我K歌缓存"
+    },
+    "defaultSource": "酷我K歌缓存"
+  }
+}

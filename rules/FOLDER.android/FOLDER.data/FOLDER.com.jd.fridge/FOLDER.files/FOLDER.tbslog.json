@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.jd.fridge"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东新鲜GO TBS内核日志"
+    },
+    "defaultSource": "京东新鲜GO TBS内核日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "me.piebridge.brevent"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "黑域日志"
+    },
+    "defaultSource": "黑域日志"
+  }
+}

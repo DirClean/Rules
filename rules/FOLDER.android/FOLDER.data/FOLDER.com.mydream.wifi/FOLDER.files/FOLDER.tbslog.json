@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mydream.wifi"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "WiFi伴侣TBS内核日志"
+    },
+    "defaultSource": "WiFi伴侣TBS内核日志"
+  }
+}

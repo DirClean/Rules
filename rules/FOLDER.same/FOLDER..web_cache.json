@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.same.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "Same缓存"
+    },
+    "defaultSource": "Same缓存"
+  }
+}

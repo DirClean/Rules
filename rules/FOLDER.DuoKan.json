@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.duokan.reader"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "多看阅读卸载残留"
+    },
+    "defaultSource": "多看阅读卸载残留"
+  }
+}

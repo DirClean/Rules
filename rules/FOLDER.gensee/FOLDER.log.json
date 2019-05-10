@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.lejent.zuoyeshenqi.afanti"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿凡题日志"
+    },
+    "defaultSource": "阿凡题日志"
+  }
+}

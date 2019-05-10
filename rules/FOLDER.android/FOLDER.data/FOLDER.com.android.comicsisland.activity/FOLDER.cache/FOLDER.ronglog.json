@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.comicsisland.activity"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "漫画岛日志"
+    },
+    "defaultSource": "漫画岛日志"
+  }
+}

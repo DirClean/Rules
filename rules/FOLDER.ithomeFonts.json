@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ruanmei.ithome"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "IT之家字体"
+    },
+    "defaultSource": "IT之家字体"
+  }
+}

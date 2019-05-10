@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.news"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯新闻日志"
+    },
+    "defaultSource": "腾讯新闻日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.nearme.themespace"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "ColorOS主题商店缓存"
+    },
+    "defaultSource": "ColorOS主题商店缓存"
+  }
+}

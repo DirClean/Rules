@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.youdao.course"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "有道精品课启动图广告"
+    },
+    "defaultSource": "有道精品课启动图广告"
+  }
+}

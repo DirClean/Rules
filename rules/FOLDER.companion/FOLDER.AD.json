@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.mobvoi.companion"
+  ],
+  "authors": [
+    "Config"
+  ],
+  "title": {
+    "source": {
+      "zh": "ticwear助手广告缓存"
+    },
+    "defaultSource": "ticwear助手广告缓存"
+  }
+}

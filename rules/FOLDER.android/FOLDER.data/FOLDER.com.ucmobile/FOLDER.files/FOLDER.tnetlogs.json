@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.UCMobile"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "UC浏览器日志"
+    },
+    "defaultSource": "UC浏览器日志"
+  }
+}

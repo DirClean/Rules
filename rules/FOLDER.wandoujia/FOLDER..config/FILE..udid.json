@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.wandoujia.phoenix2"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "豌豆荚标记设备文件"
+    },
+    "defaultSource": "豌豆荚标记设备文件"
+  }
+}

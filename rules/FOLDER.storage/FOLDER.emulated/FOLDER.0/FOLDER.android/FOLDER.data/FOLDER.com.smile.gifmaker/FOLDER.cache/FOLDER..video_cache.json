@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.smile.gifmaker"
+  ],
+  "authors": [
+    "SZ_ZW"
+  ],
+  "title": {
+    "source": {
+      "zh": "快手视频缓存"
+    },
+    "defaultSource": "快手视频缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.jsmcc"
+  ],
+  "authors": [
+    "xieyuheng"
+  ],
+  "title": {
+    "source": {
+      "zh": "江苏移动掌上营业厅日志"
+    },
+    "defaultSource": "江苏移动掌上营业厅日志"
+  }
+}

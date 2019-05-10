@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.meitu.wheecam"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "潮自拍广告"
+    },
+    "defaultSource": "潮自拍广告"
+  }
+}

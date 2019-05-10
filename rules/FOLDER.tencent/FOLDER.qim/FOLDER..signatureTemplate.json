@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qim"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "QIM个性签名模板缓存"
+    },
+    "defaultSource": "QIM个性签名模板缓存"
+  }
+}

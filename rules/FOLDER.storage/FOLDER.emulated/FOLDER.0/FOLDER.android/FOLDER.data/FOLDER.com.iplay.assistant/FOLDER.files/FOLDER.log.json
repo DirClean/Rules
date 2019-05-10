@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.iplay.assistant"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "无尽青空"
+  ],
+  "title": {
+    "source": {
+      "zh": "GG大玩家无用日志"
+    },
+    "defaultSource": "GG大玩家无用日志"
+  }
+}

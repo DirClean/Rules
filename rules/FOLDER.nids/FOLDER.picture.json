@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.isall.nids"
+  ],
+  "authors": [
+    "ymckc"
+  ],
+  "title": {
+    "source": {
+      "zh": "江西农信社网络握手图片缓存"
+    },
+    "defaultSource": "江西农信社网络握手图片缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.iflytek.vflynote"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "讯飞语记卸载残留"
+    },
+    "defaultSource": "讯飞语记卸载残留"
+  }
+}

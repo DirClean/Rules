@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.yy.yymeet"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "微会日志"
+    },
+    "defaultSource": "微会日志"
+  }
+}

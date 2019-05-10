@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tudou.android"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "土豆视频缓存"
+    },
+    "defaultSource": "土豆视频缓存"
+  }
+}

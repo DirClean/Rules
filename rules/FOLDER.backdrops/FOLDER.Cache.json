@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.backdrops.wallpapers"
+  ],
+  "authors": [
+    "Kengkeng_Keke"
+  ],
+  "title": {
+    "source": {
+      "zh": "Backdrops缓存"
+    },
+    "defaultSource": "Backdrops缓存"
+  }
+}

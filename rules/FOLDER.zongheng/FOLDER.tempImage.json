@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqqi"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "纵横小说图片缓存"
+    },
+    "defaultSource": "纵横小说图片缓存"
+  }
+}

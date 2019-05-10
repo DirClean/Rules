@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qqlivebroadcast"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯直播缓存"
+    },
+    "defaultSource": "腾讯直播缓存"
+  }
+}

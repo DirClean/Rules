@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tongcheng.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "同程旅游TBS内核日志"
+    },
+    "defaultSource": "同程旅游TBS内核日志"
+  }
+}

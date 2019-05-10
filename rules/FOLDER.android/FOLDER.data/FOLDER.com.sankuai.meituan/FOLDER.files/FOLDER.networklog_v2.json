@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sankuai.meituan"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "美团日志"
+    },
+    "defaultSource": "美团日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.same.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "Same卸载残留"
+    },
+    "defaultSource": "Same卸载残留"
+  }
+}

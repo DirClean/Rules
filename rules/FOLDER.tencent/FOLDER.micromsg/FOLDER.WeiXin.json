@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "Flgs"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信保存的头像"
+    },
+    "defaultSource": "微信保存的头像"
+  }
+}

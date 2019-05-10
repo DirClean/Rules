@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.aurora.note"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "IUNI备忘录缓存"
+    },
+    "defaultSource": "IUNI备忘录缓存"
+  }
+}

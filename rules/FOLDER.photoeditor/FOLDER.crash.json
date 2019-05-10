@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.iudesk.android.photo.editor"
+  ],
+  "authors": [
+    "维他入我心"
+  ],
+  "title": {
+    "source": {
+      "zh": "照片编辑器日志"
+    },
+    "defaultSource": "照片编辑器日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.k12"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "企鹅辅导TBS内核日志"
+    },
+    "defaultSource": "企鹅辅导TBS内核日志"
+  }
+}

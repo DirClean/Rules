@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.copy.paste.ocr.screen.text.copypastetrial"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "Copy Text On Screen 辨識用圖片"
+    },
+    "defaultSource": "Copy Text On Screen 辨識用圖片"
+  }
+}

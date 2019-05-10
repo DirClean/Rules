@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.shop"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米商城小米推送日志"
+    },
+    "defaultSource": "小米商城小米推送日志"
+  }
+}

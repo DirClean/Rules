@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.hm.op.yg_news"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "下文卸载残留"
+    },
+    "defaultSource": "下文卸载残留"
+  }
+}

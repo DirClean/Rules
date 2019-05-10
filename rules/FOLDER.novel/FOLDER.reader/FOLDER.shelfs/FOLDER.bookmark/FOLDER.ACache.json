@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kuangxiang.novel"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "欢乐书客缓存"
+    },
+    "defaultSource": "欢乐书客缓存"
+  }
+}

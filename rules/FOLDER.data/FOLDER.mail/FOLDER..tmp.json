@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.mail"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易邮箱大师缓存"
+    },
+    "defaultSource": "网易邮箱大师缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.uc.infoflow"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "UC头条日志"
+    },
+    "defaultSource": "UC头条日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.miui.gallery"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI相册日志"
+    },
+    "defaultSource": "MIUI相册日志"
+  }
+}

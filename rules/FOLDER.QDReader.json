@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qidian.QDReader"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "起点读书卸载残留"
+    },
+    "defaultSource": "起点读书卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqmusicpad"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐HD日志"
+    },
+    "defaultSource": "QQ音乐HD日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.kascend.chushou"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "触手卸载残留"
+    },
+    "defaultSource": "触手卸载残留"
+  }
+}

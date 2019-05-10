@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.bloomlife.luobo"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "萝卜书摘日志"
+    },
+    "defaultSource": "萝卜书摘日志"
+  }
+}

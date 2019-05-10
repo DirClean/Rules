@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.dongqiudi.news"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "懂球帝日志"
+    },
+    "defaultSource": "懂球帝日志"
+  }
+}

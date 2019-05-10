@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tuboshu.danjuan"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱蛋卷广告"
+    },
+    "defaultSource": "爱蛋卷广告"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.ludashi.benchmark"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "鲁大师图片缓存"
+    },
+    "defaultSource": "鲁大师图片缓存"
+  }
+}

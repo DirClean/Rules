@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.idehub.javaide2"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "i码邦图片缓存"
+    },
+    "defaultSource": "i码邦图片缓存"
+  }
+}

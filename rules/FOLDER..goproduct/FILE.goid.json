@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.gau.go.launcherex"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "GO桌面标记设备文件"
+    },
+    "defaultSource": "GO桌面标记设备文件"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.duowan.mobile"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "YY Crash日志"
+    },
+    "defaultSource": "YY Crash日志"
+  }
+}

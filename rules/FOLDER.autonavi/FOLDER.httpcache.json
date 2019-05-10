@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.autonavi.minimap"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "高德地图缓存"
+    },
+    "defaultSource": "高德地图缓存"
+  }
+}

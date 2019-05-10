@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.inke.trivia"
+  ],
+  "authors": [
+    "DavidSHwang"
+  ],
+  "title": {
+    "source": {
+      "zh": "芝士超人日志文件"
+    },
+    "defaultSource": "芝士超人日志文件"
+  }
+}

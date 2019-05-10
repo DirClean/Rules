@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.edusign.yibi.sucai"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "壹笔·作文图片缓存"
+    },
+    "defaultSource": "壹笔·作文图片缓存"
+  }
+}

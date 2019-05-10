@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.estrongs.android.pop"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "ES文件浏览器缓存"
+    },
+    "defaultSource": "ES文件浏览器缓存"
+  }
+}

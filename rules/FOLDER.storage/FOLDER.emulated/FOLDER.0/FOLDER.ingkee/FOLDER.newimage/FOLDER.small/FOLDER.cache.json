@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.meelive.ingkee"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "映客直播图片缓存"
+    },
+    "defaultSource": "映客直播图片缓存"
+  }
+}

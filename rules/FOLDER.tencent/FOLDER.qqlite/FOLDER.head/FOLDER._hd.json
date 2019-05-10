@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.tencent.qqlite"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "芸枫"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ轻聊版头像缓存"
+    },
+    "defaultSource": "QQ轻聊版头像缓存"
+  }
+}

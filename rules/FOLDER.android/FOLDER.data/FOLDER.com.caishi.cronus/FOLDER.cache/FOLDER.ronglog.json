@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.caishi.cronus"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "唔哩头条日志"
+    },
+    "defaultSource": "唔哩头条日志"
+  }
+}

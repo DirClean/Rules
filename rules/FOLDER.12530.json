@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "cmccwm.mobilemusic"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "咪咕音乐卸载残留"
+    },
+    "defaultSource": "咪咕音乐卸载残留"
+  }
+}

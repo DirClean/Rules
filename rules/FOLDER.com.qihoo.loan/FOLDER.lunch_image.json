@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qihoo.loan"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "360借条启动图缓存"
+    },
+    "defaultSource": "360借条启动图缓存"
+  }
+}

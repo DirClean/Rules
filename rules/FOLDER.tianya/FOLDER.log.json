@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.tianya.light"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "天涯社区日志"
+    },
+    "defaultSource": "天涯社区日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.searchbox"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "手机百度视频缓存"
+    },
+    "defaultSource": "手机百度视频缓存"
+  }
+}

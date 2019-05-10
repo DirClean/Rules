@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.ebodoo.babyplan"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "宝贝全计划缓存"
+    },
+    "defaultSource": "宝贝全计划缓存"
+  }
+}

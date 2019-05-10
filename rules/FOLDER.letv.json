@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.letv.android.client"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "乐视视频卸载残留"
+    },
+    "defaultSource": "乐视视频卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.yiche.price"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "汽车报价大全图片缓存"
+    },
+    "defaultSource": "汽车报价大全图片缓存"
+  }
+}

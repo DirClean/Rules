@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.autonavi.minimap"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "高德地图的地图缓存"
+    },
+    "defaultSource": "高德地图的地图缓存"
+  }
+}

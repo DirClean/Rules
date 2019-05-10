@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.dangdang.reader"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "当当读书卸载残留"
+    },
+    "defaultSource": "当当读书卸载残留"
+  }
+}

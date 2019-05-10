@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qihoo360.mobilesafe"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "360卫士的新闻图片缓存"
+    },
+    "defaultSource": "360卫士的新闻图片缓存"
+  }
+}

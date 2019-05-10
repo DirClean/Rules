@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.gamehelper.smoba"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "王者荣耀助手卸载残留"
+    },
+    "defaultSource": "王者荣耀助手卸载残留"
+  }
+}

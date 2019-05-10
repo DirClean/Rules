@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.chinamobile.mcloud"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "和彩云通讯录卸载残留"
+    },
+    "defaultSource": "和彩云通讯录卸载残留"
+  }
+}

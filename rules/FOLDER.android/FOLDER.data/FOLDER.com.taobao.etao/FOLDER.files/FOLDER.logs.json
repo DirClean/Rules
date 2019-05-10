@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.taobao.etao"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "一淘日志"
+    },
+    "defaultSource": "一淘日志"
+  }
+}

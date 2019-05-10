@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.yx"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "有信残留文件"
+    },
+    "defaultSource": "有信残留文件"
+  }
+}

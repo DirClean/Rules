@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.dangdang.reader"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "当当读书图片缓存"
+    },
+    "defaultSource": "当当读书图片缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.chinamobile.cmccwifi"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "随e行WiFi卸载残留"
+    },
+    "defaultSource": "随e行WiFi卸载残留"
+  }
+}

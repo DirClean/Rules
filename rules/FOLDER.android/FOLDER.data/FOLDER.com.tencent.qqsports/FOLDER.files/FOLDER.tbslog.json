@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqsports"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯体育TBS内核日志"
+    },
+    "defaultSource": "腾讯体育TBS内核日志"
+  }
+}

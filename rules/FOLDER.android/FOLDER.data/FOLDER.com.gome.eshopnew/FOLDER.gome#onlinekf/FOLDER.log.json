@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.gome.eshopnew"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "国美日志"
+    },
+    "defaultSource": "国美日志"
+  }
+}

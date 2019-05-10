@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meitu.meiyancamera"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "美颜相机TBS内核日志"
+    },
+    "defaultSource": "美颜相机TBS内核日志"
+  }
+}

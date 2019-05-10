@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.downloading.main.baiduyundownload"
+  ],
+  "authors": [
+    "星光"
+  ],
+  "title": {
+    "source": {
+      "zh": "village在线查看时的缓存文件"
+    },
+    "defaultSource": "village在线查看时的缓存文件"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "净网大师内容审查待上传的文件"
+    },
+    "defaultSource": "净网大师内容审查待上传的文件"
+  }
+}

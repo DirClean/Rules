@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.greenpoint.android.mc10086.activity"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "中国移动卸载残留"
+    },
+    "defaultSource": "中国移动卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xunmeng.pinduoduo"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "拼多多日志"
+    },
+    "defaultSource": "拼多多日志"
+  }
+}

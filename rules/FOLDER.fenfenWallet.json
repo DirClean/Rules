@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "net.ffrj.pinkwallet"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "可萌记账卸载残留"
+    },
+    "defaultSource": "可萌记账卸载残留"
+  }
+}

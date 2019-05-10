@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sogou.toptennews"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "今日十大新闻日志"
+    },
+    "defaultSource": "今日十大新闻日志"
+  }
+}

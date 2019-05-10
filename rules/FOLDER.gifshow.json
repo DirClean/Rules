@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.smile.gifmaker"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "快手卸载残留"
+    },
+    "defaultSource": "快手卸载残留"
+  }
+}

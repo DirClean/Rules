@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.MobileTicket"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "铁路12306启动图广告"
+    },
+    "defaultSource": "铁路12306启动图广告"
+  }
+}

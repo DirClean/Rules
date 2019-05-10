@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.mm"
+  ],
+  "authors": [
+    "pexcn"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信crash日志"
+    },
+    "defaultSource": "微信crash日志"
+  }
+}

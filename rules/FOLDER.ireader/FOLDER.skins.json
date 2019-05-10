@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.chaozh.iReaderFree"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌阅使用的皮肤"
+    },
+    "defaultSource": "掌阅使用的皮肤"
+  }
+}

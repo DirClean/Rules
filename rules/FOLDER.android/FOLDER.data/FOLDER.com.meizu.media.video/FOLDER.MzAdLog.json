@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meizu.media.video"
+  ],
+  "authors": [
+    "qyd0801"
+  ],
+  "title": {
+    "source": {
+      "zh": "魅族视频广告日志"
+    },
+    "defaultSource": "魅族视频广告日志"
+  }
+}

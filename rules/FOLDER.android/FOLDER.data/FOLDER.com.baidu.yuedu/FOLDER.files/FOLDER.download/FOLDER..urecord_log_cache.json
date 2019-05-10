@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.baidu.yuedu"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度阅读日志"
+    },
+    "defaultSource": "百度阅读日志"
+  }
+}

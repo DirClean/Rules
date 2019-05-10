@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "tiiehenry.dynamicenv"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "DynamicEnv日志"
+    },
+    "defaultSource": "DynamicEnv日志"
+  }
+}

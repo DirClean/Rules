@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.nd.android.pandahome2"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "91桌面升级缓存"
+    },
+    "defaultSource": "91桌面升级缓存"
+  }
+}

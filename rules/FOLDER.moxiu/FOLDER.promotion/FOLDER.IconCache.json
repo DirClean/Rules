@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.moxiu.launcher"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "魔秀桌面缓存"
+    },
+    "defaultSource": "魔秀桌面缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qt.qtl"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌上英雄联盟日志"
+    },
+    "defaultSource": "掌上英雄联盟日志"
+  }
+}

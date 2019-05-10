@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.shouqu.bookmarklife"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "收趣图片缓存"
+    },
+    "defaultSource": "收趣图片缓存"
+  }
+}

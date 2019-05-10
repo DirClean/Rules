@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meitu.wheecam"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "潮自拍TBS内核日志"
+    },
+    "defaultSource": "潮自拍TBS内核日志"
+  }
+}

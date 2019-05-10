@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.youdao.course"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "有道精品课Crash日志"
+    },
+    "defaultSource": "有道精品课Crash日志"
+  }
+}

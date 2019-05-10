@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.myth.shishi"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "诗Shi分享缓存"
+    },
+    "defaultSource": "诗Shi分享缓存"
+  }
+}

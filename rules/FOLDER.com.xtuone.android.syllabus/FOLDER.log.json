@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xtuone.android.syllabus"
+  ],
+  "authors": [
+    "ysc3839"
+  ],
+  "title": {
+    "source": {
+      "zh": "超级课程表日志"
+    },
+    "defaultSource": "超级课程表日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.vancl.activity"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "凡客卸载残留"
+    },
+    "defaultSource": "凡客卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.pl.getaway.getaway"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "不做手机控日志"
+    },
+    "defaultSource": "不做手机控日志"
+  }
+}

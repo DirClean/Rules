@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.iqiyi.qis"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱奇艺安全盾日志"
+    },
+    "defaultSource": "爱奇艺安全盾日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mymoney"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "随手记日志"
+    },
+    "defaultSource": "随手记日志"
+  }
+}

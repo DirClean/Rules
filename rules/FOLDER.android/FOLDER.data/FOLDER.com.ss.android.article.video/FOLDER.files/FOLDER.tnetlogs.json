@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ss.android.article.video"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "西瓜视频日志"
+    },
+    "defaultSource": "西瓜视频日志"
+  }
+}

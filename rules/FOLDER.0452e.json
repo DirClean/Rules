@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.youzhiapp.cityonhand"
+  ],
+  "willClean": true,
+  "needUninstall": true,
+  "notReplace": true,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "wang93wei"
+  ],
+  "title": {
+    "source": {
+      "zh": "0452e清理规则"
+    },
+    "defaultSource": "0452e清理规则"
+  }
+}

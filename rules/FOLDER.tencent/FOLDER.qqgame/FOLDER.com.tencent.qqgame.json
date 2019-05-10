@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.qqgame"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ游戏卸载残留"
+    },
+    "defaultSource": "QQ游戏卸载残留"
+  }
+}

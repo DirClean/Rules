@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.qqpimsecure"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "手机管家卸载残留"
+    },
+    "defaultSource": "手机管家卸载残留"
+  }
+}

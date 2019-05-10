@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.mfw.roadbook"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "蚂蜂窝自由行卸载残留"
+    },
+    "defaultSource": "蚂蜂窝自由行卸载残留"
+  }
+}

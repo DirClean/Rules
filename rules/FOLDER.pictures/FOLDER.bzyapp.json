@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.bzy.tpxf"
+  ],
+  "authors": [
+    "wxynic"
+  ],
+  "title": {
+    "source": {
+      "zh": "图片放大镜卸载残留"
+    },
+    "defaultSource": "图片放大镜卸载残留"
+  }
+}

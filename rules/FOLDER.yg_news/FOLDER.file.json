@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.hm.op.yg_news"
+  ],
+  "authors": [
+    "ymckc"
+  ],
+  "title": {
+    "source": {
+      "zh": "下文的应用缓存"
+    },
+    "defaultSource": "下文的应用缓存"
+  }
+}

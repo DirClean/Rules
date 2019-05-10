@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.shanbay.words"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "扇贝单词TBS内核日志"
+    },
+    "defaultSource": "扇贝单词TBS内核日志"
+  }
+}

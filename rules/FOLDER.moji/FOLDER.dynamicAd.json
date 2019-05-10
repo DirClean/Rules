@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.moji.mjweather"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "墨迹天气 (视频)广告"
+    },
+    "defaultSource": "墨迹天气 (视频)广告"
+  }
+}

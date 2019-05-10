@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.wandoujia"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "轻芒阅读小米推送日志"
+    },
+    "defaultSource": "轻芒阅读小米推送日志"
+  }
+}

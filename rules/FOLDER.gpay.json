@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "epaylinks.global.payment"
+  ],
+  "authors": [
+    "Rachel030219"
+  ],
+  "title": {
+    "source": {
+      "zh": "全球付垃圾文件"
+    },
+    "defaultSource": "全球付垃圾文件"
+  }
+}

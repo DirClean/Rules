@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.duowan.mobile"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "YY日志"
+    },
+    "defaultSource": "YY日志"
+  }
+}

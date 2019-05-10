@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.duomi.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "多米音乐图片缓存"
+    },
+    "defaultSource": "多米音乐图片缓存"
+  }
+}

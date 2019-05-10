@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.androidqqmail"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ邮箱日志"
+    },
+    "defaultSource": "QQ邮箱日志"
+  }
+}

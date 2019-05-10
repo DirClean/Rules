@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qqlite"
+  ],
+  "authors": [
+    "芸枫"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ轻聊版图片缓存目录"
+    },
+    "defaultSource": "QQ轻聊版图片缓存目录"
+  }
+}

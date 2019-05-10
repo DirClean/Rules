@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.iknow"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度知道缓存"
+    },
+    "defaultSource": "百度知道缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.benqu.wuta"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "无他相机缓存"
+    },
+    "defaultSource": "无他相机缓存"
+  }
+}

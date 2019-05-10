@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.jd.jrapp"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东金融TBS内核日志"
+    },
+    "defaultSource": "京东金融TBS内核日志"
+  }
+}

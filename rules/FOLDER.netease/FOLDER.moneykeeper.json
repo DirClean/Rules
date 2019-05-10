@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.moneykeeper"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易有钱记账卸载残留"
+    },
+    "defaultSource": "网易有钱记账卸载残留"
+  }
+}

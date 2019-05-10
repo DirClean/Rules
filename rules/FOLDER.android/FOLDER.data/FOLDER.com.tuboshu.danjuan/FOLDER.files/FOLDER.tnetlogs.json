@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tuboshu.danjuan"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱蛋卷日志"
+    },
+    "defaultSource": "爱蛋卷日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.hupu.games"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "虎扑卸载残留"
+    },
+    "defaultSource": "虎扑卸载残留"
+  }
+}

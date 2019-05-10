@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.bilibili.app.blue"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "哔哩哔哩概念版日志"
+    },
+    "defaultSource": "哔哩哔哩概念版日志"
+  }
+}

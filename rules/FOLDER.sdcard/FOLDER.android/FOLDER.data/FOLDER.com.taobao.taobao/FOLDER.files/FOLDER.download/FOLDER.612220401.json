@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.taobao.taobao"
+  ],
+  "authors": [
+    "18048050108"
+  ],
+  "title": {
+    "source": {
+      "zh": "手机淘宝下载的红包图片"
+    },
+    "defaultSource": "手机淘宝下载的红包图片"
+  }
+}

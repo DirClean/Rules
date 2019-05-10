@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.coolapk.market"
+  ],
+  "authors": [
+    "coolapk666"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷安加载图片时所产生的缩略图"
+    },
+    "defaultSource": "酷安加载图片时所产生的缩略图"
+  }
+}

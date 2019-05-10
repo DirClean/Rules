@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "org.mobilism.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "Mobilism Market缓存"
+    },
+    "defaultSource": "Mobilism Market缓存"
+  }
+}

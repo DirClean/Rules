@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.sds.android.ttpod"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿里星球卸载残留"
+    },
+    "defaultSource": "阿里星球卸载残留"
+  }
+}

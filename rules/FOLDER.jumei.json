@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jm.android.jumei"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "聚美优品卸载残留"
+    },
+    "defaultSource": "聚美优品卸载残留"
+  }
+}

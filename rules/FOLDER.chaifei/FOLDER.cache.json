@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cc.huochaihe.backtopast"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "柴扉缓存"
+    },
+    "defaultSource": "柴扉缓存"
+  }
+}

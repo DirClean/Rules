@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.dianping.v1"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "大众点评推送日志"
+    },
+    "defaultSource": "大众点评推送日志"
+  }
+}

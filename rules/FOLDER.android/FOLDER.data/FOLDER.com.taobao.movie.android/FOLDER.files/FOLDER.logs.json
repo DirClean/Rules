@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.taobao.movie.android"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "淘票票日志"
+    },
+    "defaultSource": "淘票票日志"
+  }
+}

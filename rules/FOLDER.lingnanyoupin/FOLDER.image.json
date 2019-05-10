@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.vpclub.lnyp"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "岭南优品图片缓存"
+    },
+    "defaultSource": "岭南优品图片缓存"
+  }
+}

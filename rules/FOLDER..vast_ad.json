@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.pplive.androidphone"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "聚力视频广告"
+    },
+    "defaultSource": "聚力视频广告"
+  }
+}

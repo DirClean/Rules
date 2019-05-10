@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.icoolme.android.weather"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "最美天气日志"
+    },
+    "defaultSource": "最美天气日志"
+  }
+}

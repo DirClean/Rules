@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.downloading.main.baiduyundownload"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Village TBS内核日志"
+    },
+    "defaultSource": "Village TBS内核日志"
+  }
+}

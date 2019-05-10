@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.suning.mobile.ebuy"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "苏宁易购日志"
+    },
+    "defaultSource": "苏宁易购日志"
+  }
+}

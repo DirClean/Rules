@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "jp.naver.line.android"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "Line剪接影片時的縮圖"
+    },
+    "defaultSource": "Line剪接影片時的縮圖"
+  }
+}

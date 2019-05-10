@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.movie"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易电影卸载残留"
+    },
+    "defaultSource": "网易电影卸载残留"
+  }
+}

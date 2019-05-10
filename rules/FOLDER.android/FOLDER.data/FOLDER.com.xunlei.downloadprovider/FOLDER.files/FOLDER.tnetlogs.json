@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xunlei.downloadprovider"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "迅雷日志"
+    },
+    "defaultSource": "迅雷日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "zz.dela.cmcc.traffic"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "10086缓存"
+    },
+    "defaultSource": "10086缓存"
+  }
+}

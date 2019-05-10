@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.duowan.kiwi"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "虎牙直播TBS内核残留"
+    },
+    "defaultSource": "虎牙直播TBS内核残留"
+  }
+}

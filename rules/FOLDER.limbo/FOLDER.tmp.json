@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.limbo.emu.main.arm"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "Limbo缓存"
+    },
+    "defaultSource": "Limbo缓存"
+  }
+}

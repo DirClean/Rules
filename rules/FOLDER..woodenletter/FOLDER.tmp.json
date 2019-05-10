@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.One.WoodenLetter"
+  ],
+  "authors": [
+    "Manshaoco"
+  ],
+  "title": {
+    "source": {
+      "zh": "一个木函 缓存文件"
+    },
+    "defaultSource": "一个木函 缓存文件"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mode": 1,
+  "pkg": [],
+  "authors": [
+    "yiji"
+  ],
+  "title": {
+    "source": {
+      "zh": "vivo推送缓存"
+    },
+    "defaultSource": "vivo推送缓存"
+  }
+}

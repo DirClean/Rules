@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "chuxin.shimo.shimowendang"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "石墨文档日志"
+    },
+    "defaultSource": "石墨文档日志"
+  }
+}

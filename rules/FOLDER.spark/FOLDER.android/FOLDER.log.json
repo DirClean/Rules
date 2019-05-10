@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.netease.ntespm"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易贵金属日志"
+    },
+    "defaultSource": "网易贵金属日志"
+  }
+}

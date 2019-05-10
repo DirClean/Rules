@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.homelink.android"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "链家日志"
+    },
+    "defaultSource": "链家日志"
+  }
+}

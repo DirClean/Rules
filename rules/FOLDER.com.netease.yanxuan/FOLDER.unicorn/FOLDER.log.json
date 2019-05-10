@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.yanxuan"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易严选日志"
+    },
+    "defaultSource": "网易严选日志"
+  }
+}

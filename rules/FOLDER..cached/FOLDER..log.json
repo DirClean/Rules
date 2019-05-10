@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.secoo"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "寺库奢侈品日志"
+    },
+    "defaultSource": "寺库奢侈品日志"
+  }
+}

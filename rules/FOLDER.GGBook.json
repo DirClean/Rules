@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "jb.activity.mbook"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "GGBook小说阅读器卸载残留"
+    },
+    "defaultSource": "GGBook小说阅读器卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.secoo"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "寺库奢侈品图片缓存"
+    },
+    "defaultSource": "寺库奢侈品图片缓存"
+  }
+}

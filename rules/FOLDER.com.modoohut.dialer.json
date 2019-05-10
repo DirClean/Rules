@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.modoohut.dialer"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "撥號器殘留垃圾"
+    },
+    "defaultSource": "撥號器殘留垃圾"
+  }
+}

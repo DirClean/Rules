@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.kk.poem"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "古诗词典日志"
+    },
+    "defaultSource": "古诗词典日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.gamejoy"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯手游宝日志"
+    },
+    "defaultSource": "腾讯手游宝日志"
+  }
+}

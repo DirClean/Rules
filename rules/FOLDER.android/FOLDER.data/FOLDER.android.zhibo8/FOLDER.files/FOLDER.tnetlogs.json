@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "android.zhibo8"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "直播吧日志"
+    },
+    "defaultSource": "直播吧日志"
+  }
+}

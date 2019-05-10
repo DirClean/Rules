@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qihoo.appstore"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "360手机助手打开调试模式时产生的log"
+    },
+    "defaultSource": "360手机助手打开调试模式时产生的log"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.dangdang.buy2"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "当当卸载残留"
+    },
+    "defaultSource": "当当卸载残留"
+  }
+}

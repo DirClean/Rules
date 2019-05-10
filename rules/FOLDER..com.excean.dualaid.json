@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.excean.dualaid/"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "微信双开助手卸载残留"
+    },
+    "defaultSource": "微信双开助手卸载残留"
+  }
+}

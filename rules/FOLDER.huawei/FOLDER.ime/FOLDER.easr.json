@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.input_huawei"
+  ],
+  "authors": [
+    "aluoblog"
+  ],
+  "title": {
+    "source": {
+      "zh": "华为输入法的缓存文件"
+    },
+    "defaultSource": "华为输入法的缓存文件"
+  }
+}

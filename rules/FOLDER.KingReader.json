@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.kingreader.framework"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "开卷小说日志卸载残留"
+    },
+    "defaultSource": "开卷小说日志卸载残留"
+  }
+}

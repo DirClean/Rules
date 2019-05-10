@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.android.contacts"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "ColorOS联系人头像缓存"
+    },
+    "defaultSource": "ColorOS联系人头像缓存"
+  }
+}

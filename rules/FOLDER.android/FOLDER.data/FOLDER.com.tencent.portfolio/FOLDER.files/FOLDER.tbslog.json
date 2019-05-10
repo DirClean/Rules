@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.portfolio"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯自选股TBS内核日志"
+    },
+    "defaultSource": "腾讯自选股TBS内核日志"
+  }
+}

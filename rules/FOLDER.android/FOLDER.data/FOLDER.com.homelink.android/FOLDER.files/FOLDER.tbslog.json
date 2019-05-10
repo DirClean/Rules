@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.homelink.android"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "链家TBS内核日志"
+    },
+    "defaultSource": "链家TBS内核日志"
+  }
+}
