@@ -14,4 +14,5 @@ script:
 deploy:
   provider: script
   script: ./deploy.sh
-  all_branches: true
+  on: 
+    all_branches: true
