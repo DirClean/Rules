@@ -14,7 +14,3 @@ script:
 deploy:
   provider: script
   script: ./deploy.sh
-  branch:
-    - master
-    - canary
-    - patch_travis_ci
