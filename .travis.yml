@@ -1,0 +1,18 @@
+language: java
+before_install:
+  - git clone https://github.com/DirClean/Rules.git ~/publish -b docs
+  - wget https://github.com/DirClean/BackwardParser/releases/download/199376321/converter-1.0.jar 
+  - >
+    if [ $TRAVIS_BRANCH = master ] then
+      export CANARY=false
+    else
+      export CANARY=true
+    fi
+script:
+  - java -jar converter-1.0.jar . $CANARY ~/publish $TRAVIS_BRANCH
+deploy:
+  provider: script
+  script: ./deploy.sh
+  branch:
+    - master
+    - canary
