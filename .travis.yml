@@ -17,3 +17,4 @@ deploy:
   branch:
     - master
     - canary
+    - patch_travis_ci
