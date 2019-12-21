@@ -1,13 +1,9 @@
 {
-  "mode": 0,
+  "mode": 2,
   "pkg": [
     "com.kingroot.master"
   ],
-  "willClean": true,
   "needUninstall": false,
-  "notReplace": false,
-  "carefully_clean": false,
-  "carefully_replace": false,
   "authors": [
     "G小金"
   ],
