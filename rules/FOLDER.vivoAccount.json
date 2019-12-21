@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.bbk.account"
+  ],
+  "authors": [
+    "yiji"
+  ],
+  "title": {
+    "source": {
+      "zh": "vivo账户缓存"
+    },
+    "defaultSource": "vivo账户缓存"
+  }
+}

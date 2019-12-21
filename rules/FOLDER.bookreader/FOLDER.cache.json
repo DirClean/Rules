@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.book2345.reader"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "阅读王缓存"
+    },
+    "defaultSource": "阅读王缓存"
+  }
+}

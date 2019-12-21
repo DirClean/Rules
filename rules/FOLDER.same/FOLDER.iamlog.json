@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.same.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "Same日志"
+    },
+    "defaultSource": "Same日志"
+  }
+}

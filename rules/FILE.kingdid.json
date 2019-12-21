@@ -1,0 +1,16 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.kingreader.framework"
+  ],
+  "needUninstall": false,
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "开卷小说标记设备文件"
+    },
+    "defaultSource": "开卷小说标记设备文件"
+  }
+}

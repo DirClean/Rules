@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qzone"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ空间缓存"
+    },
+    "defaultSource": "QQ空间缓存"
+  }
+}

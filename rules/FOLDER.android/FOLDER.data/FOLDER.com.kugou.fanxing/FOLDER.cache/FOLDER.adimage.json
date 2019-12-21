@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.kugou.fanxing"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷狗直播启动图广告"
+    },
+    "defaultSource": "酷狗直播启动图广告"
+  }
+}

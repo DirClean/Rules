@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": false,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "跑得最快的香港记者"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ无用图片"
+    },
+    "defaultSource": "QQ无用图片"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.pingan.pinganwifi"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "平安WiFi日志"
+    },
+    "defaultSource": "平安WiFi日志"
+  }
+}

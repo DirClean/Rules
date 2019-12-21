@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.husor.beibei"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "贝贝日志"
+    },
+    "defaultSource": "贝贝日志"
+  }
+}

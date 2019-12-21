@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qicai.translate"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "出国翻译官日志"
+    },
+    "defaultSource": "出国翻译官日志"
+  }
+}

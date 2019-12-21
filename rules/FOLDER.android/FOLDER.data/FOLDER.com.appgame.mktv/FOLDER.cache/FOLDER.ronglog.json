@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.appgame.mktv"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "大圣Live日志"
+    },
+    "defaultSource": "大圣Live日志"
+  }
+}

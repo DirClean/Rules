@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.androidqqmail"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ邮箱启动图缓存"
+    },
+    "defaultSource": "QQ邮箱启动图缓存"
+  }
+}

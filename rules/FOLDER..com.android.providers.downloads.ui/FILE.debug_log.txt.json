@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.providers.downloads.ui"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI系统下载日志"
+    },
+    "defaultSource": "MIUI系统下载日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "android.zhibo8"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "直播吧卸载残留"
+    },
+    "defaultSource": "直播吧卸载残留"
+  }
+}

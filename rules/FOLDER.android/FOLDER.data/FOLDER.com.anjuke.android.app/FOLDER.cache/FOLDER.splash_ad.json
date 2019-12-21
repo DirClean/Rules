@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.anjuke.android.app"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "安居客启动图广告"
+    },
+    "defaultSource": "安居客启动图广告"
+  }
+}

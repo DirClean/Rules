@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kk.poem"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "古诗词典缓存"
+    },
+    "defaultSource": "古诗词典缓存"
+  }
+}

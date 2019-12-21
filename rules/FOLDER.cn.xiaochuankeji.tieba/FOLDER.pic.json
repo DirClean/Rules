@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.xiaochuankeji.tieba"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "最右图片缓存"
+    },
+    "defaultSource": "最右图片缓存"
+  }
+}

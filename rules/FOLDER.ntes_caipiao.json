@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.caipiao"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易彩票卸载残留"
+    },
+    "defaultSource": "网易彩票卸载残留"
+  }
+}

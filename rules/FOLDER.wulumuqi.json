@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.womob.wlmq"
+  ],
+  "authors": [
+    "Doubi250"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌上乌鲁木齐缓存"
+    },
+    "defaultSource": "掌上乌鲁木齐缓存"
+  }
+}

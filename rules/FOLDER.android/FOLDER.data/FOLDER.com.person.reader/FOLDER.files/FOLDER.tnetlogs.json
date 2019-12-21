@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.person.reader"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "阅读星Pro日志"
+    },
+    "defaultSource": "阅读星Pro日志"
+  }
+}

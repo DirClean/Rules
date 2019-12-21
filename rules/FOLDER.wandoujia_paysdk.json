@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.wandoujiapay"
+  ],
+  "authors": [
+    "weearc"
+  ],
+  "title": {
+    "source": {
+      "zh": "豌豆荚支付服务残留"
+    },
+    "defaultSource": "豌豆荚支付服务残留"
+  }
+}

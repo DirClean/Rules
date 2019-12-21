@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qihoo.yunpan"
+  ],
+  "authors": [
+    "xyl2000"
+  ],
+  "title": {
+    "source": {
+      "zh": "360云盘卸载残留"
+    },
+    "defaultSource": "360云盘卸载残留"
+  }
+}

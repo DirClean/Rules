@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ludashi.benchmark"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "鲁大师崩溃日志"
+    },
+    "defaultSource": "鲁大师崩溃日志"
+  }
+}

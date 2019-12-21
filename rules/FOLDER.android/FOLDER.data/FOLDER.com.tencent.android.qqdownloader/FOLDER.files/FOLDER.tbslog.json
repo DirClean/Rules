@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.android.qqdownloader"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "应用宝TBS日志"
+    },
+    "defaultSource": "应用宝TBS日志"
+  }
+}

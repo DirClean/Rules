@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "authors": [
+    "TTTornado"
+  ],
+  "title": {
+    "source": {
+      "zh": "Tim保存过的图片缓存"
+    },
+    "defaultSource": "Tim保存过的图片缓存"
+  }
+}

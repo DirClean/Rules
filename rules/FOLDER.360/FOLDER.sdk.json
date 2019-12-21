@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qihoo.appstore"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "360sdk产生的缓存文件"
+    },
+    "defaultSource": "360sdk产生的缓存文件"
+  }
+}

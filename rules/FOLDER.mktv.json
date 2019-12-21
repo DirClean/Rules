@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.appgame.mktv"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "大圣Live卸载残留"
+    },
+    "defaultSource": "大圣Live卸载残留"
+  }
+}

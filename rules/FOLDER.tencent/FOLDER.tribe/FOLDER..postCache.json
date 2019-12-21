@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.tribe"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "兴趣部落缓存"
+    },
+    "defaultSource": "兴趣部落缓存"
+  }
+}

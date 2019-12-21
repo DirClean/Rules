@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.com.iresearch.diaoyantong"
+  ],
+  "authors": [
+    "毕维斯"
+  ],
+  "title": {
+    "source": {
+      "zh": "iclick 调研通 缓存"
+    },
+    "defaultSource": "iclick 调研通 缓存"
+  }
+}

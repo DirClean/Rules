@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.leappmusic.amaze"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Amaze缓存"
+    },
+    "defaultSource": "Amaze缓存"
+  }
+}

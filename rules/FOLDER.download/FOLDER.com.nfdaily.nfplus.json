@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.nfdaily.nfplus"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "南方Plus卸载残留"
+    },
+    "defaultSource": "南方Plus卸载残留"
+  }
+}

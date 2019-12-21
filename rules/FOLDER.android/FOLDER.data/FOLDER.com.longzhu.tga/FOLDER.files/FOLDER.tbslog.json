@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.longzhu.tga"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "龙珠直播TBS内核日志"
+    },
+    "defaultSource": "龙珠直播TBS内核日志"
+  }
+}

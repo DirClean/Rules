@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.lbe.security"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "LBE安全大师建议反馈日志"
+    },
+    "defaultSource": "LBE安全大师建议反馈日志"
+  }
+}

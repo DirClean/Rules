@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ss.android.ugc.live"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "火山小视频卸载残留"
+    },
+    "defaultSource": "火山小视频卸载残留"
+  }
+}

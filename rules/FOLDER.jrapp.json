@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jd.jrapp"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东金融卸载残留"
+    },
+    "defaultSource": "京东金融卸载残留"
+  }
+}

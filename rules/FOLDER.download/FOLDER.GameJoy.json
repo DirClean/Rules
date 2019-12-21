@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.gamejoy"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯手游宝卸载残留"
+    },
+    "defaultSource": "腾讯手游宝卸载残留"
+  }
+}

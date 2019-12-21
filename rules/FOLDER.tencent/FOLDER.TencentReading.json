@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.reading"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "天天快报卸载残留"
+    },
+    "defaultSource": "天天快报卸载残留"
+  }
+}

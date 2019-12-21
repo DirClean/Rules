@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.xunlei.downloadprovider"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "迅雷卸载残留"
+    },
+    "defaultSource": "迅雷卸载残留"
+  }
+}

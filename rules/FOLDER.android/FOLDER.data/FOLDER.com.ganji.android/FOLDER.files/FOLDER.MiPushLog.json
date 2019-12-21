@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ganji.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": " 赶集网小米推送日志"
+    },
+    "defaultSource": " 赶集网小米推送日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mtt"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ浏览器分享缓存"
+    },
+    "defaultSource": "QQ浏览器分享缓存"
+  }
+}

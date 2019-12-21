@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "Ag2S20150909"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ TSF 日志"
+    },
+    "defaultSource": "QQ TSF 日志"
+  }
+}

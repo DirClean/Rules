@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.estrongs.android.pop"
+  ],
+  "authors": [
+    "rsworktech"
+  ],
+  "title": {
+    "source": {
+      "zh": "es文件管理器缓存"
+    },
+    "defaultSource": "es文件管理器缓存"
+  }
+}

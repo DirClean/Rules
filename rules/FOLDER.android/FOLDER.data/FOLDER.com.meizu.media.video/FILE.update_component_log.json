@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meizu.media.video"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "魅族视频日志"
+    },
+    "defaultSource": "魅族视频日志"
+  }
+}

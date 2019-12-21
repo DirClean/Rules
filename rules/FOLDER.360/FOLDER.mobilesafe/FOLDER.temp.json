@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qihoo360.mobilesafe"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "360缓存"
+    },
+    "defaultSource": "360缓存"
+  }
+}

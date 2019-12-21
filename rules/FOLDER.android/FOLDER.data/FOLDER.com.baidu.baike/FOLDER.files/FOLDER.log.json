@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.baidu.baike"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度百科日志"
+    },
+    "defaultSource": "百度百科日志"
+  }
+}

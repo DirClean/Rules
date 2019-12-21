@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sunrise.scmbhc"
+  ],
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "四川移动掌上营业厅 图片缓存"
+    },
+    "defaultSource": "四川移动掌上营业厅 图片缓存"
+  }
+}

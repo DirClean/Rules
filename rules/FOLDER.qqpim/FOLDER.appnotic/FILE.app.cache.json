@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.qqpim"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ同步助手缓存"
+    },
+    "defaultSource": "QQ同步助手缓存"
+  }
+}

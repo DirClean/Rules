@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "飘柔洗发用唐僧"
+  ],
+  "title": {
+    "source": {
+      "zh": "qq音乐卸载残留"
+    },
+    "defaultSource": "qq音乐卸载残留"
+  }
+}

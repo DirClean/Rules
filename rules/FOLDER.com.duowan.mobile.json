@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.duowan.mobile"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "YY卸载残留"
+    },
+    "defaultSource": "YY卸载残留"
+  }
+}

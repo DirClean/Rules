@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.jsmcc"
+  ],
+  "authors": [
+    "xieyuheng"
+  ],
+  "title": {
+    "source": {
+      "zh": "江苏移动掌上营业厅图片缓存"
+    },
+    "defaultSource": "江苏移动掌上营业厅图片缓存"
+  }
+}

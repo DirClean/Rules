@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kingsoft"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "金山词霸图片缓存"
+    },
+    "defaultSource": "金山词霸图片缓存"
+  }
+}

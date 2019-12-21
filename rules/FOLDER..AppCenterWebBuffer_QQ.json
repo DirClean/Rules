@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "TTTornado"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ/Tim应用中心缓冲文件"
+    },
+    "defaultSource": "QQ/Tim应用中心缓冲文件"
+  }
+}

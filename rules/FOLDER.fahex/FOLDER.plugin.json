@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "Formatfa.FAhex"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "安卓易编辑残留的插件"
+    },
+    "defaultSource": "安卓易编辑残留的插件"
+  }
+}

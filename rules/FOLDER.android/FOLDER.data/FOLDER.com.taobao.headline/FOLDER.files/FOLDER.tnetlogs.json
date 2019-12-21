@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.taobao.headline"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "淘宝头条日志"
+    },
+    "defaultSource": "淘宝头条日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.yixia.videoeditor"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "秒拍日志"
+    },
+    "defaultSource": "秒拍日志"
+  }
+}

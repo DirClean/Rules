@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.estrongs.android.pop"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "ES文件浏览器应用图标缓存"
+    },
+    "defaultSource": "ES文件浏览器应用图标缓存"
+  }
+}

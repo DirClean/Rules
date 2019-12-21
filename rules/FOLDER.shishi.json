@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.myth.shishi"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "诗Shi卸载残留"
+    },
+    "defaultSource": "诗Shi卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.smartisanos.textboom"
+  ],
+  "authors": [
+    "Heliumt"
+  ],
+  "title": {
+    "source": {
+      "zh": "Smartisan OS大爆炸图片缓存"
+    },
+    "defaultSource": "Smartisan OS大爆炸图片缓存"
+  }
+}

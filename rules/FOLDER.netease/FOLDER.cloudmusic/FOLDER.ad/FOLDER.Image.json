@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.cloudmusic"
+  ],
+  "authors": [
+    "miki"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云音乐广告"
+    },
+    "defaultSource": "网易云音乐广告"
+  }
+}

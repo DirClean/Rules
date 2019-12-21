@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.estrongs.android.pop"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "ES文本编辑器测试文本"
+    },
+    "defaultSource": "ES文本编辑器测试文本"
+  }
+}

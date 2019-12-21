@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.niucoo.niucooapp"
+  ],
+  "authors": [
+    "烧饼丶收割者"
+  ],
+  "title": {
+    "source": {
+      "zh": "纽扣助手图片缓存"
+    },
+    "defaultSource": "纽扣助手图片缓存"
+  }
+}

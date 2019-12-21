@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.mtt"
+  ],
+  "authors": [
+    "飘柔洗发用唐僧"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ浏览器卸载残留"
+    },
+    "defaultSource": "QQ浏览器卸载残留"
+  }
+}

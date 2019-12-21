@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.huanji"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "闪电换机缓存"
+    },
+    "defaultSource": "闪电换机缓存"
+  }
+}

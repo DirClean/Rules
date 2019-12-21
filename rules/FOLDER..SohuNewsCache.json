@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sohu.newsclient"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狐新闻缓存"
+    },
+    "defaultSource": "搜狐新闻缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.A17zuoye.mobile.homework"
+  ],
+  "authors": [
+    "Config"
+  ],
+  "title": {
+    "source": {
+      "zh": "一起作业学生端无用文件"
+    },
+    "defaultSource": "一起作业学生端无用文件"
+  }
+}

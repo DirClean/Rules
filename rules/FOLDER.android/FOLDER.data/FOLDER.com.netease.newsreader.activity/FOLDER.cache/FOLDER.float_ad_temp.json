@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.netease.newsreader.activity"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易新闻悬浮广告"
+    },
+    "defaultSource": "网易新闻悬浮广告"
+  }
+}

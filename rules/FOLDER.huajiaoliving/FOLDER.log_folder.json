@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.huajiao"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "花椒直播日志"
+    },
+    "defaultSource": "花椒直播日志"
+  }
+}

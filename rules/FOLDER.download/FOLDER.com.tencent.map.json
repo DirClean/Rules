@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.map"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯地图卸载残留"
+    },
+    "defaultSource": "腾讯地图卸载残留"
+  }
+}

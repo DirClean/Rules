@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.chinamobile.mcloud"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "和彩云缓存"
+    },
+    "defaultSource": "和彩云缓存"
+  }
+}

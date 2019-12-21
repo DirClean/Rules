@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "cn.tianya.light"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "天涯社区卸载残留"
+    },
+    "defaultSource": "天涯社区卸载残留"
+  }
+}

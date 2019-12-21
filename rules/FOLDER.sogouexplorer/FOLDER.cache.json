@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "sogou.mobile.explorer"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗浏览器缓存"
+    },
+    "defaultSource": "搜狗浏览器缓存"
+  }
+}

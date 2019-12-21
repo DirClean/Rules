@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.hm.op.yg_news"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "下文日志"
+    },
+    "defaultSource": "下文日志"
+  }
+}

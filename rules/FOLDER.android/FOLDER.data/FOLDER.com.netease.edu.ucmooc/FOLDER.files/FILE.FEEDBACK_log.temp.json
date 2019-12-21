@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.netease.edu.ucmooc"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "中国大学MOOC日志"
+    },
+    "defaultSource": "中国大学MOOC日志"
+  }
+}

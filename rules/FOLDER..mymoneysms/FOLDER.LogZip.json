@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mymoney.sms"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "卡牛信用卡管家日志"
+    },
+    "defaultSource": "卡牛信用卡管家日志"
+  }
+}

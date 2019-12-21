@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.duowan.makefriends"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "欢乐狼人杀日志"
+    },
+    "defaultSource": "欢乐狼人杀日志"
+  }
+}

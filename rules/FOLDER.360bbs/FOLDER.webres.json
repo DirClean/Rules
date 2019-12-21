@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qiku.bbs"
+  ],
+  "authors": [
+    "廖煜堃"
+  ],
+  "title": {
+    "source": {
+      "zh": "360社区表情缓存"
+    },
+    "defaultSource": "360社区表情缓存"
+  }
+}

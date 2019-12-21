@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.myth.cici"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "词Ci背景图缓存"
+    },
+    "defaultSource": "词Ci背景图缓存"
+  }
+}

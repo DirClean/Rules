@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.luojilab.player"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "得到卸载残留"
+    },
+    "defaultSource": "得到卸载残留"
+  }
+}

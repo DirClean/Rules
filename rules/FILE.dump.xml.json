@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "ml.qingsu.fuckview"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "净眼残留的配置文件"
+    },
+    "defaultSource": "净眼残留的配置文件"
+  }
+}

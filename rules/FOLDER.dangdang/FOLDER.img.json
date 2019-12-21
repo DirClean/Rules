@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.dangdang.buy2"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "当当启动图广告"
+    },
+    "defaultSource": "当当启动图广告"
+  }
+}

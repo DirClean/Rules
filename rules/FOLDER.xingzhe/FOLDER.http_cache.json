@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "im.xingzhe"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "行者骑行在线缓存"
+    },
+    "defaultSource": "行者骑行在线缓存"
+  }
+}

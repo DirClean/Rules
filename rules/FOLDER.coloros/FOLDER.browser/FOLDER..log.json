@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.browser"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "ColorOS浏览器日志"
+    },
+    "defaultSource": "ColorOS浏览器日志"
+  }
+}

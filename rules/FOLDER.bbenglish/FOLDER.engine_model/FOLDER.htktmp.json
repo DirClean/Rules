@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.youdao.bigbang"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "有道口语大师缓存"
+    },
+    "defaultSource": "有道口语大师缓存"
+  }
+}

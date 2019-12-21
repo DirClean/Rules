@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.janyo.janyoshare"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "JY Share日志"
+    },
+    "defaultSource": "JY Share日志"
+  }
+}

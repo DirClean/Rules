@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "TIM TBS内核日志"
+    },
+    "defaultSource": "TIM TBS内核日志"
+  }
+}

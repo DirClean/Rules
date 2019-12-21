@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "cn.kuwo.sing"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "书旗小说卸载残留"
+    },
+    "defaultSource": "书旗小说卸载残留"
+  }
+}

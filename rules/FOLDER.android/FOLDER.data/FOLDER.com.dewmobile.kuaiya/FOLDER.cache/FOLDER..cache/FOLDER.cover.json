@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.dewmobile.kuaiya"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "快牙启动图广告"
+    },
+    "defaultSource": "快牙启动图广告"
+  }
+}

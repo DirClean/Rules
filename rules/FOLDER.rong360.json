@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.rong360.app"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "融360卸载残留"
+    },
+    "defaultSource": "融360卸载残留"
+  }
+}

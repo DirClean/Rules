@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.hujiang.hjclass"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "沪江网校小米推送日志"
+    },
+    "defaultSource": "沪江网校小米推送日志"
+  }
+}

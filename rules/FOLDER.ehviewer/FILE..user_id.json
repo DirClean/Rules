@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.hippo.ehviewer"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "芸枫"
+  ],
+  "title": {
+    "source": {
+      "zh": "EhViewer的设备标记文件"
+    },
+    "defaultSource": "EhViewer的设备标记文件"
+  }
+}

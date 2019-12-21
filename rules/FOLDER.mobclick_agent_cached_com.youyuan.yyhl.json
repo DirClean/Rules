@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.youyuan.yyhl"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "有缘网缓存"
+    },
+    "defaultSource": "有缘网缓存"
+  }
+}

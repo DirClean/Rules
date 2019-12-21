@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.hustzp.com.xichuangzhu"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "西窗烛缓存"
+    },
+    "defaultSource": "西窗烛缓存"
+  }
+}

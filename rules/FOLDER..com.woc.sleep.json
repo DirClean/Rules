@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.woc.sleep"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "滚去XX卸载残留"
+    },
+    "defaultSource": "滚去XX卸载残留"
+  }
+}

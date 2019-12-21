@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.lemon.faceu"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Faceu激萌启动图缓存"
+    },
+    "defaultSource": "Faceu激萌启动图缓存"
+  }
+}

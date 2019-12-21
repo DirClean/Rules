@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meizu.notepaper"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Flyme便签日志"
+    },
+    "defaultSource": "Flyme便签日志"
+  }
+}

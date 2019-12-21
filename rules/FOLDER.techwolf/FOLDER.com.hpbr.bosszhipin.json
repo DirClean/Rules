@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.hpbr.bosszhipin"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Boss直聘卸载残留"
+    },
+    "defaultSource": "Boss直聘卸载残留"
+  }
+}

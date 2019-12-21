@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.leavjenn.longshot"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "LongShot暫存縮圖"
+    },
+    "defaultSource": "LongShot暫存縮圖"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.eshore.freewifi"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "114Free Wifi缓存"
+    },
+    "defaultSource": "114Free Wifi缓存"
+  }
+}

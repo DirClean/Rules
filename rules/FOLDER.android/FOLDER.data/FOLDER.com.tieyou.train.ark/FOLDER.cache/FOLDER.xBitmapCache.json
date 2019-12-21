@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tieyou.train.ark"
+  ],
+  "authors": [
+    "Suyoung"
+  ],
+  "title": {
+    "source": {
+      "zh": "铁友火车票启动页广告"
+    },
+    "defaultSource": "铁友火车票启动页广告"
+  }
+}

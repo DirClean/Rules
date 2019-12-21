@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.snailread"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易蜗牛读书卸载残留"
+    },
+    "defaultSource": "网易蜗牛读书卸载残留"
+  }
+}

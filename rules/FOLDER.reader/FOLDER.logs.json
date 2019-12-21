@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.oppo.reader"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "OPPO阅读日志"
+    },
+    "defaultSource": "OPPO阅读日志"
+  }
+}

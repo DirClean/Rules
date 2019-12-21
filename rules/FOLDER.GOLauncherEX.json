@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.gau.go.launcherex"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "GO桌面卸载残留"
+    },
+    "defaultSource": "GO桌面卸载残留"
+  }
+}

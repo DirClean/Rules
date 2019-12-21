@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.qzone"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ空间TBS内核日志"
+    },
+    "defaultSource": "QQ空间TBS内核日志"
+  }
+}

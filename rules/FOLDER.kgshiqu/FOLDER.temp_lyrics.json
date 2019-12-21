@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kugou.shiqu"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷狗识曲歌词缓存"
+    },
+    "defaultSource": "酷狗识曲歌词缓存"
+  }
+}

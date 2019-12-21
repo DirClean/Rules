@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qihoo.freewifi"
+  ],
+  "authors": [
+    "RileyYe"
+  ],
+  "title": {
+    "source": {
+      "zh": "360免费WIFI卸载残留"
+    },
+    "defaultSource": "360免费WIFI卸载残留"
+  }
+}

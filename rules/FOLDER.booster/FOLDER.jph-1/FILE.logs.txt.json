@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.everblue.myseed"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Seed日志"
+    },
+    "defaultSource": "Seed日志"
+  }
+}

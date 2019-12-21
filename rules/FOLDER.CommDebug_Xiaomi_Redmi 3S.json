@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "小米日志"
+  ],
+  "authors": [
+    "彩云之南"
+  ],
+  "title": {
+    "source": {
+      "zh": "系统日志"
+    },
+    "defaultSource": "系统日志"
+  }
+}

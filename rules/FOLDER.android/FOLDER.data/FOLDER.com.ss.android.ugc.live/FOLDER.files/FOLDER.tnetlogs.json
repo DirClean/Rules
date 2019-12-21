@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ss.android.ugc.live"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "火山小视频日志"
+    },
+    "defaultSource": "火山小视频日志"
+  }
+}

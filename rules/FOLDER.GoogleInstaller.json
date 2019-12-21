@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.goplaycn.googleinstall"
+  ],
+  "authors": [
+    "Kengkeng_Keke"
+  ],
+  "title": {
+    "source": {
+      "zh": "Go谷歌安装器卸载残留（谨慎清理）"
+    },
+    "defaultSource": "Go谷歌安装器卸载残留（谨慎清理）"
+  }
+}

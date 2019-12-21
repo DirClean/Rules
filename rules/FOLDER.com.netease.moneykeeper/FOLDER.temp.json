@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.moneykeeper"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易有钱记账缓存"
+    },
+    "defaultSource": "网易有钱记账缓存"
+  }
+}

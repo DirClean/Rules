@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meelive.ingkee"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "映客直播Sdk日志"
+    },
+    "defaultSource": "映客直播Sdk日志"
+  }
+}

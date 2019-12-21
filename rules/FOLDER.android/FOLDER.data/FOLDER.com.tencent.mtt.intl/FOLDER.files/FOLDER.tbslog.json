@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.mtt.intl"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ BrowserTBS内核日志"
+    },
+    "defaultSource": "QQ BrowserTBS内核日志"
+  }
+}

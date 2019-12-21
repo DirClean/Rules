@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.cootek.smartdialer"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "触宝电话图片缓存"
+    },
+    "defaultSource": "触宝电话图片缓存"
+  }
+}

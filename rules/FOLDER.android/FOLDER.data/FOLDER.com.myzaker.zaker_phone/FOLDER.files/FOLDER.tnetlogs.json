@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.myzaker.ZAKER_Phone"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "ZAKER新闻日志"
+    },
+    "defaultSource": "ZAKER新闻日志"
+  }
+}

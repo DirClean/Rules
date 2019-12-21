@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.chinamobile.mcloud"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "和彩云自动下载的更新包"
+    },
+    "defaultSource": "和彩云自动下载的更新包"
+  }
+}

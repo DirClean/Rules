@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sina.app.weiboheadline"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "微博头条视频缓存"
+    },
+    "defaultSource": "微博头条视频缓存"
+  }
+}

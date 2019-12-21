@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.androidesk"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "安卓壁纸缓存"
+    },
+    "defaultSource": "安卓壁纸缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.loan"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "小米贷款小米推送日志"
+    },
+    "defaultSource": "小米贷款小米推送日志"
+  }
+}

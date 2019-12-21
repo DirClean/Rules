@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.edu.study"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易云课堂缓存"
+    },
+    "defaultSource": "网易云课堂缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.sina.weibo"
+  ],
+  "authors": [
+    "4_Infinity"
+  ],
+  "title": {
+    "source": {
+      "zh": "微博广告缓存"
+    },
+    "defaultSource": "微博广告缓存"
+  }
+}

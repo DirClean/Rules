@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqmusic"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ音乐日志"
+    },
+    "defaultSource": "QQ音乐日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "me.ele"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "饿了么日志"
+    },
+    "defaultSource": "饿了么日志"
+  }
+}

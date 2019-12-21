@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.rong360.app"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "融360图片缓存"
+    },
+    "defaultSource": "融360图片缓存"
+  }
+}

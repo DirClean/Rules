@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.zebra"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "水印相机卸载残留"
+    },
+    "defaultSource": "水印相机卸载残留"
+  }
+}

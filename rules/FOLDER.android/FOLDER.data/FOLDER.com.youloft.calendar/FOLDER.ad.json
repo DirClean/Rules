@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.youloft.calendar"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "万年历广告"
+    },
+    "defaultSource": "万年历广告"
+  }
+}

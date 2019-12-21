@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.chaozh.iReaderFree"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "掌阅广告"
+    },
+    "defaultSource": "掌阅广告"
+  }
+}

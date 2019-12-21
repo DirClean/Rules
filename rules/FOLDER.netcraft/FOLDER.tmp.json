@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.next.netcraft"
+  ],
+  "authors": [
+    "橙色的男孩"
+  ],
+  "title": {
+    "source": {
+      "zh": "奶块缓存"
+    },
+    "defaultSource": "奶块缓存"
+  }
+}

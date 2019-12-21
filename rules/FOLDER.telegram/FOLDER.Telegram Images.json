@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "org.telegram.messenger"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "Parala"
+  ],
+  "title": {
+    "source": {
+      "zh": "Telegram图片缓存"
+    },
+    "defaultSource": "Telegram图片缓存"
+  }
+}

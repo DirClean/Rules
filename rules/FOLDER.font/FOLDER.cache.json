@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.xinmei365.font"
+  ],
+  "authors": [
+    "coolapk666"
+  ],
+  "title": {
+    "source": {
+      "zh": "字体管家无用缓存"
+    },
+    "defaultSource": "字体管家无用缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qb.qtranslator"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯翻译君卸载残留"
+    },
+    "defaultSource": "腾讯翻译君卸载残留"
+  }
+}

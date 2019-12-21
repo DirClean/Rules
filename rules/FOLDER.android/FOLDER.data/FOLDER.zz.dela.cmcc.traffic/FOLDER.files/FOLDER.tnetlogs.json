@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "zz.dela.cmcc.traffic"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "10086日志"
+    },
+    "defaultSource": "10086日志"
+  }
+}

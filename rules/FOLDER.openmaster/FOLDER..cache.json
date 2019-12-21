@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.FileManager"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯文件管理器缓存"
+    },
+    "defaultSource": "腾讯文件管理器缓存"
+  }
+}

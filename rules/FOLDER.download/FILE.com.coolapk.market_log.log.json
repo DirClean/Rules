@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.coolapk.market"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷安日志"
+    },
+    "defaultSource": "酷安日志"
+  }
+}

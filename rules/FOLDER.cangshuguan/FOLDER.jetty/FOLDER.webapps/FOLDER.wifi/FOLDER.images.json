@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.cliff"
+  ],
+  "authors": [
+    "跑得最快的香港记者"
+  ],
+  "title": {
+    "source": {
+      "zh": "藏书馆WiFi下加载的冗余图片"
+    },
+    "defaultSource": "藏书馆WiFi下加载的冗余图片"
+  }
+}

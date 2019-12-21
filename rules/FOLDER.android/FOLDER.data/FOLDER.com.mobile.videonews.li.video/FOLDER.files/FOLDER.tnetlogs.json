@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mobile.videonews.li.video"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "梨视频日志"
+    },
+    "defaultSource": "梨视频日志"
+  }
+}

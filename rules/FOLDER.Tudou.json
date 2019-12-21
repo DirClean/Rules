@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tudou.android"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "土豆视频卸载残留"
+    },
+    "defaultSource": "土豆视频卸载残留"
+  }
+}

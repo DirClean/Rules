@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tiqiaa.icontrol"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "遥控精灵日志"
+    },
+    "defaultSource": "遥控精灵日志"
+  }
+}

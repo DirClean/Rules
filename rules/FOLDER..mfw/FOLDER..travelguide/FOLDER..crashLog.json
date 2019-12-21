@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mfw.roadbook"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "蚂蜂窝自由行Crash日志"
+    },
+    "defaultSource": "蚂蜂窝自由行Crash日志"
+  }
+}

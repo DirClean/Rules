@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.muzhiwan.market"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "拇指玩日志"
+    },
+    "defaultSource": "拇指玩日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.koudai.weishop"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "微店卸载残留"
+    },
+    "defaultSource": "微店卸载残留"
+  }
+}

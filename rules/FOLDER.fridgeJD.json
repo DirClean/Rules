@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jd.fridge"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东新鲜GO卸载残留"
+    },
+    "defaultSource": "京东新鲜GO卸载残留"
+  }
+}

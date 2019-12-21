@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tujia.hotel"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "途家缓存"
+    },
+    "defaultSource": "途家缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.redteamobile.roaming"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "OPPO漫游日志"
+    },
+    "defaultSource": "OPPO漫游日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.mtt"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ浏览器日志"
+    },
+    "defaultSource": "QQ浏览器日志"
+  }
+}

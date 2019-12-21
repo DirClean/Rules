@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.minitech.miniworld"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "迷你游戏产生的文件"
+    },
+    "defaultSource": "迷你游戏产生的文件"
+  }
+}

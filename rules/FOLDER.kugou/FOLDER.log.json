@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.kugou.android"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷狗音乐日志"
+    },
+    "defaultSource": "酷狗音乐日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ifreetalk.ftalk"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "派派卸载残留"
+    },
+    "defaultSource": "派派卸载残留"
+  }
+}

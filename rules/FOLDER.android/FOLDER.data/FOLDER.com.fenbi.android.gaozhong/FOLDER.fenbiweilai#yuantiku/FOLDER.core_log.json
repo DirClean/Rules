@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.fenbi.android.gaozhong"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "猿题库日志"
+    },
+    "defaultSource": "猿题库日志"
+  }
+}

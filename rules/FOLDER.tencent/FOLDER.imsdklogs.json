@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ SDK日志"
+    },
+    "defaultSource": "QQ SDK日志"
+  }
+}

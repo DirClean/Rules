@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.weiyungallery"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "小Q相册卸载残留"
+    },
+    "defaultSource": "小Q相册卸载残留"
+  }
+}

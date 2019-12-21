@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.huajiao"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "花椒直播缓存"
+    },
+    "defaultSource": "花椒直播缓存"
+  }
+}

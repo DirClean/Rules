@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tongcheng.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "同程旅游缓存"
+    },
+    "defaultSource": "同程旅游缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.lingsi.rmrb"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "人民日报图片缓存"
+    },
+    "defaultSource": "人民日报图片缓存"
+  }
+}

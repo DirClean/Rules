@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.tesly"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "企鹅众测TBS内核日志"
+    },
+    "defaultSource": "企鹅众测TBS内核日志"
+  }
+}

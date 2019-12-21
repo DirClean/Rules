@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiaomi.market"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI应用商店日志"
+    },
+    "defaultSource": "MIUI应用商店日志"
+  }
+}

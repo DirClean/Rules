@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meitu.meipaimv"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "美拍日志"
+    },
+    "defaultSource": "美拍日志"
+  }
+}

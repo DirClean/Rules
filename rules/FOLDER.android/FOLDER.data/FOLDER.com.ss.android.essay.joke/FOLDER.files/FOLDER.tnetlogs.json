@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ss.android.essay.joke"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "内涵段子日志"
+    },
+    "defaultSource": "内涵段子日志"
+  }
+}

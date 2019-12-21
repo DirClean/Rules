@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.rtk.app"
+  ],
+  "authors": [
+    "阿良同桌"
+  ],
+  "title": {
+    "source": {
+      "zh": "软天空图片"
+    },
+    "defaultSource": "软天空图片"
+  }
+}

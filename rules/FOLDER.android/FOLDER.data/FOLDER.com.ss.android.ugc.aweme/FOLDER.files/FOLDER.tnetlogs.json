@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ss.android.ugc.aweme"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "抖音短视频日志"
+    },
+    "defaultSource": "抖音短视频日志"
+  }
+}

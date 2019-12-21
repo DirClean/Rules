@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jiuyan.infashion"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "in卸载残留"
+    },
+    "defaultSource": "in卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.iBookStar.activity"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "阅读星残留文件"
+    },
+    "defaultSource": "阅读星残留文件"
+  }
+}

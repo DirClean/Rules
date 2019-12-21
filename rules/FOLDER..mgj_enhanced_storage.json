@@ -1,0 +1,14 @@
+{
+  "mode": 2,
+  "pkg": [],
+  "needUninstall": false,
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "某标记设备文件"
+    },
+    "defaultSource": "某标记设备文件"
+  }
+}

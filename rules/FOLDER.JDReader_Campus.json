@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jingdong.app.reader.campus"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东阅读校园版卸载残留"
+    },
+    "defaultSource": "京东阅读校园版卸载残留"
+  }
+}

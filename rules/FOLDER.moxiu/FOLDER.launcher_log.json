@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.moxiu.launcher"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "魔秀桌面日志"
+    },
+    "defaultSource": "魔秀桌面日志"
+  }
+}

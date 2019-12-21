@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.jiongji.andriod.card"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "百词斩日志"
+    },
+    "defaultSource": "百词斩日志"
+  }
+}

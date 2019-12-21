@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ieyecloud.user"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "目邻卸载残留"
+    },
+    "defaultSource": "目邻卸载残留"
+  }
+}

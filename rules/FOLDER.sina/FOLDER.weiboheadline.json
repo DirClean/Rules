@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.sina.app.weiboheadline"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "微博头条卸载残留"
+    },
+    "defaultSource": "微博头条卸载残留"
+  }
+}

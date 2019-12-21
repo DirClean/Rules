@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.sohu.inputmethod.sogou"
+  ],
+  "authors": [
+    "忆逝"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗输入法垃圾文件"
+    },
+    "defaultSource": "搜狗输入法垃圾文件"
+  }
+}

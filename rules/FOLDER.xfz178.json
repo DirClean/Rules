@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "org.zywx.wbpalmstar.widgetone.uex11364651"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "消费者联盟自动更新下载的apk"
+    },
+    "defaultSource": "消费者联盟自动更新下载的apk"
+  }
+}

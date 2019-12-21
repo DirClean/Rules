@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.bokecc.dance"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "糖豆广场舞缓存"
+    },
+    "defaultSource": "糖豆广场舞缓存"
+  }
+}

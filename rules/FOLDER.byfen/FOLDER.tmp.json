@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baifen.market\r"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "百分网缓存"
+    },
+    "defaultSource": "百分网缓存"
+  }
+}

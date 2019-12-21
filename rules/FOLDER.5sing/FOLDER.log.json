@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.sing.client"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "5ing原创音乐日志"
+    },
+    "defaultSource": "5ing原创音乐日志"
+  }
+}

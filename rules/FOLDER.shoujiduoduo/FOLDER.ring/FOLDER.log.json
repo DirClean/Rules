@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.shoujiduoduo.ringtone"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "铃声多多日志"
+    },
+    "defaultSource": "铃声多多日志"
+  }
+}

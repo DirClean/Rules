@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.facebook.orca"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "Messenger緩存"
+    },
+    "defaultSource": "Messenger緩存"
+  }
+}

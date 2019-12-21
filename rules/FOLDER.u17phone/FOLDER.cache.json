@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.u17.comic.phone"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "有妖气漫画缓存"
+    },
+    "defaultSource": "有妖气漫画缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "fm.xiami.main"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "虾米音乐日志"
+    },
+    "defaultSource": "虾米音乐日志"
+  }
+}

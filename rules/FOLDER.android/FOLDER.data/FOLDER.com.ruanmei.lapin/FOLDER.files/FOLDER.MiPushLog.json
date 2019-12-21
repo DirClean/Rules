@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ruanmei.lapin"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "辣品小米推送日志"
+    },
+    "defaultSource": "辣品小米推送日志"
+  }
+}

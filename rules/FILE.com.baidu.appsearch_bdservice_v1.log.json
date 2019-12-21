@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.baidu.appsearch"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度手机助手日志"
+    },
+    "defaultSource": "百度手机助手日志"
+  }
+}

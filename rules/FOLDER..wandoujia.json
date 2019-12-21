@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    ".wandoujia"
+  ],
+  "authors": [
+    "Alien"
+  ],
+  "title": {
+    "source": {
+      "zh": "豌豆荚卸载残留"
+    },
+    "defaultSource": "豌豆荚卸载残留"
+  }
+}

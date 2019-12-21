@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.baidu.input"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "百度输入法皮肤缓存"
+    },
+    "defaultSource": "百度输入法皮肤缓存"
+  }
+}

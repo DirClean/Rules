@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.arcstar.overrapid"
+  ],
+  "authors": [
+    "芸枫"
+  ],
+  "title": {
+    "source": {
+      "zh": "OverRapid日志"
+    },
+    "defaultSource": "OverRapid日志"
+  }
+}

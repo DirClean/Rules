@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "net.dinglisch.android.taskerm"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "Tasker调试用的log"
+    },
+    "defaultSource": "Tasker调试用的log"
+  }
+}

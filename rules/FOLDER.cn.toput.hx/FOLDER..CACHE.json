@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.toput.hx"
+  ],
+  "authors": [
+    "行旅途"
+  ],
+  "title": {
+    "source": {
+      "zh": "花熊产生的缓存文件"
+    },
+    "defaultSource": "花熊产生的缓存文件"
+  }
+}

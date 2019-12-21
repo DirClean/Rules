@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.lingmeng.menggou"
+  ],
+  "authors": [
+    "applemiku"
+  ],
+  "title": {
+    "source": {
+      "zh": "萌购卸载残留"
+    },
+    "defaultSource": "萌购卸载残留"
+  }
+}

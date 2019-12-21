@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.qihoo.mall"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "360商城卸载残留"
+    },
+    "defaultSource": "360商城卸载残留"
+  }
+}

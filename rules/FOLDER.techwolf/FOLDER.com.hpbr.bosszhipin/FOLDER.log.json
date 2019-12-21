@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.hpbr.bosszhipin"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Boss直聘日志"
+    },
+    "defaultSource": "Boss直聘日志"
+  }
+}

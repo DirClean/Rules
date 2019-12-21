@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.cmcm.freevpn"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "CM VPN 連線記錄"
+    },
+    "defaultSource": "CM VPN 連線記錄"
+  }
+}

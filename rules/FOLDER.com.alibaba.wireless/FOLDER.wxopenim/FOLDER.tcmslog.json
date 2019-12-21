@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.alibaba.wireless"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "阿里巴巴日志"
+    },
+    "defaultSource": "阿里巴巴日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.yibasan.lizhifm"
+  ],
+  "authors": [
+    "A66RUM"
+  ],
+  "title": {
+    "source": {
+      "zh": "荔枝FM音频缓存"
+    },
+    "defaultSource": "荔枝FM音频缓存"
+  }
+}

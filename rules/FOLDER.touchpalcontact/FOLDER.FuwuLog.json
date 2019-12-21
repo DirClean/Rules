@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.cootek.smartdialer"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "触宝电话日志"
+    },
+    "defaultSource": "触宝电话日志"
+  }
+}

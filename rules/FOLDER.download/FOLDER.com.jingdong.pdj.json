@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jingdong.pdj"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东到家卸载残留"
+    },
+    "defaultSource": "京东到家卸载残留"
+  }
+}

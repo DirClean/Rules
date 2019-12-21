@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.toshiba_dealin.developerhelper"
+  ],
+  "authors": [
+    "hzy2003"
+  ],
+  "title": {
+    "source": {
+      "zh": "开发者助手缓存文件"
+    },
+    "defaultSource": "开发者助手缓存文件"
+  }
+}

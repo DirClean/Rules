@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.netease.meixue"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易美学分享缓存"
+    },
+    "defaultSource": "网易美学分享缓存"
+  }
+}

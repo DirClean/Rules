@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.android.mediacenter"
+  ],
+  "authors": [
+    "John Wade"
+  ],
+  "title": {
+    "source": {
+      "zh": "华为音乐开屏广告"
+    },
+    "defaultSource": "华为音乐开屏广告"
+  }
+}

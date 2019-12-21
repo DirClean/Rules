@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.caiyuninterpreter.activity"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "彩云小译卸载残留"
+    },
+    "defaultSource": "彩云小译卸载残留"
+  }
+}

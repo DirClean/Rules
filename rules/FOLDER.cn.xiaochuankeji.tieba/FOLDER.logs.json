@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.xiaochuankeji.tieba"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "最右日志"
+    },
+    "defaultSource": "最右日志"
+  }
+}

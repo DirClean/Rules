@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.moyan.qqtask"
+  ],
+  "authors": [
+    "星光"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQtask首次打开软件时自动下载的登陆二维码"
+    },
+    "defaultSource": "QQtask首次打开软件时自动下载的登陆二维码"
+  }
+}

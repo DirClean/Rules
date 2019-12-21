@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.zhouyue.Bee"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "高考蜂背TBS内核日志"
+    },
+    "defaultSource": "高考蜂背TBS内核日志"
+  }
+}

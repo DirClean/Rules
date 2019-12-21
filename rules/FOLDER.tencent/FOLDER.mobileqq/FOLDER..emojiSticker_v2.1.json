@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "lamzero"
+  ],
+  "title": {
+    "source": {
+      "zh": "qq的emoji贴纸"
+    },
+    "defaultSource": "qq的emoji贴纸"
+  }
+}

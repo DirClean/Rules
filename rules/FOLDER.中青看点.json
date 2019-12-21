@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "cn.youth.news"
+  ],
+  "authors": [
+    "毕维斯"
+  ],
+  "title": {
+    "source": {
+      "zh": "中青看点 缓存"
+    },
+    "defaultSource": "中青看点 缓存"
+  }
+}

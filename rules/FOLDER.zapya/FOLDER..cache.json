@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.dewmobile.kuaiya"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "快牙缓存"
+    },
+    "defaultSource": "快牙缓存"
+  }
+}

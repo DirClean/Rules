@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.yangcong345.android.phone"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "洋葱数学TBS内核日志"
+    },
+    "defaultSource": "洋葱数学TBS内核日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.pingan.pinganwifi"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "平安WiFi卸载残留"
+    },
+    "defaultSource": "平安WiFi卸载残留"
+  }
+}

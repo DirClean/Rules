@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xiudang.jiukuaiyou.ui"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "卷皮日志"
+    },
+    "defaultSource": "卷皮日志"
+  }
+}

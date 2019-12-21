@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.kk.dict"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "快快查汉语字典日志"
+    },
+    "defaultSource": "快快查汉语字典日志"
+  }
+}

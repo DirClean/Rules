@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qzone"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ空间首次启动引导视频"
+    },
+    "defaultSource": "QQ空间首次启动引导视频"
+  }
+}

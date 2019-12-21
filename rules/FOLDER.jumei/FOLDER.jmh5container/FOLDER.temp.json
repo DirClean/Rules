@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.jm.android.jumei"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "聚美优品缓存"
+    },
+    "defaultSource": "聚美优品缓存"
+  }
+}

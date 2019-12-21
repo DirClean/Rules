@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.qqlivekid"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "小企鹅乐园日志"
+    },
+    "defaultSource": "小企鹅乐园日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.job.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "前程无忧51Job卸载残留"
+    },
+    "defaultSource": "前程无忧51Job卸载残留"
+  }
+}

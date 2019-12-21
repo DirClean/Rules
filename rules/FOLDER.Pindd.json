@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.xunmeng.pinduoduo"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "拼多多卸载残留"
+    },
+    "defaultSource": "拼多多卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.sogou.activity.src"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗搜索卸载残留"
+    },
+    "defaultSource": "搜狗搜索卸载残留"
+  }
+}

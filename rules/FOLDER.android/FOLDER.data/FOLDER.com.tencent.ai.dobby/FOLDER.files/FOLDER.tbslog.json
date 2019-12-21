@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.ai.dobby"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯叮当TBS内核日志"
+    },
+    "defaultSource": "腾讯叮当TBS内核日志"
+  }
+}

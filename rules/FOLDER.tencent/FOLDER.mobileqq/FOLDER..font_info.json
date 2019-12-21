@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "willClean": false,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "g531956119"
+  ],
+  "title": {
+    "source": {
+      "zh": "新版QQ字体文件(可替换)"
+    },
+    "defaultSource": "新版QQ字体文件(可替换)"
+  }
+}

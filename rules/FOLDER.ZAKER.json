@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.myzaker.ZAKER_Phone"
+  ],
+  "authors": [
+    "膜法和科学 "
+  ],
+  "title": {
+    "source": {
+      "zh": "ZAKER卸载残留"
+    },
+    "defaultSource": "ZAKER卸载残留"
+  }
+}

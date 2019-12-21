@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.dialer"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "MIUI推送日志"
+    },
+    "defaultSource": "MIUI推送日志"
+  }
+}

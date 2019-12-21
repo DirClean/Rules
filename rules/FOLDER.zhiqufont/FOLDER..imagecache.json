@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.zhiqupk.ziti"
+  ],
+  "authors": [
+    "GokouRuri"
+  ],
+  "title": {
+    "source": {
+      "zh": "字体大师广告缓存"
+    },
+    "defaultSource": "字体大师广告缓存"
+  }
+}

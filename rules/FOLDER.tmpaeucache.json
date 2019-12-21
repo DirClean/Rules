@@ -1,0 +1,18 @@
+{
+  "mode": 6,
+  "pkg": [],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "chr_56"
+  ],
+  "title": {
+    "source": {
+      "zh": "未知毒瘤的APK文件下载目录"
+    },
+    "defaultSource": "未知毒瘤的APK文件下载目录"
+  }
+}

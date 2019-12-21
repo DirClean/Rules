@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.lemon.faceu"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Faceu激萌日志"
+    },
+    "defaultSource": "Faceu激萌日志"
+  }
+}

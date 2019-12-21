@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.doushi.bean"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "豆视Crash日志"
+    },
+    "defaultSource": "豆视Crash日志"
+  }
+}

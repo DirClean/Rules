@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.n0n3m4.gltools"
+  ],
+  "authors": [
+    "wenjiahong"
+  ],
+  "title": {
+    "source": {
+      "zh": "GLtools广告缓存"
+    },
+    "defaultSource": "GLtools广告缓存"
+  }
+}

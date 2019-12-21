@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.tencent.qlauncher.lite"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "微桌面卸载残留"
+    },
+    "defaultSource": "微桌面卸载残留"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "com.kingpoint.gmcchh"
+  ],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": false,
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "广东移动自动更新安装包"
+    },
+    "defaultSource": "广东移动自动更新安装包"
+  }
+}

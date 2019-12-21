@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qiyi.video"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱奇艺图片缓存"
+    },
+    "defaultSource": "爱奇艺图片缓存"
+  }
+}

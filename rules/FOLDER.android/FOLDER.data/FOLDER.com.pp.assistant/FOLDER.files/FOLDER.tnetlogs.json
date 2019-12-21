@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.pp.assistant"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "PP助手日志"
+    },
+    "defaultSource": "PP助手日志"
+  }
+}

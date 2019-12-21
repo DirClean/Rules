@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.youdao.dict"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易有道词典卸载残留"
+    },
+    "defaultSource": "网易有道词典卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.hisunflytone.android"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "咪咕圈圈广告"
+    },
+    "defaultSource": "咪咕圈圈广告"
+  }
+}

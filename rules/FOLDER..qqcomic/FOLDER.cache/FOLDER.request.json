@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qq.ac.android"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "腾讯动漫缓存"
+    },
+    "defaultSource": "腾讯动漫缓存"
+  }
+}

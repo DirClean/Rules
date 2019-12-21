@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.tencent.karaoke"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "全民K歌TBS内核日志"
+    },
+    "defaultSource": "全民K歌TBS内核日志"
+  }
+}

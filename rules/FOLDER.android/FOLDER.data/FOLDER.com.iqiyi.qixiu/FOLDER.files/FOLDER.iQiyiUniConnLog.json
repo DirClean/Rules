@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.iqiyi.qixiu"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "奇秀直播日志"
+    },
+    "defaultSource": "奇秀直播日志"
+  }
+}

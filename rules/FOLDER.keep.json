@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.gotokeep.keep"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "Keep卸载残留"
+    },
+    "defaultSource": "Keep卸载残留"
+  }
+}

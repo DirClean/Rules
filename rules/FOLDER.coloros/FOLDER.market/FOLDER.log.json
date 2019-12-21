@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.oppo.market"
+  ],
+  "authors": [
+    "资深软件来源"
+  ],
+  "title": {
+    "source": {
+      "zh": "ColorOS应用商店日志"
+    },
+    "defaultSource": "ColorOS应用商店日志"
+  }
+}

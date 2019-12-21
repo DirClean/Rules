@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.qicai.translate"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "出国翻译官缓存"
+    },
+    "defaultSource": "出国翻译官缓存"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.smile.gifmaker"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "快手日志"
+    },
+    "defaultSource": "快手日志"
+  }
+}

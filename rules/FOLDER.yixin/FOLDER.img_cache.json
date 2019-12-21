@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "im.yixin"
+  ],
+  "authors": [
+    "A66RUM"
+  ],
+  "title": {
+    "source": {
+      "zh": "易信缓存"
+    },
+    "defaultSource": "易信缓存"
+  }
+}

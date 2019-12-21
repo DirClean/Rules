@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.duowan.groundhog.mctools"
+  ],
+  "authors": [
+    "KeiW"
+  ],
+  "title": {
+    "source": {
+      "zh": "多玩垃圾資料夾"
+    },
+    "defaultSource": "多玩垃圾資料夾"
+  }
+}

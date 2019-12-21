@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.xinshuru.inputmethod"
+  ],
+  "authors": [
+    "Manshaoco"
+  ],
+  "title": {
+    "source": {
+      "zh": "手心输入法 日志目录"
+    },
+    "defaultSource": "手心输入法 日志目录"
+  }
+}

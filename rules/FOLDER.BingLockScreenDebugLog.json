@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.bing.lockscreen"
+  ],
+  "authors": [
+    "ymckc"
+  ],
+  "title": {
+    "source": {
+      "zh": "微软必应锁屏日志文件"
+    },
+    "defaultSource": "微软必应锁屏日志文件"
+  }
+}

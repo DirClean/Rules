@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.mymoney"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "随手记启动图广告"
+    },
+    "defaultSource": "随手记启动图广告"
+  }
+}

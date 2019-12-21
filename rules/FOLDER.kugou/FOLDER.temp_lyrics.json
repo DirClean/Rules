@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.kugou.android"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷狗音乐歌词缓存"
+    },
+    "defaultSource": "酷狗音乐歌词缓存"
+  }
+}

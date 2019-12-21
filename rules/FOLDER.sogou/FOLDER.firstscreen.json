@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.sohu.inputmethod.sogou"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "搜狗输入法启动图缓存"
+    },
+    "defaultSource": "搜狗输入法启动图缓存"
+  }
+}

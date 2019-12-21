@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.changba"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "唱吧日志"
+    },
+    "defaultSource": "唱吧日志"
+  }
+}

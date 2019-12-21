@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.huawei.hwid"
+  ],
+  "authors": [
+    "aluoblog"
+  ],
+  "title": {
+    "source": {
+      "zh": "华为移动服务的日志文件"
+    },
+    "defaultSource": "华为移动服务的日志文件"
+  }
+}

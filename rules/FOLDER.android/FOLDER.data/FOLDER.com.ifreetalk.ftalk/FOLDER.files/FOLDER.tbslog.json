@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.ifreetalk.ftalk"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "派派TBS内核日志"
+    },
+    "defaultSource": "派派TBS内核日志"
+  }
+}

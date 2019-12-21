@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.jxedt"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "驾校一点通缓存"
+    },
+    "defaultSource": "驾校一点通缓存"
+  }
+}

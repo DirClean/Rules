@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.kaola"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易考拉海购卸载残留"
+    },
+    "defaultSource": "网易考拉海购卸载残留"
+  }
+}

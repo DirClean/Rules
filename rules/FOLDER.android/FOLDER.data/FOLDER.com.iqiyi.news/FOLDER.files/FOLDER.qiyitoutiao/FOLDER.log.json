@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.iqiyi.news"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "爱奇艺头条日志"
+    },
+    "defaultSource": "爱奇艺头条日志"
+  }
+}

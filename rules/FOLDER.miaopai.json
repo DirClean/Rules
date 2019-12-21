@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.yixia.videoeditor"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "秒拍卸载残留"
+    },
+    "defaultSource": "秒拍卸载残留"
+  }
+}

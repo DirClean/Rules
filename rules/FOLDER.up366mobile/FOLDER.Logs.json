@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.up366.mobile"
+  ],
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "天学网APP日志"
+    },
+    "defaultSource": "天学网APP日志"
+  }
+}

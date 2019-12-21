@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.netease.newsreader.activity"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "网易新闻卸载残留"
+    },
+    "defaultSource": "网易新闻卸载残留"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.tencent.qqpim"
+  ],
+  "authors": [
+    "TayLin"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ同步助手标记id\r（不包含用户相片"
+    },
+    "defaultSource": "QQ同步助手标记id\r（不包含用户相片"
+  }
+}

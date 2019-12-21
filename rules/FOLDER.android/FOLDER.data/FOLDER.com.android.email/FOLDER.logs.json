@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.android.email"
+  ],
+  "authors": [
+    "qyd0801"
+  ],
+  "title": {
+    "source": {
+      "zh": "魅族邮件日志"
+    },
+    "defaultSource": "魅族邮件日志"
+  }
+}

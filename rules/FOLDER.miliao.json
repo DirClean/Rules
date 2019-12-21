@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.xiaomi.channel."
+  ],
+  "authors": [
+    "Fairchildp"
+  ],
+  "title": {
+    "source": {
+      "zh": "米聊卸载残留"
+    },
+    "defaultSource": "米聊卸载残留"
+  }
+}

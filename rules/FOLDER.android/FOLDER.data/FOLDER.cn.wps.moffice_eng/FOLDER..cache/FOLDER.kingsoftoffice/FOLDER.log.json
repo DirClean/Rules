@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.wps.moffice_eng"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "WPS Office日志"
+    },
+    "defaultSource": "WPS Office日志"
+  }
+}

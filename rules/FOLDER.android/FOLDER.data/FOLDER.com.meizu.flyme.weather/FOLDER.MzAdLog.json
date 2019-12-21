@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.meizu.flyme.weather"
+  ],
+  "authors": [
+    "qyd0801"
+  ],
+  "title": {
+    "source": {
+      "zh": "魅族天气广告日志"
+    },
+    "defaultSource": "魅族天气广告日志"
+  }
+}

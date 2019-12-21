@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.duowan.kiwi"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "虎牙直播推送日志"
+    },
+    "defaultSource": "虎牙直播推送日志"
+  }
+}

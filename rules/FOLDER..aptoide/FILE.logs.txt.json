@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cm.aptoide.pt"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "Aptoide日志"
+    },
+    "defaultSource": "Aptoide日志"
+  }
+}

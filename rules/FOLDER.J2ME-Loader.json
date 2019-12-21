@@ -1,0 +1,20 @@
+{
+  "mode": 6,
+  "pkg": [
+    "ru.playsoftware.j2meloader"
+  ],
+  "willClean": false,
+  "needUninstall": true,
+  "notReplace": true,
+  "carefully_clean": true,
+  "carefully_replace": true,
+  "authors": [
+    "Tragic Life"
+  ],
+  "title": {
+    "source": {
+      "zh": "J2ME 模拟器 数据目录"
+    },
+    "defaultSource": "J2ME 模拟器 数据目录"
+  }
+}

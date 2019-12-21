@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.wifimanager"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "WiFi管家缓存"
+    },
+    "defaultSource": "WiFi管家缓存"
+  }
+}

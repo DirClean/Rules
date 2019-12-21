@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.oray.sunlogin"
+  ],
+  "authors": [
+    "ymckc"
+  ],
+  "title": {
+    "source": {
+      "zh": "向日葵远程控制日志文件"
+    },
+    "defaultSource": "向日葵远程控制日志文件"
+  }
+}

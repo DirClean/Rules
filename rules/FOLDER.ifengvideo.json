@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.ifeng.newvideo"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "凤凰视频卸载残留"
+    },
+    "defaultSource": "凤凰视频卸载残留"
+  }
+}

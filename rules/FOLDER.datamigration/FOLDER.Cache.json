@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "org.newstand.datamigration"
+  ],
+  "authors": [
+    "neoFelhz"
+  ],
+  "title": {
+    "source": {
+      "zh": "数据迁移 缓存"
+    },
+    "defaultSource": "数据迁移 缓存"
+  }
+}

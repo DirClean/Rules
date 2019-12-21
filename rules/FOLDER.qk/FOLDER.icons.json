@@ -1,0 +1,15 @@
+{
+  "mode": 3,
+  "pkg": [
+    "com.jifen.qukan"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "趣头条悬浮广告"
+    },
+    "defaultSource": "趣头条悬浮广告"
+  }
+}

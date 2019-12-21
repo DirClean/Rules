@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.jingdong.app.reader"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "京东阅读卸载残留"
+    },
+    "defaultSource": "京东阅读卸载残留"
+  }
+}

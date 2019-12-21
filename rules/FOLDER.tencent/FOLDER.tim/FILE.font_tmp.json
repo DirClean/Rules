@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.tim"
+  ],
+  "authors": [
+    "LimaXRomeo"
+  ],
+  "title": {
+    "source": {
+      "zh": "Tim字体缓存（可替换）"
+    },
+    "defaultSource": "Tim字体缓存（可替换）"
+  }
+}

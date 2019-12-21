@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.tencent.mobileqq"
+  ],
+  "authors": [
+    "weiym"
+  ],
+  "title": {
+    "source": {
+      "zh": "QQ的OCR拍照"
+    },
+    "defaultSource": "QQ的OCR拍照"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.youku.phone"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "优酷反馈日志"
+    },
+    "defaultSource": "优酷反馈日志"
+  }
+}

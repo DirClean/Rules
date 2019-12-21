@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "org.newstand.datamigration"
+  ],
+  "authors": [
+    "Zero_Light"
+  ],
+  "title": {
+    "source": {
+      "zh": "数据迁移 日志"
+    },
+    "defaultSource": "数据迁移 日志"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "cn.kuwo.player"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "酷我音乐日志"
+    },
+    "defaultSource": "酷我音乐日志"
+  }
+}

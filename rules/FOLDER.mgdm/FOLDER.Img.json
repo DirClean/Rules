@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.hisunflytone.android"
+  ],
+  "authors": [
+    "Zxlusersjly"
+  ],
+  "title": {
+    "source": {
+      "zh": "咪咕圈圈图片缓存"
+    },
+    "defaultSource": "咪咕圈圈图片缓存"
+  }
+}

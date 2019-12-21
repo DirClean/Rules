@@ -1,0 +1,15 @@
+{
+  "mode": 1,
+  "pkg": [
+    "com.youku.phone"
+  ],
+  "authors": [
+    "Doubi250"
+  ],
+  "title": {
+    "source": {
+      "zh": "优酷播放缓存"
+    },
+    "defaultSource": "优酷播放缓存"
+  }
+}

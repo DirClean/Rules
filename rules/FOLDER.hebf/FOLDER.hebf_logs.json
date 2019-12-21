@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.androidvip.hebf"
+  ],
+  "authors": [
+    "coolapk666"
+  ],
+  "title": {
+    "source": {
+      "zh": "HEBF优化日志文件"
+    },
+    "defaultSource": "HEBF优化日志文件"
+  }
+}

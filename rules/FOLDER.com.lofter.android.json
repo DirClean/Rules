@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.lofter.android"
+  ],
+  "authors": [
+    "String2017"
+  ],
+  "title": {
+    "source": {
+      "zh": "LOFTER卸载残留"
+    },
+    "defaultSource": "LOFTER卸载残留"
+  }
+}

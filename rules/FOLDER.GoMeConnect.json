@@ -1,0 +1,15 @@
+{
+  "mode": 4,
+  "pkg": [
+    "com.gome.eshopnew"
+  ],
+  "authors": [
+    "vr610"
+  ],
+  "title": {
+    "source": {
+      "zh": "国美卸载残留"
+    },
+    "defaultSource": "国美卸载残留"
+  }
+}

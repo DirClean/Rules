@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "com.mixplorer"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "MiXplorer日志"
+    },
+    "defaultSource": "MiXplorer日志"
+  }
+}

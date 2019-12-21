@@ -1,0 +1,15 @@
+{
+  "mode": 2,
+  "pkg": [
+    "one.codehz.container"
+  ],
+  "authors": [
+    "wq182"
+  ],
+  "title": {
+    "source": {
+      "zh": "容器日志"
+    },
+    "defaultSource": "容器日志"
+  }
+}
