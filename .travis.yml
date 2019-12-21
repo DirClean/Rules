@@ -1,7 +1,7 @@
 language: java
 before_install:
   - git clone https://github.com/DirClean/Rules.git ~/publish -b docs
-  - wget https://github.com/DirClean/BackwardParser/releases/download/199383152/converter-1.0.jar
+  - wget https://github.com/DirClean/BackwardParser/releases/download/199422783/converter-1.0.jar
   - >
     if [ $TRAVIS_BRANCH = master ];
     then
