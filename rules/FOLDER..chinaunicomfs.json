@@ -1,11 +1,6 @@
 {
-  "mode": 0,
+  "mode": 1,
   "pkg": [],
-  "willClean": false,
-  "needUninstall": false,
-  "notReplace": false,
-  "carefully_clean": false,
-  "carefully_replace": false,
   "authors": [
     "G小金"
   ],

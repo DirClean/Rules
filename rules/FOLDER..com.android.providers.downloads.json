@@ -8,7 +8,8 @@
   ],
   "title": {
     "source": {
-      "zh": "MIUI系统下载管理日志"
+      "zh": "MIUI系统下载管理日志",
+      "en": "MIUI downloads logs"
     },
     "defaultSource": "MIUI系统下载管理日志"
   }

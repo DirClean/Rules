@@ -11,7 +11,8 @@
   ],
   "title": {
     "source": {
-      "zh": "EveryPlay视频缓存"
+      "zh": "EveryPlay视频缓存",
+      "en": "EveryPlay cache"
     },
     "defaultSource": "EveryPlay视频缓存"
   }

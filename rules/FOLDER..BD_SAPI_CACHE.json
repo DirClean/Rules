@@ -6,7 +6,8 @@
   ],
   "title": {
     "source": {
-      "zh": "百度推送日志"
+      "zh": "百度推送日志",
+      "en": "Baidu push logs"
     },
     "defaultSource": "百度推送日志"
   }

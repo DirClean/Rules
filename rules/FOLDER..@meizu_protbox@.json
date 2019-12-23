@@ -11,7 +11,8 @@
   ],
   "title": {
     "source": {
-      "zh": "flyme加密区"
+      "zh": "flyme加密区",
+      "en": "Flyme encrypted files"
     },
     "defaultSource": "flyme加密区"
   }

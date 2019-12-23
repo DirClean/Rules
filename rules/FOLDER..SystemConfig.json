@@ -8,7 +8,8 @@
   ],
   "title": {
     "source": {
-      "zh": "支付宝硬件识别信息"
+      "zh": "支付宝硬件识别信息",
+      "en": "Alipay hardware ID"
     },
     "defaultSource": "支付宝硬件识别信息"
   }

@@ -11,7 +11,8 @@
   ],
   "title": {
     "source": {
-      "zh": "Resurrection统计"
+      "zh": "Resurrection统计",
+      "en": "Resurrection Stats"
     },
     "defaultSource": "Resurrection统计"
   }
