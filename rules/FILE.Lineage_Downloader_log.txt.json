@@ -8,7 +8,8 @@
   ],
   "title": {
     "source": {
-      "zh": "Lineage Downloader日志"
+      "zh": "Lineage Downloader日志",
+      "en": "Lineage Dowlnoader log"
     },
     "defaultSource": "Lineage Downloader日志"
   }

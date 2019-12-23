@@ -1,11 +1,6 @@
 {
-  "mode": 0,
+  "mode": 7,
   "pkg": [],
-  "willClean": false,
-  "needUninstall": false,
-  "notReplace": true,
-  "carefully_clean": false,
-  "carefully_replace": false,
   "authors": [
     "FFF"
   ],

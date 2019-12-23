@@ -11,7 +11,8 @@
   ],
   "title": {
     "source": {
-      "zh": "谷歌拼音输入法自动生成图片"
+      "zh": "谷歌拼音输入法自动生成图片",
+      "en": "Google Pinyin Input generated images"
     },
     "defaultSource": "谷歌拼音输入法自动生成图片"
   }

@@ -11,7 +11,8 @@
   ],
   "title": {
     "source": {
-      "zh": "aicp垃圾文件"
+      "zh": "aicp垃圾文件",
+      "en": "AICP ROM files"
     },
     "defaultSource": "aicp垃圾文件"
   }

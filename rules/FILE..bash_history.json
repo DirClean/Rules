@@ -6,8 +6,9 @@
   ],
   "title": {
     "source": {
-      "zh": "Bash 命令执行缓存"
+      "zh": "Bash 命令执行缓存",
+      "en": "Bash history"
     },
-    "defaultSource": "Bash 命令执行缓存"
+    "defaultSource": "Bash history"
   }
 }

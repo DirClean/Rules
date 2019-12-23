@@ -6,7 +6,8 @@
   ],
   "title": {
     "source": {
-      "zh": "OpenGapps刷入日志"
+      "zh": "OpenGapps 刷入日志",
+      "en": "OpenGapps Flash Logs"
     },
     "defaultSource": "OpenGapps刷入日志"
   }

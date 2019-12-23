@@ -6,7 +6,8 @@
   ],
   "title": {
     "source": {
-      "zh": "日志文件"
+      "zh": "日志文件",
+      "en": "Log"
     },
     "defaultSource": "日志文件"
   }

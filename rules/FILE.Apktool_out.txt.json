@@ -8,7 +8,8 @@
   ],
   "title": {
     "source": {
-      "zh": "Apktool助手输出日志"
+      "zh": "Apktool助手输出日志",
+      "en": "ApkTool Assistant output log"
     },
     "defaultSource": "Apktool助手输出日志"
   }
