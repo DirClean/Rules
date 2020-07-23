@@ -1,0 +1,19 @@
+{
+  "mode": 1,
+  "pkg": ["com.tencent.mobileqq"],
+  "willClean": true,
+  "needUninstall": false,
+  "notReplace": true,
+  "carefully_clean": false,
+  "carefully_replace": true,
+  "authors": [
+    "singleNeuron"
+  ],
+  "title": {
+    "source": {
+      "zh-rCN": "QQ聊天图片缓存",
+      "en-US": "QQ Chat Pic Cache"
+    },
+    "defaultSource": "QQ Chat Pic Cache"
+  }
+}
