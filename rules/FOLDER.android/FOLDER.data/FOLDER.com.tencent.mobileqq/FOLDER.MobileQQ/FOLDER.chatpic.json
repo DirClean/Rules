@@ -1,11 +1,7 @@
 {
   "mode": 1,
   "pkg": ["com.tencent.mobileqq"],
-  "willClean": true,
   "needUninstall": false,
-  "notReplace": true,
-  "carefully_clean": false,
-  "carefully_replace": true,
   "authors": [
     "singleNeuron"
   ],
